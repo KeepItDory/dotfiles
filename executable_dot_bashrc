@@ -1,0 +1,189 @@
+#
+# ~/.bashrc
+#
+
+# If not running interactively, don't do anything
+[[ $- != *i* ]] && return
+
+[[ -f ~/.welcome_screen ]] && . ~/.welcome_screen
+
+_set_liveuser_PS1() {
+	PS1='[\u@\h \W]\$ '
+	if [ "$(whoami)" = "liveuser" ]; then
+		local iso_version="$(grep ^VERSION= /usr/lib/endeavouros-release 2>/dev/null | cut -d '=' -f 2)"
+		if [ -n "$iso_version" ]; then
+			local prefix="eos-"
+			local iso_info="$prefix$iso_version"
+			PS1="[\u@$iso_info \W]\$ "
+		fi
+	fi
+}
+_set_liveuser_PS1
+unset -f _set_liveuser_PS1
+
+ShowInstallerIsoInfo() {
+	local file=/usr/lib/endeavouros-release
+	if [ -r $file ]; then
+		cat $file
+	else
+		echo "Sorry, installer ISO info is not available." >&2
+	fi
+}
+
+alias ls='ls --color=auto'
+alias ll='ls -lav --ignore=..' # show long listing of all except ".."
+alias l='ls -lav --ignore=.?*' # show long listing but no hidden dotfiles except "."
+alias nano='nano -w'
+alias grep="grep --color=auto"
+alias ip="ip -color"
+
+# fix sudo aliases
+alias sudo="sudo "
+
+[[ "$(whoami)" = "root" ]] && return
+
+[[ -z "$FUNCNEST" ]] && export FUNCNEST=100 # limits recursive functions, see 'man bash'
+
+## Use the up and down arrow keys for finding a command in history
+## (you can write some initial letters of the command first).
+bind '"\e[A":history-search-backward'
+bind '"\e[B":history-search-forward'
+
+################################################################################
+## Some generally useful functions.
+## Consider uncommenting aliases below to start using these functions.
+##
+## October 2021: removed many obsolete functions. If you still need them, please look at
+## https://github.com/EndeavourOS-archive/EndeavourOS-archiso/raw/master/airootfs/etc/skel/.bashrc
+
+_open_files_for_editing() {
+	# Open any given document file(s) for editing (or just viewing).
+	# Note1:
+	#    - Do not use for executable files!
+	# Note2:
+	#    - Uses 'mime' bindings, so you may need to use
+	#      e.g. a file manager to make proper file bindings.
+
+	if [ -x /usr/bin/exo-open ]; then
+		echo "exo-open $@" >&2
+		setsid exo-open "$@" >&/dev/null
+		return
+	fi
+	if [ -x /usr/bin/xdg-open ]; then
+		for file in "$@"; do
+			echo "xdg-open $file" >&2
+			setsid xdg-open "$file" >&/dev/null
+		done
+		return
+	fi
+
+	echo "$FUNCNAME: package 'xdg-utils' or 'exo' is required." >&2
+}
+
+#------------------------------------------------------------
+
+## Aliases for the functions above.
+## Uncomment an alias if you want to use it.
+##
+
+# alias ef='_open_files_for_editing'     # 'ef' opens given file(s) for editing
+# alias pacdiff=eos-pacdiff
+################################################################################
+
+### COLORIZE PACMAN (PACS)
+pacsearch() {
+	echo -e "$(
+		pacman -Ss $@ | sed
+		-e 's#current/.*#\033[1;31m&\033[0;37m#g'
+		-e 's#extra/.*#\033[0;32m&\033[0;37m#g'
+		-e 's#community/.*#\033[1;35m&\033[0;37m#g'
+		-e 's#^.*/.* [0-9].*#\033[0;36m&\033[0;37m#g'
+	)"
+}
+
+# download youtube video as audio file
+function yt2mp3 {
+	if [ $# -ne 2 ]; then
+		echo "First and second parameter must be set!"
+		echo "(Usage: yt2mp3 <video-id> <folder/to/store/in>)"
+		return
+	fi
+
+	local base_path="$2"
+	if [[ "$base_path" != */ ]]; then
+		base_path="$base_path/"
+	fi
+
+	echo "youtube-dl --newline -i --restrict-filenames -o '$base_path%(title)s.%(ext)s' -x --audio-format mp3 --audio-quality 0 --embed-thumbnail https://www.youtube.com/watch?v=$1"
+	youtube-dl --newline -i --restrict-filenames -o "$base_path%(title)s.%(ext)s" -x --audio-format mp3 --audio-quality 0 --embed-thumbnail https://www.youtube.com/watch?v=$1 | less
+}
+
+# upgrade all outdated python libraries
+function pyup {
+	if [ -z "$1" ]; then
+		echo "A virtual environment must be specified"
+		return
+	else
+		workon $1
+		pip install -U pip
+		pip list --outdated --format=freeze --no-python-version-warning --disable-pip-version-check | grep -v "^-e" | cut -d = -f 1 | xargs -n1 pip install -U --no-python-version-warning --disable-pip-version-check --no-warn-conflicts
+	fi
+}
+
+# Query package info
+function query {
+	case "$1" in
+	se)
+		yay -Slq | fzf -q "$2" --multi --preview "paru -Si {1} && paru -Gc {1}" | xargs -r paru -Si
+		;;
+	sel)
+		yay -Qsq | fzf -q "$2" --multi --preview "paru -Qi {1}" | xargs -r paru -Qi
+		;;
+	f2p)
+		find // -type f,d,l -print0 2>/dev/null | fzf -q "$2" --scheme=path --preview 'bat -f {} 2> /dev/null || ls -lA --color=always {}' --read0 --print0 | xargs -r --null paru -Qo
+		;;
+	p2f)
+		local file_list=$(paru -Qsq | fzf -q "$2" --preview 'paru -Qi {1}' | xargs -r paru -Qlq)
+		if [ -n "$file_list" ]; then
+			echo "$file_list" | fzf --multi --scheme=path --preview 'bat -f {} 2> /dev/null || ls -lA --color=always {}' | xargs -r echo
+		fi
+		;;
+	deps)
+		yay -Qdq | fzf -q "$2" --multi --preview 'paru -Qi {1}' | xargs -r paru -Qi
+		;;
+	expl)
+		yay -Qetq | fzf -q "$2" --multi --preview 'paru -Qi {1}' | xargs -r paru -Qi
+		;;
+	orph)
+		yay -Qdtq | fzf -q "$2" --multi --preview 'paru -Qi {1}' | xargs -r paru -Qi
+		;;
+	*)
+		echo "Unknown command. Available options: se sel f2p p2f deps expl orph"
+		;;
+	esac
+}
+
+# Doom Emacs
+export PATH="$HOME/.emacs.d/bin:$PATH"
+alias emacs="emacsclient -c -a 'emacs'"
+
+# used by various programs to determine default ediiots
+export EDITOR=nvim
+export VISUAL=nvim
+
+# bash environments in which powerline is used
+export POWERLINE_ENVS=(tmux xfce4-terminal konsole codium alacritty)
+
+# bash environments in which archlinux update news are displayed at the beginning
+export PARU_NEWS_ENVS=(tmux xfce4-terminal konsole alacritty)
+
+# python-virtualenvwrapper integration
+source /usr/bin/virtualenvwrapper.sh
+
+# bash completion
+[ -r /usr/share/bash-completion/bash_completion ] && . /usr/share/bash-completion/bash_completion
+
+# $PAT:H
+export PATH=$PATH:/
+# Neofetch
+neofetch
