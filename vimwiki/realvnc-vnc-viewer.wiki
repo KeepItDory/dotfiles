@@ -1,0 +1,3 @@
+= realvnc-vnc-viewer =
+== remote viewer ==
+- _$ yay -S realvnc-vnc-viewer_

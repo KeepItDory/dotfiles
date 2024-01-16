@@ -1,0 +1,60 @@
+= LINUX CHEAT SHEETS =
+
+* Terminal
+  * Fun Commands
+    - No more secrets
+      $ nms *phrase*
+    - cmatrix
+      Matrix like
+      $ cmatrix
+    - cava
+      Music visualizer
+      $ cava
+    - cal
+      Calander
+      $ cal
+    - asciiquarium
+      $ asciiquarium
+      An aquarium for your terminal!
+    - Figlet
+      Turn text into ascii art banners
+      figlet *phrase*
+    - Banner
+      Like figlet. Turns text into ascii art
+      $ banner *phrase*
+    - Boxes
+      Like figlet but with boxes
+      $ boxes *phrase*
+    - sl
+      Trains! WOO WOOOO!!
+      $ sl
+    - oneko
+      Adds an animated cat that follow your mouse cursor
+      $oneko
+    - nyancat
+      POP TART CAT!
+      $ nyancat
+    - pom
+      Pomodoro timer that aids productivety (somehow...)
+      $ pom
+    - bb
+      Presents a variety of animations
+      $ bb
+      - options
+        | Command      | Option                            |
+        | -help        | list commands                     |
+        | -driver      | linux, slang, X11, stdout, stderr |
+        | -kbddriver   | slang, X11, stdin                 |
+        | -mousedriver | X11, gpm, dos                     |
+        | -width       | Set width                         |
+        | -height      | Set height                        |
+        | -minwidth    |                                   |
+        | -maxwidth    |                                   |
+        | -minheight   |                                   |
+        | -maxheight   |                                   |
+        | -dim         | Enable half bright                |
+| -bold        | Enable bold                       |
+| -normal      | Enable normal                     |
+| -boldfont    | Enable bold font                  |
+        | -inverse     | Enable inverse rendering          |
+        | -loop        | loop forever                      |

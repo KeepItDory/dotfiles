@@ -1,0 +1,7 @@
+=Package=
+== yay ==
+
+Yay is a package manager 'manager' for arch, using [[pacman]]
+
+* Install using
+  _$ sudo pacman -S yay_

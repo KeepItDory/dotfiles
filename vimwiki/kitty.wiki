@@ -1,0 +1,3 @@
+= kitty =
+== a terminal ==
+- _$ yay -S kitty_

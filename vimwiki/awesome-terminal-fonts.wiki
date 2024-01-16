@@ -1,0 +1,3 @@
+= Awesome terminal fonts =
+==  Font's. They're awesome ==
+- $ yay -S awesome-terminal-fonts

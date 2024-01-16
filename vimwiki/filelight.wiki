@@ -1,0 +1,3 @@
+= filelight =
+== a pie diagram file and drive manager/viewer ==
+- $ yay -S filelight

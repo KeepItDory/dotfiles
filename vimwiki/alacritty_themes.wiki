@@ -1,0 +1,3 @@
+= Alacritty Themes =
+== A huge collection of alacritty themes with a selector application ==
+- $ yay -S alacritty-themes

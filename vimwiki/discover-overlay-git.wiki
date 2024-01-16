@@ -1,0 +1,3 @@
+= discover-overlay-git =
+== a customizable discord overlay application ==
+- _$ yay -S discover-overlay-git_

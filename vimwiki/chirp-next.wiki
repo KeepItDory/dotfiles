@@ -1,0 +1,3 @@
+= chirp-next =
+== a tool for programming radios ==
+- $ yay -S chirp-next

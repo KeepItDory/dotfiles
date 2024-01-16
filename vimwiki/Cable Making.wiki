@@ -1,0 +1,9 @@
+= Cable Making =
+== Cable making notes ==
+
+Required Items
+  - [[Cable Sleeving]]
+  - 3:1 Heat Shrink
+  - 20-24 aug wire
+  - USB connectors
+  - GX12, GX16, XLR or other connector for the center

@@ -1,0 +1,3 @@
+= downgrade =
+== a package manager downgrade tool ==
+- $ yay -S downgrade

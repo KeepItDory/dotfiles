@@ -1,0 +1,3 @@
+= krita =
+== Edit and paint images ==
+- _$ yay -S krita_

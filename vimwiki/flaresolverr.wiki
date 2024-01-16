@@ -1,0 +1,5 @@
+= flaresolverr =
+== wait, wtf even is this? ==
+- $ yay -S flaresolverr
+- $ systemctl enable flaresolverr.service
+- $ systemctl start flaresolverr.service

@@ -1,0 +1,3 @@
+= obapps3 =
+== Openbox config tool ==
+- _$ yay -S obapps3_

@@ -1,0 +1,3 @@
+= syncthing =
+== cross platform sync utility ==
+- _$ yay -S syncthing_

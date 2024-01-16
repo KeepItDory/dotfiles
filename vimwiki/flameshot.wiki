@@ -1,0 +1,3 @@
+= flameshot =
+== a screenshot tool ==
+- _$ yay -S flameshot_

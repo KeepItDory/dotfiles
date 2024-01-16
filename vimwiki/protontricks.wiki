@@ -1,0 +1,3 @@
+= protontricks =
+== Install dll's a other components for proton ==
+- _$ yay -S protontricks_

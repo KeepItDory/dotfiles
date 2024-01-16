@@ -1,0 +1,3 @@
+= okular =
+== pdf viewer ==
+- _$ yay -S okular_ 

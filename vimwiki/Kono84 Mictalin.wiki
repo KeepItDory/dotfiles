@@ -1,0 +1,16 @@
+= Kono 84 Mictalin =
+* Plastic Case
+* Steel plate
+* [[Switches]]
+  - MMD Holy Panda Clones
+    Tactile
+    67 G springs?
+* Keycaps
+  - Jominez Mictalin Clones
+* Issues
+  - A lot of switches seem to be sticking, although most seem dealt with
+    The switches are awful tight, causing the stem to stick. Solutions include but not limited to
+    Filing the keebs plate to be more open
+    Changing the switch
+    Perhaps opening and rebuilding switch
+  - the Y key is sticking

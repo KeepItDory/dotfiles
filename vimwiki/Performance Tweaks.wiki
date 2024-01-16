@@ -1,0 +1,4 @@
+= Performance tweaks =
+== Notes on system performance ==
+
+* [[Resizable BAR]]

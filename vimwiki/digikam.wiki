@@ -1,0 +1,3 @@
+= digikam =
+== a photography editor =
+- $ yay -S digikam

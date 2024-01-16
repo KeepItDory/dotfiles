@@ -1,0 +1,24 @@
+= tmux =
+== a terminal container and multiplexer ==
+- _$ yay -S tmux_
+
+- Hotkeys
+  | Key               | Action                    |
+  | C a               | Tmux Prefix               |
+  | PX ?              | List commands             |
+  | C d               | Close PANE                |
+  | PX c              | Navigate Panes            |
+  | PX-C <arrow-keys> | Resize pane               |
+  | PX z              | Make pane fullscreen      |
+  | PX <arrow-keys>   | Create Window             |
+  | PX \              | Veritcal Split            |
+  | PX -              | Horizontal Split          |
+  | PX d              | Detatch session           |
+  | PX D              | Detatch session w/ choice |
+  | PX ,              | Rename current window     |
+  | PX r              | Reload Tmux               |
+- Commands
+  | tmux ls                                  | list sessions                            |
+  | tmux attach -t *#/*session-name*         | Attach session *number OR *session-name* |
+  | tmux new -s *session-name*               | New session                              |
+  | tmux rename-session -t *# *session-name* | Rename a session                         |

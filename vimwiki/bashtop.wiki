@@ -1,0 +1,3 @@
+= bashtop =
+== command line interface system resources monitor ==
+- $ yay -S bashtop

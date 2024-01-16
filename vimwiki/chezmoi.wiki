@@ -1,0 +1,10 @@
+= chezmoi =
+== a tool that backups dotfiles and similar files to your github repository ==
+- $ yay -S chezmoi
+
+* Basic guide
+  * Commands
+    * _$ chezmoi add_
+      - adds files to chezmoi local repo
+    * _$ chezmoi list_
+      - lists all files in chezmoi local repo

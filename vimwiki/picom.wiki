@@ -1,0 +1,9 @@
+= picom =
+== a compositor ==
+- _$ yay -S picom_
+
+* Notes
+ - Its easy to set app transparency in picom for things like bars with the following
+   opacity-rule = [
+    "80:class_g = 'Bar'",
+ - ];

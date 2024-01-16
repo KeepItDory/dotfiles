@@ -1,0 +1,11 @@
+= Linux Notes =
+== Ki's notes ==
+
+This is a collection of notes for Linux, such as cheat sheets for hotkeys, how to setup programs
+and your base linux system along with various other related things.
+
+* [[System tasks]]
+* [[Linux System Setup]]
+* [[Packages]]
+* [[Performance Tweaks]]
+* [[Linux Cheat Sheets]]

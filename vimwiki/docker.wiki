@@ -1,0 +1,11 @@
+= docker =
+== replicatable containers ==
+- _$ yay -S docker_
+
+* Docker Guide
+  * Notes
+    - List running docker images with _$ docker ps_
+    - List all docker images with _$ docker ps -a_
+    - Start a docker container with _$ docker start $CONTAINER_
+    - And restart with _$ docker restart $CONTAINER_
+    - Remove an image with _$ docker remove $CONTAINER_

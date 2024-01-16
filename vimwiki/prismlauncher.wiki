@@ -1,0 +1,3 @@
+= prismlauncher =
+== The best minecraft launcher and mod manager, hands down ==
+- _$ yay -S prismlauncher_

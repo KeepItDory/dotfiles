@@ -1,0 +1,3 @@
+= protonvpn =
+== The protonvpn client ==
+- _$ yay -S protonvpn_

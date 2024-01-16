@@ -1,0 +1,3 @@
+= qbittorrent = 
+== probably the best torrent client ==
+- _$ yay -S qbittorrent_

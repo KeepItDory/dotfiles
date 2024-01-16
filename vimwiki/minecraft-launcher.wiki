@@ -1,0 +1,3 @@
+= minecraft-launcher =
+== official minecraft launcher ==
+- _$ yay -S minecraft-launcher_

@@ -1,0 +1,3 @@
+= sxhkd =
+== a hotkey daemon ==
+- _$ yay -S sxhkd_

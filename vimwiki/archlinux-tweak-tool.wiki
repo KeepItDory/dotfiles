@@ -1,0 +1,2 @@
+= THE arch linux tweak tool =
++ $ yay -S archlinux-tweak-tool

@@ -1,0 +1,3 @@
+= python-pywalfox =
+== Theme firefox with pywal ==
+- _$ yay -S python-pywalfox_

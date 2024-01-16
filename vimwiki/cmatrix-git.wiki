@@ -1,0 +1,3 @@
+= cmatrix =
+== View the matrix in your terminal ==
+- $ yay -S cmatrix-git

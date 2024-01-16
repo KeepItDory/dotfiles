@@ -1,0 +1,3 @@
+= etcher-bin=
+== a usb image burner =
+- $ yay -S etcher-bin

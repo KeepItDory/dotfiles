@@ -1,0 +1,3 @@
+= corectrl =
+== a tool for controling cpu and gpu clocks and performance profiles ==
+- $ yay -S corectrl

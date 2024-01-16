@@ -1,0 +1,3 @@
+= gparted =
+== a partition manager ==
+- _$ yay -S gparted_

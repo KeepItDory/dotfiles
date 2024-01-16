@@ -1,0 +1,3 @@
+= gpick =
+== colorpicker ==
+- _$ yay -S gpick_

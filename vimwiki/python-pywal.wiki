@@ -1,0 +1,3 @@
+= python-pywal =
+== A colorscheme generator using base16 ==
+- _$ yay -S python-pywal_

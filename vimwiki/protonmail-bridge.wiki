@@ -1,0 +1,3 @@
+= protonmail-bridge =
+== needed for protonmail to work with email clients like thunderbird ==
+- _$ yay -S protonmail-bridge_

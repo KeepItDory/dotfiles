@@ -1,0 +1,6 @@
+= Resizable Bar =
+
+It seems that Resizable bar only enabled by turning Re-BAR off, keeping 4G decoding on, and disabling CSM decoding
+Then you can confirm with the following command
+- _$ sudo dmesg | grep BAR=_
+If both VRAM and BAR are the same, it works.

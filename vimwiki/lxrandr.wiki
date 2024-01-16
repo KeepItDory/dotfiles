@@ -1,0 +1,4 @@
+= lxrandr =
+== Displayer resolution too for LXDE/Openbox ==
+=== Lightweight, and just sets resolution and refresh rate ===
+- _$ uay -S lxrandr_

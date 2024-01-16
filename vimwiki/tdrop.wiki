@@ -1,0 +1,3 @@
+= tdrop =
+== dropdown terminal ==
+- _$ yay -S tdrop_

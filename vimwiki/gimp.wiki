@@ -1,0 +1,5 @@
+= gimp =
+== image editor ==
+
+A great alternative to photoshop, althought lacking in some aspects
+- _$ yay -S gimp_

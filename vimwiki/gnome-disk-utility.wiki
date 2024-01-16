@@ -1,0 +1,5 @@
+= gnome-disk-utility =
+== a tool for managing disks and drives ==
+
+Great for automounting drives easily without using the CLI.
+- _$ yay -S gnome-disk-utility_

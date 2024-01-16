@@ -1,0 +1,4 @@
+= kdenlive =
+== A non linear video editor using MLT video framework ==
+=== Part of the KDE workshop ===
+- _$ yay -S kdenlive_

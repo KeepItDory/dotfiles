@@ -1,0 +1,13 @@
+= neovim =
+== the best text editor ==
+- _$ yay -S neovim_
+
+* Plugins
+  This is a list of plugins that I use in nvim
+
+  * vimwiki
+  * 
+
+* Neotree
+  - Hotkeys
+    | a | new file/directory | 

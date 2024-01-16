@@ -1,0 +1,3 @@
+= smplayer =
+== a mediaplayer ==
+- _$ yay -S smplayer_

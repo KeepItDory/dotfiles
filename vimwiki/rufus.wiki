@@ -1,0 +1,3 @@
+= rufus =
+== Image burner ==
+- _$ yay -S rufus_

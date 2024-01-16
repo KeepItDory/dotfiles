@@ -1,0 +1,3 @@
+= protonup =
+== Install and manage custom versions of proton ==
+- _$yay -S protonup_

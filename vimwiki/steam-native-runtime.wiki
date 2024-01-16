@@ -1,0 +1,3 @@
+= steam-native-runtime =
+== steam native linux client ==
+- _$ yay -S steam-native-runtime_

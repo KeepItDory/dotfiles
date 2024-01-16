@@ -1,0 +1,3 @@
+= brasero =
+== CD burner ==
+- $ yay -S brasero

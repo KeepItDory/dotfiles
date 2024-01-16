@@ -1,0 +1,3 @@
+= htop =
+== a system resources monitor and manager ==
+- _$ yay -S htop_

@@ -1,0 +1,32 @@
+
+                               = Phone =
+== A collection of phone notes, always trying to degooglefy as much as possible ==
+
+* Apps to try
+  * idope
+    - idope is a torrent search engine for android, to avoid google tracking searchs
+    - idope.se
+  * libgen_mobile_app
+    - App for searching books on libgen
+    - https://github.com/manuelvargastapia/libgen_mobile_app
+* Root
+  * Tools
+    - mobydroid
+    - android-skd-platform-tools
+    - adbmanager
+    - adbcontrol
+    - android-backup-extractor-git
+  * Apps
+    * File Manager
+      * Amaze File Manager
+        - Amaze is a feature rich open source and free file manager
+      * Phone dialer
+    * Home launcher
+      * Lawn Chair
+        - Free and open source home launcher
+    * App stores
+      * F-Droid
+        - Open source app store
+      * Aurora Store
+        - Privacy minded google play store frontend
+

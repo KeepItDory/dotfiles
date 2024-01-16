@@ -1,0 +1,3 @@
+= smplayer-themes =
+== package of themes for smplayer ==
+- _$ yay -S smplayer-themes_

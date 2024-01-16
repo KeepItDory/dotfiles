@@ -1,0 +1,3 @@
+= Steam controller =
+* You should add your user to the input groups with the following command
+  _sudo gpasswd -a $USER input_

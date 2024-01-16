@@ -1,0 +1,3 @@
+= rofi =
+== dmenu alternative / app launcher and many other things ==
+- _$ yay -S rofi_

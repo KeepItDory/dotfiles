@@ -1,0 +1,3 @@
+= maim =
+== screenshot tool ==
+i _$ yay -S maim_

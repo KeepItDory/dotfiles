@@ -1,0 +1,3 @@
+= discord-canary =
+== Cutting edge discord branch ==
+- $ yay -S discord-canary

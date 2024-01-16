@@ -1,0 +1,3 @@
+= dmenu =
+== the suckless menu ==
+- $ yay -S dmenu

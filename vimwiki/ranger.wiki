@@ -1,0 +1,5 @@
+= ranger =
+== a terminal file manager ==
+- _$ yay -S ranger_
+
+- Add files with :touch $FILENAME

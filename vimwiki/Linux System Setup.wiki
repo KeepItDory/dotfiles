@@ -1,0 +1,516 @@
+= Setup guide for your Linux system =
+== This is a basic step by step guide, not necessarily needed to be followed step by step ==
+=== For packages use lower case ===
+
+* Linux System Setup Guide
+ 
+  * Basic system layout
+    - OS Arch Based Endeavour OS
+    - Window manager: openbox and hyprland
+    - Terminal: alacritty
+    - Compositor: Picom
+    - File Manager: thunar & ranger
+    - Text Editor: nvim, doom emacs, & geany
+    - System Monitor: bashtop
+    - VPN: proton vpn, proton vpn
+    - Clipboard: gpaste
+    - Logout: rofi
+    - Application Launcher: rofi
+    - Panel: tint2
+    - Music Player: mpd w/ ncmpcpp as client
+    - Media Player: mpv
+    - Backgrounds by: variaty
+    - Bar: polybar
+    - Colors: Pywal
+
+  * Hyprland
+    * Applications
+      - Browser Firefox
+      - Terminal Kitty or Alacritty
+      - File Manager Thunar / Ranger
+      - Misc Apps
+      - Hyprpick colorpicker
+    * Hotkeys
+        | Windows / Session Actions  |                              |
+        | Action                     | Hotkey                       |
+        | Super + Q                  | Kill Active                  |
+        | Shift + Delete             | Exit Hyprland                |
+        | Super + W                  | Toggle Floating              |
+        | Alt + Return               | Toggle Fullscreen            |
+        | Super + G                  | Disable effects for gamemode |
+        | Super + L                  | Swaylock                     |
+        | Super + delete             | Logout Menu                  |
+        |                            |                              |
+        | Application Shortcuts      |                              |
+        | Super + T                  | Kitty                        |
+        | Super + E                  | Dolphin                      |
+        | Super + V                  | Emacs                        |
+        | Super + F                  | Firefox                      |
+        |                            |                              |
+        | Rofi Shortcuts             |                              |
+        | Super + A                  | Application Launcher         |
+        | Super + tab                | Window Switcher              |
+        | Super + R                  | File Browser                 |
+        |                            |                              |
+        | Audio Controls             |                              |
+        |                            |                              |
+        | Screenshot / Screencapture |                              |
+
+  * Network Setup
+    - Unifi Pro https://192.168.1.66
+    - Pihole https://192.168.1.200/admin/index.php
+
+  * Setup guide
+  
+    - [ ] Install [[Packages]]
+      - [ ] Install [[yay]] first
+
+    - [ ] Setup [[tdrop]]
+
+    - [ ] Start bluetooth service
+      - Run the following commands:
+        _$ systemctl start bluetooth.service_
+        _$ systemctl enable bluetooth.service_
+
+    - [ ] Automount drives
+      - Install [[gnome-disk-utility]] if you haven't already and use it
+
+    - [ ] Setup DooM Emacs
+      - [ ] Install [[emacs]]
+      - [ ] Install doom-emacs
+        - Run the following commands:
+          _$ git clone --depth 1 https://github.com/doomemacs/doomemacs_
+          _$ ~/.emacs.d ~/.emacs.d/bin/doom install_
+      - [ ] Autostart Emacs Daemon
+        - add this command to your autostart
+          _/usr/bin/emacs --daemon_
+      - [ ] Edit your bashrc or zshrc or fish.config
+        - add these lines to your .bashrc or .zshrc or fish.config
+          _export PATH="$HOME/.emacs.d/bin:$PATH"_
+          _alias emacs="emacsclient -c -a 'emacs'"_
+
+    - [ ] VPN Setup
+      - [ ]  [[protonvpn]] Setup
+        - [ ] Install [[protonvpn]]
+      - [ ] MullvadVPN Setup
+        - [ ] Install MullvadVPN
+        - [ ] Add MullvadVPN to autostart
+
+    - [ ] Setup [[qbittorrent]]
+      - [ ] Make sure [[qbittorrent]] only downloads through VPN tunnel
+        - Check advanced settings. Should be one of the first options
+      - [ ] Set default save path to _/mnt/Togapi/Downloads/_
+      - [ ] Set Copy .torrent file to _/mnt/Togapi/Downloads/Torrents/_
+
+    - [ ] Setup [[ckb-next]]
+      - [ ] Install ckb-next
+      - [ ] Start ckb-next daemon
+        - Run the following commands:
+          _$ systemctl start ckb-next-daemon
+          $ systemctl enable ckb-next-daemon_
+
+    - [ ] Setup steam
+      - install [[steam-native-runtime]]
+      - [ ] Set the following options
+        - Set interface to normal
+        - Add drives to library
+        - Set interface to show URL
+        - Allow downloads during gameplay
+
+    - [ ] Setup [[smplayer]]
+      - [ ] Go to Preferences/Interface and set skin to BASIC gui, breeze icons, and default style
+
+    - [ ] Setup [[noisetorch]]
+      - [ ] Add [[noisetorch]] to autostart
+
+    - [ ] Setup Pipewire
+      - [ ] Copy /usr/share/pipewire/pipewire.conf to ~/.config/pipewire/ and/or /etc/pipewire/client-rt.conf.d/
+      - [ ] Change ?.min-quantum  to 512
+
+    - [ ] Setup [[discord]]
+      - [ ] Install [[discord]]
+      - [ ] Install [[discord-canary]]
+      - [ ] Install BetterDiscord
+        - $ yay -S betterdiscord-installer
+      - [ ] Install [[vencord]]
+        - Vencord allows streaming audio! Its also compatible with all Discord branches and BetterDiscord!
+      - [ ] Install linux-discord-rich-presence
+        - then add _linux-discord-rich-presence -c ~/.config/linux-discord-rich-presencerc_ to your autostart script('s)
+
+    - [X] Install fonts
+      - [X] Install Nerd fonts
+        - download from the Nerd Fonts website, and place fonts inside _~/.local/share/fonts/_
+      - [X] Download Monaspace fonts
+        - Found on github
+      - [X] Download Monacraft fonts
+        - Found on github
+
+    - [X] Setup [[os-prober]]
+      - _$ sudo pacman -S os-prober_
+      - [X] Enable [[os-prober]]
+        - $ edit _/etc/default/grub_ and change _GRUB_DISABLE_OS_PROBER_ to _true_
+        - then run _$ sudo grub-mkconfig -o /boot/grub/grub.cfg_
+
+    - [X] Setup [[glava]]
+      - [ ] Copy and edit config file
+        - _$ glava --copy-config_
+        - In config set for below, clickthrough, and fullscreen, and add a template for wpg
+
+    - [X] Setup [[polybar]]
+      - [X] Download adi1090x's polybar theme collection
+        - _$ git clone --depth=1 https://github.com/adi1090x/polybar-themes.git_
+        - _$ cd polybar-themes_
+        - _$ chmod +x setup.sh_
+        - _$ cd_
+        - _$ bash /polybar-themes/setup.sh or you can manually copy the contents of the simple or bitmap folders over to ~/.config/polybar_
+        - remember to backup all dotfiles in _~/.config/polybar/_
+      - [X] Add bash ~/.config/polybar/launch.sh --forest to your autostart commands
+      - [X] Fix polybar icons
+        - You might need to rerun setup.sh for polybar, and rofi if using adi1090x's themes to fix icons and fonts
+
+    - [X] Setup FireFox
+      - [X] Sync Firefox account
+      - [X] Hide toolbar
+        - go to about:config and enable all these settings
+          - _toolkit.legacyUserProfileCustomizations.stylesheets_
+          - _layers.acceleration.force-enabled_
+          - _gfx.webrender.all_
+          - _gfx.webrender.enabled_
+          - _layout.css.backdrop-filter.enabled_
+          - _svg.context-properties.content.enabled_
+        - than in your profile directory (check with about:support) you can add the following to /chrome/userChrome.css (create the folder and file if they do not exist)
+          - #TabsToolbar
+           .tabbrowser-tab {
+           visibility: collapse;
+           }
+           .titlebar-button {
+           height: 27px !important;
+           }
+
+           #nav-bar {
+           margin-top: -42px;
+           margin-right: 140px;
+           box-shadow: none !important;
+           }
+
+           [uidensity="compact"]:root .titlebar-button {
+           height: 32px !important;
+
+           [uidensity="compact"]:root #nav-bar {
+           margin-top: -32px;
+           }
+
+           #titlebar-spacer {
+           background-color: var(--chrome-secondary-background-color);
+           }
+
+           #titlebar-buttonbox-container {
+           background-color: var(--chrome-secondary-background-color);
+           }
+           .titlebar-color {
+           background-color: var(--toolbar-bgcolor);
+           }
+
+           #main-window[inFullscreen="true"] #sidebar-box,
+           #main-window[inFullscreen="true"] #sidebar-box + splitter {
+           visibility: collapse;
+           }
+
+           #sidebar-box #sidebar-header {
+           display: none !important;
+           }
+
+    - [O] Setup CoreCtrl
+      - [X] Install CoreCtrl
+      - [X] Set Global settings profile
+        - Set GPU to max power limit and GPU and Memory clocks
+        - Set CPU to Performance Frenquency Governor
+      - [X] Add CoreCtrl to autostart
+
+    - [X] Setup Archlinux-tweak-tool
+      - [X] Install arch-linux-tweak-tool
+      - [X] Install Arcolinux Repo keys and mirrors
+        - In the pacman tab
+      - [X] Install all Icons, Cursors and Fonts
+        - In the design tab
+
+    - [O] Setup Email
+      - [X] Make sure protonmail-bridge package is installed
+        - yay -S protonmail-bridge secret-service
+        - If keyring not working try installing gnome-keyring
+      - [o] Setup Thunderbird
+        - [X] Add gmail
+        - [X] Add protonmail
+
+    - [X] Openbox setup
+      - [X] Prevent scrolling through workspaces with mouse wheel
+      - [X] Install obapps
+        - $ yay -S obapps3
+      - [X] Remove decorations
+        - inside your rc.xml add the following
+          _<applications>
+            <!-- Match all windows and remove their decorations -->
+            <application class="*"> <decor>no</decor> </application>
+            <!-- Give back decorations to some app windows -->
+            <application name="galculator"> <decor>yes</decor> </application>
+            <application name="gcolor2"> <decor>yes</decor> </application>
+          </applications>_
+      - [X] Install some themes
+        - This is a good collection
+          _$ git clone https://github.com/addy-dclxvi/openbox-theme-collections ~/.themes_
+      - [X] Change theme to no-borders
+        - Remove decorations
+      - [X] Add keybinds
+        - A great example config can be found here
+          - https://github.com/IanLeCorbeau/dotfiles/wiki/Tiling-&-Snapping
+        + Keybinds
+          - Windows
+            - | Keybind       | Action                |
+              | W+y           | Tile top left         |
+              | W+u           | Tile top right        |
+              | W+b           | Tile bottom left      |
+              | W+n           | Tile bottom right     |
+              | W+S+Up        | 90/90 maximize center |
+              | W+C+Arrowkeys | Move window           |
+              | W+a           | Move to center        |
+              | W+f           | Toggle Maximize       |
+          - Applications
+            - | Keybind | Action             |
+              | W+e     | Thunar             |
+              | W+S+e   | Ranger             |
+              | W+w     | Firefox            |
+              | W+Enter | Alacritty          |
+              | W+g     | Gpick color picker |
+
+    - [X] Setup Ranger
+      - After startup ranger creates a directory ~/.config/ranger. Top copy the default configuration to this directory issue thefolowing  command $ ranger --copy-config=all
+      - rc.conf - startup commands and key bindings
+        rc.conf only needs to include changes from the default file as both are loaded. For commands.py, if you do not include the whole file, put this line at the top:
+        from ranger.api.commands import *
+      - commands.py - commands which are launcher with :
+      - rifle.conf - applications used when a given type of file is launched.
+      - more info at https://wiki.archlinux.org/title/ranger
+      - [X] Add shortcut to alacritty to load in ranger
+        - alacritty -e "ranger"
+      - [X] make sure vim in your editor in your .zshrc or .bashrc
+        - add these lines to either file
+
+        _export VISUAL=nvim;
+        export EDITOR=nvim;_
+
+    - [X] Setup ROFI
+      - [X] Install xcape or sxhkd
+        - _$ sudo pacman -S xcape_
+      - [X] Install ROFI
+        - _$ sudo pacman -S rofi_
+        - [X] Setup ROFI
+          - Use xev to read keybinds. Capital letters issue. Some keybinds start with a capital (ie: Delete), whereas others start with a lowercase (ie: space)
+          - don't forget to add a new line -kb-cancel '<KEYBINDS>' to adi's launcher.sh scripts to add cancel keybind
+          - [X] Setup ROFI launcher
+            - Check out adi1090x Huge collection of ROFI applets
+            https://github.com/adi1090x/rofi
+            - [X] add hotkey xcape command to autostart
+              - _xcape -e 'Super_L=Shift_L|Control_L|Super_L'_
+              - Or use sxhkd which is honestly probably a lot simpler, and you just have to run sxhkd on autostart
+            - [X] add rofi shortcut to keyboard hotkeys
+              - _rofi -show drun -kb-cancel 'Control_L+Shift_L+Super_L'_
+              - or add _rofi -show drun -kb-cancel_  to another keyboard shortcut command program
+          - [ ] NO Setup basic apps ROFI
+            - bind adi1090x's apps.sh to SUPER + SPACE
+          - [X] Setup screenshot ROFI
+           - bind adi1090x's screenshot.sh to SUPER + DELETE
+          - [X] Setup powermenu ROFI
+            - bind adi1090x's powermenu_t2 to CTRL + ALT + DEL
+          - [X] Setup volume ROFI
+            - bind adi1090x's screenshot.sh to SUPER + VOL KNOB CLICK
+          - [X] Setup gpaste ROFI
+            - bind rofi-gpaste to SUPER + G
+
+    - [X] Setup MPVplayer
+      - [X] Install UOSC UI
+        - $ /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/tomasklaen/uosc/HEAD/installers/unix.sh)"
+      - [X] Install mpv-autosub plugin
+        - [X] Install dependency subliminal
+          - _$ pipx install subliminal_
+        - [X] Install mpv-thumbfast plugin
+
+    - [X] Setup NeoVim
+      - [X] Install NeoVim
+        - sudo pacman -S neovim
+      - [X] Config NeoVim
+        - Honestly just install the LazyNvim config
+        - [X] Install Vim Plugin manager
+          - User lazy.nvim
+       - [X] Decide on best statusline
+          - Galaxyline
+       - [X] Configure nvim-notify
+
+    - [X] Setup [[picom]]
+      - [X] Install jonaburg version of [[Picom]]
+        - Found on github
+      - [X] Set rounded borders
+      - [X] Make these apps transparents
+        - polybar
+        - any terminals
+        - jgmenu
+        - tint2
+
+    - [X] Setup tint2
+      - Bind jgmenu_run to a key combination. The method for doing this depends on your system and is outside the scope of this guide. For the next step, let’s assume that you have bound Control + Escape to jgmenu_run
+      - Install xcape and run the following: xcape -e 'Super_L=Control_L|Escape'
+      - remember to backup all dotfiles in ~/.config/tint2
+      - [X] Reskin tint2
+      - [X] Make apps show on their monitors respective taskbar
+
+    - [X] Setup KeepassXC
+      - [X] Add keypass file, stored on Togapi
+      - [X] Auto sync keepass file with syncthing
+
+    - [X] Setup syncthing
+      - [X] Make sure folders are synced
+        - [X] KeePass
+              /mnt/Togapi/Downloads/Documents/Backups/Kee/
+        - [X] Tablet
+              /mnt/Togapi/Downloads/Sync/Tablet/
+
+    - [X] Setup Variety
+      - [X] Install Variety
+        - $ yay -S variety
+      - [X] Add variety to autostart
+        - variety &
+      - [X] add wpgtk and other pywal scripts to set-wallpaper script
+        - add this line inside _~/.config/varaiety/scripts/set_wallpaper_
+          _wpg -s $1_
+
+    - [X] Setup MPD
+      - [X] Configure ~/.config/mpd/mpd.conf
+        - Uncomment music_directory, db_file, pid_file and state_file. Set a location for all these as you like.
+        - Scroll down and uncomment bind_to_address. Change the value to “localhost” or to a different address if you want. Next uncomment port. Let it stay at the default value, which is “6600”.
+        - Now uncomment the alsa output section
+        - Add the following audio output
+          # For MPD
+          audio_output {
+           type                    "fifo"
+           name                    "my_fifo"
+           path                    "/tmp/mpd.fifo"
+           format                  "44100:16:2"
+          }
+        - Uncomment pulse audio_output
+        - Add this follow audio output
+          _#
+          # Pipewire support
+          #
+          audio_output _{
+           type            "pipewire"
+           name            "Pipewire Sound Server"
+          }_
+
+      - [X] Start MPD daemon
+        - systemctl --user enable mpd.service
+
+    - [X] Pipewire tweaks
+      - [X] allow autospawn in /etc/pulse/client.conf
+
+    - [X] Setup Cava
+      - [X] Edit ~/.config/cava/config
+
+    - [X] Setup chezmoi
+      - [X] Install chezmoi
+        - $ yay -S chezmoi
+        or
+        - $ sh -c "$(curl -fsLS get.chezmoi.io)"
+      - [X] Start chezmoi
+        - $ chezmoi init
+      - Basic guide
+        - [X] Start adding files
+        - to add a file use this command
+          $ chezmoi add $FILEPATH
+        - [X] Edit the source state
+          - to edit the source state use this command
+            _$ edit $FILEPATH_
+            This will open the file located in _~/.local/share/chezmoi/dot_$FILEPATH_
+        - [X] see what changes would be made
+          - to see whaty changes would be made use this command
+            _$ chezmoi diff_
+        - [X] Apply the changes
+          - to apply the changes type this command
+            $ chezmoi -v apply
+        - [X] Open a shell in your source directory and commit changes
+          - To commit changes type these commands
+            _$ chezmoi cd_
+            _$ git add ._
+            _$ git commit -m "Inital commit"_
+        - [X] Create a new repository on GitHub called dotfiles and then push your repository
+          - to push your repo type these commands
+            _$ git remote add origin https://github.com/$GITHUB_USERNAME/dotfiles.git_
+            _$ git branch -M main_
+            _$ git push -u origin main_
+        - [X] Then you can exit
+          - _$ exit_
+            Did you know you can type that command to exit? These lines are needed to tell let you know.- [X] Uncomment pulse's input
+
+    - [ ] Setup Terminal
+      - [X] Install Alacritty and Tmux
+        - $ yay -S alacritty tmux
+      - [X] Switch shell
+        - Either use zsh or fish
+          Arch linux tweak tool is a good GUI tool to switch shell's, themes, and install some common shell mods, along with sensible default configs and will backup old configs
+          Use Arch Linux Tweak Tool to install fish and run scripts like it says
+      - [X] Add neofetch to .rc file
+        - $ neofetch &
+      - [ ] Combine Alacritty and Tmux
+        - add the following lines to your .bashrc or .zshrc file preferably before lines your fetch
+          tmux attach &&
+          
+    - [ ] Setup Pywal
+      - And by Pywal we mean WPGTK
+      - [X] Set varaiety set wallpaper script to use pywal scripts
+        - add this line to ~/.config/varaiety/scripts/set_wallpaper
+        - wpg -s $1
+      - [X] Setup Pywal Discord
+        - Requires Better Discord, which you should use anyway
+      - [X] Try pywal-discord
+        - [X] Install pywal-discord
+          - $ yay -S pywal-discord-git
+          - Installs themes into betterdiscords folder by default. To use in vencord you will need to copy
+        - [X] Add this command to set_wallpaper script
+          - The command to use would be
+          - $ pywal-discord -t default
+          - If using vencord use
+          - $ pywal-discord -t default -p ~/.config/VencordDesktop/VencordDesktop/themes/
+      - [X] Setup pywal for nvim
+        - [X] Use plugin dylanaraps/wal.vim
+          - if using lazy.nvim for plugins which you should, then use this lua snippet
+
+            return {
+                -- add pywal colorscheme
+                { "dylanaraps/wal.vim" },
+
+                -- Configure LazyVim to load colorscheme
+                {
+                  "LazyVim/LazyVim",
+                  opts = {
+                  colorscheme = "wal",
+                  },
+                },
+            }
+
+          - or you can try deviantfero/wpgtk.vim
+      - [X] Setup pywal for glava
+      - [X] Setup pywal for Firefox
+        - [X] Add command to set_wallpaper script to update colorscheme
+          - $ pywalfox update
+          - [X] Install python-pywalfox
+            - $ yay -S python-pywalfox
+              $ sudo pywalfox install
+          - [X] Install pywal fox extension for Firefox
+      - [X] Setup pywal for polybar
+        - Check wpg in terminal for why template('s) are not updating. FRUSTRATING
+      - [X] Setup pywal for tint2
+      - [?] Setup pywal for ROFI
+        - For some reason adi1090x's color schemes wont updateclear &&
+
+    - [ ] Setup [[jgmenu]]
+      - [X] Install jgmenu
+        - $ yay -S jgmenu
+      - [ ] Configure jgmenu for pywal

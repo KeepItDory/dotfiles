@@ -1,0 +1,3 @@
+= googler =
+== a CLI tool for googling ==
+- _$ yay -S googler-git_

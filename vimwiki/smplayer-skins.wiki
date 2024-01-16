@@ -1,0 +1,3 @@
+= smplayer-skins =
+== a package of skins for smplayer ==
+- _$ yay -S smplayer-skins_

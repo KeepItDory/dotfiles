@@ -1,0 +1,3 @@
+= lutris =
+== manage and download games, and wine and proton patcher ==
+- _$ yay -S lutris_

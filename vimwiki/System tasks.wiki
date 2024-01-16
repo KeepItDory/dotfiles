@@ -1,0 +1,44 @@
+= System tasks =
+== A document of things to do on your linux system ==
+TODO:
+* [O] Backup files on chezmoi
+  * [X] polybar dotfiles
+  * [X] kitty
+  * [X] fish config
+  * [ ] vimwiki
+* [.] Setup [[tdrop]]
+  * [X] Install [[tdrop]]
+  * [ ] Configure [[tdrop]] to dock at top and centered
+  * [ ] Install pttabs
+* [ ] Solve imagemagick (pywal backend) failing to make colorpalette
+* [o] Reconfigure polybar
+  * [X] Change polybar-modules-mullvad to polybar-vpn-controller
+  * [X] Install polybar-speedtest
+  * [X] Redo polybar, no bitmap versions! This is why glyphs are broken
+  * [X] Install polybar-services
+  * [ ] Make a wifi button that opens rofi-wifi-menu
+  * [ ] Install polybar-qbittorrent
+  * [ ] Install polybar-pipewire-control
+    * [ ] Figure out why this shit won't fucking work
+  * [ ] Install bar-gmail and bar-protonmail
+* [ ] Install rofi-wifi-menu
+* [X] Try cli-visualizer
+* [ ] Install slickgreeter pywal
+* [ ] Install poison firefox theme
+* [ ] Install context icons plugin for discord
+* [ ] Copy pywal cheatsheet to an .org document
+* [ ] Utilize ROFI wally and rofi-configmenu.sh scripts
+* [ ] Look into rofi-cuff
+* [ ] setup chat clients
+* [ ] Research jackett
+* [ ] Setup hyprland
+* [X] Reinstall Linux System. EndeavourOS, but also leave Room for a secondary Linux OS
+* [ ] Figure out why polybar VPN module has 'tunnel error'
+* [ ] Figure out ProtonVPN bullshit
+* [ ] Lube FEKER IK75 Stabalizers
+* [ ] Move personal accounts over to proton mail
+* [ ] Sync phone photos with PC using syncthing
+* [ ] Photo cleaning
+  * [ ] Sort through photos in backup
+  * [ ] Download all iCloud and Google Drive photos any any photos in any other clouds
+  * [ ] Backup to Proton Drive

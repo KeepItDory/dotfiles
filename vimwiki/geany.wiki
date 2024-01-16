@@ -1,0 +1,3 @@
+= geany =
+== a GUI based text editor ==
+- _$ yay -S geany_

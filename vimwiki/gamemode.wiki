@@ -1,0 +1,5 @@
+= gamemode =
+== a tool for increasing game performance ==
+- _$ yay -S gamemode_
+- to any steam launch command add the following line
+  _$ gamemoderun %command%_

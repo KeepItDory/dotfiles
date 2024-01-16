@@ -1,0 +1,12 @@
+      = My Network =
+== Notes on current network ==
+
+* Network Setup
+  * Unifi Pro https://192.168.1.66
+
+  * kihole 192.168.1.200
+    - ssh login pihole@192.168.1.200
+          password $PASSWORD
+    * pihole https://192.168.1.200/admin/index.php
+    * linkding http://192.168.1.200:9090/
+    * dashy http://192.168.1.200:8080/

@@ -1,0 +1,3 @@
+= os-prober =
+== required for grub boot loader to find other operating systems ==
+- _$ yay -S os-prober_

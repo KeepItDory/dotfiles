@@ -1,0 +1,3 @@
+= keepassxc =
+== a encrypted and locally hosted password manager ==
+- _$ yay -S keepassxc_

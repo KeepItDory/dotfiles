@@ -1,0 +1,4 @@
+= emacs =
+== the second best text editor ==
+- yay -S emacs
+- dont forget to install doom-emacs

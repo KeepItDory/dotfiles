@@ -1,0 +1,3 @@
+= discord =
+== default discord client ==
+- _$ yay -S discord_

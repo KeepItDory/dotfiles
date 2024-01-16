@@ -1,0 +1,239 @@
+= Ki's Package List =
+== List of packages for Ki's arch system ==
+- Package list
+  - [X] [[alacritty]]
+  - [X] [[alacritty]] themes
+  - [X] alsa-plugins
+  - [X] [[archlinus-tweak-tool-git]]
+  - [X] [[awesome-terminal-fonts]]
+  - [X] [[bashtop]]
+  - [X] [[blueman]]
+  - [X] [[brasero]]
+  - [X] [[breeze-icons]]
+  - [X] [[broot]]
+  - [X] [[chezmoi]]
+  - [X] [[chirp-next]]
+  - [X] [[ckb-next]]
+  - [X] [[cmatrix-git]]
+  - [X] [[cointop]]
+  - [X] conky
+  - [X] conky-manager2-git
+  - [X] [[corectrl]]
+  - [X] cryptocoins-git
+  - [X] cuff-git
+  - [X] [[darktable]]
+  - [X] [[digikam]]
+  - [X] [[discord-canary]]
+  - [X] [[discord]]
+  - [X] [[discover-overlay-git]]
+  - [X] [[dmenu]]
+  - [X] docker
+  - [X] [[downgrade]]
+  - [X] [[etcher-bin]]
+  - [X] [[electron11-bin]]
+  - [X] [[emacs]]
+  - [X] [[fetchcord]]
+  - [X] [[flaresolverr]]
+  - [X] ffmpeg
+  - [X] [[filelight]]
+  - [X] flake8
+  - [X] [[firefox]]
+  - [X] [[flameshot]]
+  - [ ] font-manager
+  - [X] [[gamemode]]
+  - [X] gamescope
+  - [X] [[geany]]
+  - [X] [[glava]]
+  - [X] [[gpaste]]
+  - [X] [[gnome-disk-utility]]
+  - [X] gnome-keyring
+  - [X] geoip
+  - [X] geoip-database
+  - [X] geoip-database-extra
+  - [X] [[giflib]]
+  - [X] [[gimp]]
+  - [X] [[googler-git]]
+  - [X] gnutls
+  - [X] [[gparted]]
+  - [X] [[gpick]]
+  - [X] gtk3
+  - [X] gst-plugins-base-libs
+  - [X] [[htop]]
+  - [X] jackett
+  - [X] [[kdenlive]]
+  - [X] [[keepassxc]]
+  - [X] [[kitty]]
+  - [X] knotes
+  - [X] [[krita]]
+  - [X] lazygit
+  - [X] lib32-fluidsynth
+  - [X] lib32-giflib
+  - [X] lib32-libva-mesa-driver
+  - [X] libpng
+  - [X] lib32-libpng
+  - [X] lib32-ncurses
+  - [X] libldap
+  - [X] lib32-libldap
+  - [X] lib32-gnutls
+  - [X] lib32-mpg123
+  - [X] lib32-openal
+  - [X] lib32-v4l-utils
+  - [X] libpulse
+  - [X] lib32-libpulse
+  - [X] libgpg-error
+  - [X] lib32-libgpg-error
+  - [X] lib32-sqlite
+  - [X] libxcomposite
+  - [X] lib32-libxcomposite
+  - [X] libxinerama
+  - [X] lib32-libgcrypt
+  - [X] libgcrypt
+  - [X] lib32-vulkan-icd-loader
+  - [X] lib32-libxinerma
+  - [X] lib32-opencl-icd-loader
+  - [X] lib32-gst-plugins-base-libs
+  - [X] lib32-gtk3
+  - [X] libxslt
+  - [X] lib32-libxslt
+  - [X] libva
+  - [X] lib32-libva
+  - [X] lib32-alsa-lib
+  - [X] libjpeg-turbo
+  - [X] lightdm-gtk-greeter
+  - [X] [[lightdm-settings]]
+  - [X] linux-discord-rich-presence
+  - [X] lm_sensors
+  - [X] [[lutris]]
+  - [X] [[lxrandr]]
+  - [X] [[mesa]]
+  - [X] maim
+  - [X] mesa-vdpau
+  - [X] mangohud
+  - [X] [[minecraft-launcher]]
+  - [X] mpc
+  - [X] mpd
+  - [X] mpg123libva
+  - [X] [[mpv]]
+  - [X] mullvad-vpn-bin
+  - [X] [[ncmpcpp]]
+  - [X] ncurses
+  - [X] [[neofetch]]
+  - [X] [[nerdfetch]]
+  - [X] nerd-fonts-noto-sans-mono-extended
+  - [X] nodejs
+  - [X] [[no-more-secrets]]
+  - [X] nmap
+  - [X] [[noisetorch]]
+  - [X] NO nvidia-dkms
+  - [X] NO nvidia-settings
+  - [X] [[neovim]]
+  - [X] [[nvtop]]
+  - [X] ntp
+  - [X] [[obapps3]]
+  - [X] [[obs-studio]]
+  - [X] obsidian
+  - [X] obsidian-icon-theme
+  - [X] onefetch
+  - [ ] [[okular]]
+  - [ ] openal
+  - [ ] opencl-icd-loader
+  - [ ] openshot
+  - [ ] openresolv
+  - [ ] [[os-prober]]
+  - [ ] papis
+  - [ ] powerline-fonts
+  - [ ] powerline-console-fonts
+  - [ ] [[prismlauncher]]
+  - [ ] [[proton-ge-custom]]
+  - [ ] protondb-tags
+  - [ ] [[protontricks]]
+  - [ ] [[protonup-qt]]
+  - [ ] protonutils
+  - [ ] [[protonmail-bridge]]
+  - [ ] [[protonvpn]]
+  - [ ] playerctl
+  - [ ] [[polybar]]
+  - [ ] python-pycurl
+  - [ ] [[python-pywal]]
+  - [ ] [[python-pywalfox]]
+  - [ ] python-pip
+  - [ ] [[qbittorrent]]
+  - [ ] qomui
+  - [ ] qt5ct
+  - [ ] qrencode
+  - [ ] radeontop
+  - [ ] [[ranger]]
+  - [ ] [[realvnc-vnc-viewer]]
+  - [ ] [[ripgrep]]
+  - [ ] [[rufus]]
+  - [ ] [[rpi-imager]]
+  - [ ] [[rofi]]
+  - [ ] rofi-blocks-git
+  - [ ] [[rofimoji]]
+  - [ ] sc-controller
+  - [ ] simple-mtpfs
+  - [ ] sl
+  - [ ] [[sxhkd]]
+  - [ ] [[smplayer]]
+  - [ ] [[smplayer-themes]]
+  - [ ] [[smplayer-skins]]
+  - [ ] speedtest-cli
+  - [ ] stacer
+  - [ ] steam
+  - [ ] steamcmd
+  - [ ] steam-native-runtime
+  - [ ] sqlite
+  - [ ] [[syncthing]]
+  - [ ] terminus-font
+  - [ ] thunderbird
+  - [ ] tmatrix-git
+  - [ ] tmux
+  - [ ] tint2
+  - [ ] [[timeshift]]
+  - [ ] ttf-ancient-fonts
+  - [ ] ttf-joypixels
+  - [ ] ttf-space-mono-nerd
+  - [ ] ttf-nerd-fonts-symbols-mono
+  - [ ] ttf-fantasque-sans-mono
+  - [ ] ttf-font-awesome
+  - [ ] ttf-font-awesome-5
+  - [ ] ttf-icomoon-feather
+  - [ ] ttf-jetbrains-mono
+  - [ ] ttf-material-icons-git
+  - [ ] ttf-nerd-fonts-symbols-common
+  - [ ] ttf-weather-icons
+  - [ ] ttf-iosevka-nerd
+  - [ ] tuifimanager
+  - [ ] siji-ttf
+  - [ ] udisks2
+  - [ ] [[uwufetch]]
+  - [ ] [[variety]]
+  - [ ] vencord
+  - [ ] v4l-utils
+  - [ ] v4l2loopback-dkms
+  - [ ] vulkan-icd-loader
+  - [ ] waterfox-g4-bin
+  - [ ] webtorrent-cli
+  - [ ] weechat
+  - [ ] weechat-matrix-git
+  - [ ] weechat-emoji-git
+  - [ ] wine-staging
+  - [ ] wireguard-dkms
+  - [ ] wireguard-tools
+  - [ ] w3m
+  - [ ] w3m-imgcat
+  - [ ] wpgtk
+  - [ ] xclip
+  - [ ] xidel
+  - [ ] xcape
+  - [ ] xdotool
+  - [ ] xboxdrv
+  - [ ] xorg-server-devel
+  - [ ] xorg-fonts-misc
+  - [ ] xorg-xev
+  - [ ] xsel
+  - [ ] xarchiver
+  - [ ] yay
+  - [ ] yt-dlp
+  - [ ] zathura
+  - [ ] zfxtop

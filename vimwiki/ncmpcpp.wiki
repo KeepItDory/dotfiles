@@ -1,0 +1,3 @@
+= ncmpcpp =
+== command line interface music player ==
+- _$ yay -S ncmpcpp_

@@ -1,0 +1,7 @@
+= Kono 84 Light Purple
+* [[Switches]]
+  - [[MMD Princess]] [[Tactiles]]
+* Keycaps
+  - Doubleshot knockoffs, double set, using light blue fonts on white with purple highlights
+* Issues
+  - F11 Key stickinf

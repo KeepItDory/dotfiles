@@ -1,0 +1,54 @@
+= Pi Projects =
+== A document for Pi Project Ideas ==
+
+* KiHole
+  * Net Apps
+    * pihole https://192.168.1.200/admin/index.php
+    * linkding http://192.168.1.200:9090/
+    * dashy http://192.168.1.200:8080/
+    * immich
+    * uptime-kuma
+
+* My Raspberry Pi 2b
+  * Ideas
+    * Install Docker
+      - sudo apt update
+      - sudo apt upgrade
+      - curl -sSL https://get.docker.com | sh
+    * PiHole
+      - Static IP set to 192.168.1.200/24
+      - Set DNS to 192.168.1.200 for PiHole
+      - Web interface at http://192.168.1.200/admin
+      - Admin login password is Raavioli1984$
+      * Install raspbian OS
+        - Install 32bit lite
+      * Install PiHole software
+        - curl -sSL https://install.pi-hole.net | bash
+    * Linkding
+      - docker restart linkding
+    * rpi-syncthing
+    * padloc
+      - password manager server
+    * Emby Media Server
+      * Setup
+        - sudo rpi-update
+    * Paperless
+      - 6fllkJxEojVNllgx9sP9rNhw689vd2hZOH2o2X7PrUXV4txCSJCaVIyFAVL3Mkmm
+    * Uptime Kuma
+      - Uptime monitoring
+      - $ sudo apt install git
+        $ sudo apt install nodejs
+        $ sudo apt install npm
+        $ sudo apt update
+        $ sudo apt upgrade
+        $ git clone https://github.com/louislam/uptime-kuma.git
+        $ cd uptime-kuma
+        $ npm run setup
+        $ sudo npm install -g pm2
+    * OpenMediaVault
+    * NAS
+    * Note Keeper
+    * Photo journal
+    * Music
+    * Password Hub
+    * Bookmark Hub

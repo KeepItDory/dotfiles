@@ -1,0 +1,3 @@
+= uwufetch =
+== cute fetch tool ==
+- _$ yay -S uwufetch_
