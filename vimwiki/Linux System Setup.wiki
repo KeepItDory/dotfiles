@@ -448,6 +448,19 @@
         - [X] Then you can exit
           - _$ exit_
             Did you know you can type that command to exit? These lines are needed to tell let you know.- [X] Uncomment pulse's input
+        - [X] You can re-add all files with the following
+            - _$ chezmoi re-add_
+              or
+              _$chezmoi re-add $FILEPATH_
+        - [X] You can also merge with the following
+          - _$ chezmoi merge-all
+            or
+            $ chezmoi merge $FILEPATH_
+        - [ ] instead of chezmoi cd you can run commands with the following prefix command
+          - _$ chezmoi git_
+        - [ ] You can your source directory with the following command
+          - _$ chezmoi git -- commit -m "Update dotfiles"_
+          - and then you may _git push_ like earlier
 
     - [ ] Setup Terminal
       - [X] Install Alacritty and Tmux

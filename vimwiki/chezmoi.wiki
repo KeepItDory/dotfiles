@@ -4,7 +4,45 @@
 
 * Basic guide
   * Commands
-    * _$ chezmoi add_
+    * _$ chezmoi add $FILEPATH_
       - adds files to chezmoi local repo
     * _$ chezmoi list_
       - lists all files in chezmoi local repo
+    * _$ chezmoi edit $FILEPATH_
+      - This will open the source file located in _~/.local/share/chezmoi/_ in your editor
+    * _$ chezmoi diff_
+      - Show differences between Home and Source files
+    * _$ chezmoi -v apply_
+     - apply changes from your source to ?home?
+
+
+
+
+        == EDIT THE FOLLOWING INTO YOUR wiki
+
+        - [X] Open a shell in your source directory and commit changes
+          - To commit changes type these commands
+            _$ chezmoi cd_
+            _$ git add ._
+            _$ git commit -m "Inital commit"_
+        - [X] Create a new repository on GitHub called dotfiles and then push your repository
+          - to push your repo type these commands
+            _$ git remote add origin https://github.com/$GITHUB_USERNAME/dotfiles.git_
+            _$ git branch -M main_
+            _$ git push -u origin main_
+        - [X] Then you can exit
+          - _$ exit_
+            Did you know you can type that command to exit? These lines are needed to tell let you know.- [X] Uncomment pulse's input
+        - [X] You can re-add all files with the following
+            - _$ chezmoi re-add_
+              or
+              _$chezmoi re-add $FILEPATH_
+        - [X] You can also merge with the following
+          - _$ chezmoi merge-all
+            or
+            $ chezmoi merge $FILEPATH_
+        - [ ] instead of chezmoi cd you can run commands with the following prefix command
+          - _$ chezmoi git_
+        - [ ] You can your source directory with the following command
+          - _$ chezmoi git -- commit -m "Update dotfiles"_
+          - and then you may _git push_ like earlier
