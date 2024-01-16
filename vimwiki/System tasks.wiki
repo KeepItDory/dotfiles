@@ -1,28 +1,14 @@
 = System tasks =
 == A document of things to do on your linux system ==
 TODO:
-* [X] Sync phone photos with PC using syncthing
-* [ ] FIGURE OUT WHY CHEZMOI WONT UPDATE YOUR FUCKING REPO
-* [X] Install rofi-wifi-menu
-* [X] Try cli-visualizer
-* [.] Setup [[tdrop]]
-  * [X] Install [[tdrop]]
+* [ ] Install [[tdrop]]
   * [ ] Configure [[tdrop]] to dock at top and centered
-  * [ ] Install pttabs
-* [o] Reconfigure polybar
-  * [ ] Change polybar-modules-mullvad to polybar-vpn-controller
-  * [X] Install polybar-speedtest
-  * [X] Redo polybar, no bitmap versions! This is why glyphs are broken
-  * [X] Install polybar-services
-  * [ ] Make a wifi button that opens rofi-wifi-menu
-  * [ ] Setup polybar-qbittorrent
-    * [ ] Install it
-    * [ ] Use it
-  * [ ] Setup polybar-pipewire-control
-    * [ ] Install it
-    * [ ] Figure out why this shit won't fucking work
-  * [ ] Install bar-gmail and bar-protonmail
-* [ ] Solve imagemagick (pywal backend) failing to make colorpalette
+* [ ] Redo [[polybar]], no bitmap versions! This is why glyphs are broken
+* [ ] Install pttabs
+* [ ] Install rofi-wifi-menu
+* [ ] Install polybar-qbittorrent
+* [ ] Install polybar-pulseaudio-control
+* [ ] Install bar-gmail and bar-protonmail
 * [ ] Install slickgreeter pywal
 * [ ] Install poison firefox theme
 * [ ] Install context icons plugin for discord
@@ -32,12 +18,13 @@ TODO:
 * [ ] setup chat clients
 * [ ] Research jackett
 * [ ] Setup hyprland
+* [X] Reinstall Linux System. EndeavourOS, but also leave Room for a secondary Linux OS
 * [ ] Figure out why polybar VPN module has 'tunnel error'
 * [ ] Figure out ProtonVPN bullshit
 * [ ] Lube FEKER IK75 Stabalizers
 * [ ] Move personal accounts over to proton mail
+* [ ] Sync phone photos with PC using syncthing
 * [ ] Photo cleaning
-* [ ] Figure out how to git push without typing your dumbass cridentials HOLY SHIT I FUCKING HATE THAT SHIT
   * [ ] Sort through photos in backup
   * [ ] Download all iCloud and Google Drive photos any any photos in any other clouds
   * [ ] Backup to Proton Drive
