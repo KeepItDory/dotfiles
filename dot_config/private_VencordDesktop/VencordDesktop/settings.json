@@ -3,13 +3,13 @@
     "discordBranch": "canary",
     "firstLaunch": false,
     "arRPC": "on",
-    "splashColor": "rgb(207, 222, 229)",
-    "splashBackground": "rgb(23, 16, 14)",
+    "splashColor": "rgb(200, 196, 195)",
+    "splashBackground": "rgb(35, 21, 18)",
     "windowBounds": {
-        "x": 3840,
-        "y": 1080,
-        "width": 1920,
-        "height": 1039
+        "x": 1949,
+        "y": 1091,
+        "width": 1881,
+        "height": 1018
     },
     "maximized": false,
     "minimized": true

@@ -55,7 +55,7 @@ noisetorch &
 # xcape -e 'Super_L=Shift_L|Control_L|Super_L' &
 
 # polybar
-bash ~/.config/polybar/launch.sh --forest &
+bash ~/.config/polybar/launch.sh --blocks &
 
 # Syncthing
 # syncthing &
@@ -65,3 +65,6 @@ glava --desktop &
 
 # MPD daemon start (if no other user instance exists)
 [ ! -s ~/.config/mpd/pid ] && mpd
+
+# Pulseaudio system tray
+pasystray &

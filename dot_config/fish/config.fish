@@ -540,6 +540,7 @@ alias pamac-unlock="sudo rm /var/tmp/pamac/dbs/db.lock"
 
 #others
 alias bb="bb -driver slang -loop"
+alias polybar="~/.config/polybar/launch.sh"
 
 #moving your personal files and folders from /personal to ~
 function personal
