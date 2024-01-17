@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Favorites/wallhaven-4owpm7.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#221b0c",
+        "foreground": "#c7c6c2",
+        "cursor": "#c7c6c2"
+    },
+    "colors": {
+        "color0": "#221b0c",
+        "color1": "#ab893f",
+        "color2": "#ab955d",
+        "color3": "#a8a275",
+        "color4": "#93a93a",
+        "color5": "#8fa59f",
+        "color6": "#569ba0",
+        "color7": "#c7c6c2",
+        "color8": "#595448",
+        "color9": "#ab893f",
+        "color10": "#ab955d",
+        "color11": "#a8a275",
+        "color12": "#93a93a",
+        "color13": "#8fa59f",
+        "color14": "#569ba0",
+        "color15": "#c7c6c2"
+    }
+}

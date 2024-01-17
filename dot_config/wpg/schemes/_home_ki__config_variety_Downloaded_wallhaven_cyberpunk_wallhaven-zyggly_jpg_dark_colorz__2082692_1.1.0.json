@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_cyberpunk/wallhaven-zyggly.jpg",
+    "alpha": "80",
+
+    "special": {
+        "background": "#21231a",
+        "foreground": "#fffffd",
+        "cursor": "#fffffd"
+    },
+    "colors": {
+        "color0": "#21231a",
+        "color1": "#0a50ad",
+        "color2": "#5f9ab5",
+        "color3": "#a6b187",
+        "color4": "#091eaa",
+        "color5": "#8332a2",
+        "color6": "#1a78b8",
+        "color7": "#c7c8c5",
+        "color8": "#3c3f2f",
+        "color9": "#0166ec",
+        "color10": "#69cefd",
+        "color11": "#e1fa9b",
+        "color12": "#011fe7",
+        "color13": "#b033e0",
+        "color14": "#149efc",
+        "color15": "#fffffd"
+    }
+}

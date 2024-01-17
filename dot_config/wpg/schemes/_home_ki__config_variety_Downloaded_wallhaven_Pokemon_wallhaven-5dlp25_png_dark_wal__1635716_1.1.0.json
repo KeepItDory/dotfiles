@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Pokemon/wallhaven-5dlp25.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#040303",
+        "foreground": "#fbffff",
+        "cursor": "#fbffff"
+    },
+    "colors": {
+        "color0": "#040303",
+        "color1": "#ACD7E6",
+        "color2": "#6B7C89",
+        "color3": "#DAB4A8",
+        "color4": "#6094A7",
+        "color5": "#9FA3A7",
+        "color6": "#63AEC7",
+        "color7": "#e1e8e8",
+        "color8": "#221717",
+        "color9": "#c0ffff",
+        "color10": "#7ba3c1",
+        "color11": "#ffdcc1",
+        "color12": "#6bc8ea",
+        "color13": "#b9d3ee",
+        "color14": "#6debff",
+        "color15": "#fbffff"
+    }
+}

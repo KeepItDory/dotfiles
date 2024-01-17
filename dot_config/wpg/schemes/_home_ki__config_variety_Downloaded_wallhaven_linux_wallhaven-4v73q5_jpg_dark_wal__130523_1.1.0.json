@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_linux/wallhaven-4v73q5.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1e1e1e",
+        "foreground": "#f3ffff",
+        "cursor": "#f3ffff"
+    },
+    "colors": {
+        "color0": "#1e1e1e",
+        "color1": "#6AB9F8",
+        "color2": "#6E9B9D",
+        "color3": "#F2E458",
+        "color4": "#347491",
+        "color5": "#A69FB3",
+        "color6": "#3FA5C7",
+        "color7": "#c5d0d8",
+        "color8": "#373737",
+        "color9": "#72f3ff",
+        "color10": "#7dd9dd",
+        "color11": "#ffff5c",
+        "color12": "#369bc9",
+        "color13": "#d1b8fe",
+        "color14": "#40dfff",
+        "color15": "#f3ffff"
+    }
+}

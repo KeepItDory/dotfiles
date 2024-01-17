@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Temple/wallhaven-yje8j7.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#151716",
+        "foreground": "#fffffb",
+        "cursor": "#fffffb"
+    },
+    "colors": {
+        "color0": "#151716",
+        "color1": "#9F9F9B",
+        "color2": "#C5C4BD",
+        "color3": "#A7A59C",
+        "color4": "#D0CFC9",
+        "color5": "#B0B1AE",
+        "color6": "#BCC0BF",
+        "color7": "#ebe8e4",
+        "color8": "#2c312f",
+        "color9": "#e3e3b5",
+        "color10": "#ffffdc",
+        "color11": "#eee3b5",
+        "color12": "#ffffe1",
+        "color13": "#ecfccb",
+        "color14": "#dbffff",
+        "color15": "#fffffb"
+    }
+}

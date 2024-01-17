@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_cyberpunk/wallhaven-dgv5vm.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0f1115",
+        "foreground": "#fffeff",
+        "cursor": "#fffeff"
+    },
+    "colors": {
+        "color0": "#0f1115",
+        "color1": "#966E62",
+        "color2": "#4A4B52",
+        "color3": "#AE9370",
+        "color4": "#66708C",
+        "color5": "#615F68",
+        "color6": "#7A8593",
+        "color7": "#c5c4c5",
+        "color8": "#232832",
+        "color9": "#d3866f",
+        "color10": "#565974",
+        "color11": "#f4c17f",
+        "color12": "#748ac5",
+        "color13": "#766e94",
+        "color14": "#8daad0",
+        "color15": "#fffeff"
+    }
+}

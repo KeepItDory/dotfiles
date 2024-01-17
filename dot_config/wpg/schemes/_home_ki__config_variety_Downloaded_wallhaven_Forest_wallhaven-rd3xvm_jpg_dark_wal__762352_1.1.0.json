@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Forest/wallhaven-rd3xvm.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#090416",
+        "foreground": "#f7efff",
+        "cursor": "#f7efff"
+    },
+    "colors": {
+        "color0": "#090416",
+        "color1": "#D799DE",
+        "color2": "#B3ACEF",
+        "color3": "#A297B6",
+        "color4": "#9F95E8",
+        "color5": "#9071EA",
+        "color6": "#7E82D5",
+        "color7": "#dad3ef",
+        "color8": "#190a41",
+        "color9": "#ffaeff",
+        "color10": "#c9bbff",
+        "color11": "#ccaeff",
+        "color12": "#bba8ff",
+        "color13": "#b07cff",
+        "color14": "#8d95ff",
+        "color15": "#f7efff"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_cyberspace/wallhaven-mdd69k.jpg",
+    "alpha": "80",
+
+    "special": {
+        "background": "#0e0110",
+        "foreground": "#fffae7",
+        "cursor": "#fffae7"
+    },
+    "colors": {
+        "color0": "#0e0110",
+        "color1": "#89344E",
+        "color2": "#60526C",
+        "color3": "#AF8C79",
+        "color4": "#38446C",
+        "color5": "#976269",
+        "color6": "#632B4B",
+        "color7": "#d9c3b4",
+        "color8": "#390142",
+        "color9": "#be3760",
+        "color10": "#7d5e98",
+        "color11": "#f6b08a",
+        "color12": "#3e5297",
+        "color13": "#d46f7c",
+        "color14": "#892e62",
+        "color15": "#fffae7"
+    }
+}

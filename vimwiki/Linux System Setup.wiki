@@ -27,7 +27,7 @@
     * Applications
       - Browser Firefox
       - Terminal Kitty or Alacritty
-      - File Manager Thunar / Ranger
+      - File Manager Thunar / Ranger / Yazi
       - Misc Apps
       - Hyprpick colorpicker
     * Hotkeys
@@ -86,8 +86,8 @@
           _/usr/bin/emacs --daemon_
       - [ ] Edit your bashrc or zshrc or fish.config
         - add these lines to your .bashrc or .zshrc or fish.config
-          _export PATH="$HOME/.emacs.d/bin:$PATH"_
-          _alias emacs="emacsclient -c -a 'emacs'"_
+          _export PATH="$HOME/.emacs.d/bin:$PATH"
+          alias emacs="emacsclient -c -a 'emacs'"_
 
     - [ ] VPN Setup
       - [ ]  [[protonvpn]] Setup
@@ -373,7 +373,7 @@
         - [X] Tablet
               /mnt/Togapi/Downloads/Sync/Tablet/
 
-    - [X] Setup Variety
+    - [O] Setup Variety
       - [X] Install Variety
         - $ yay -S variety
       - [X] Add variety to autostart
@@ -381,6 +381,7 @@
       - [X] add wpgtk and other pywal scripts to set-wallpaper script
         - add this line inside _~/.config/varaiety/scripts/set_wallpaper_
           _wpg -s $1_
+      - [ ] Add shortcuts for changing wallpapers
 
     - [X] Setup MPD
       - [X] Configure ~/.config/mpd/mpd.conf
@@ -462,9 +463,9 @@
           - _$ chezmoi git -- commit -m "Update dotfiles"_
           - and then you may _git push_ like earlier
 
-    - [ ] Setup Terminal
-      - [X] Install Alacritty and Tmux
-        - $ yay -S alacritty tmux
+    - [ ] Setup [[Terminal]]
+      - [X] Install Alacritty, Kitty, Tmux, and Byobu
+        - $ yay -S alacritty kitty tmux byobu
       - [X] Switch shell
         - Either use zsh or fish
           Arch linux tweak tool is a good GUI tool to switch shell's, themes, and install some common shell mods, along with sensible default configs and will backup old configs
@@ -472,9 +473,9 @@
       - [X] Add neofetch to .rc file
         - $ neofetch &
       - [ ] Combine Alacritty and Tmux
-        - add the following lines to your .bashrc or .zshrc file preferably before lines your fetch
-          tmux attach &&
-          
+        - add the following lines to your .bashrc or .zshrc file preferably after your fetch
+          _byobu &_
+        
     - [ ] Setup Pywal
       - And by Pywal we mean WPGTK
       - [X] Set varaiety set wallpaper script to use pywal scripts
@@ -517,13 +518,29 @@
             - $ yay -S python-pywalfox
               $ sudo pywalfox install
           - [X] Install pywal fox extension for Firefox
-      - [X] Setup pywal for polybar
+      - [X] Setup pywal for [[polybar]]
         - Check wpg in terminal for why template('s) are not updating. FRUSTRATING
       - [X] Setup pywal for tint2
       - [?] Setup pywal for ROFI
         - For some reason adi1090x's color schemes wont updateclear &&
 
-    - [ ] Setup [[jgmenu]]
+    - [.] Setup [[jgmenu]]
       - [X] Install jgmenu
         - $ yay -S jgmenu
       - [ ] Configure jgmenu for pywal
+
+    - [ ] Setup Calibre ebook manager
+
+    - [.] Setup yazi
+      - [X] Install [[yazi]]
+      - [ ] Configure yazi
+        - [ ] Copy default config files keymap.toml, theme.toml, and yaz.toml over to _~/.config/yazi/_
+
+    - [ ] Setup [[btop]]
+    
+    - [ ] Setup [[sxhkd]]
+      - Move hotkeys over to sxhkd, less need for other hotkey daemons
+
+    - [ ] Setup moviemon alias
+
+    - [ ] Setup [[byobu]]

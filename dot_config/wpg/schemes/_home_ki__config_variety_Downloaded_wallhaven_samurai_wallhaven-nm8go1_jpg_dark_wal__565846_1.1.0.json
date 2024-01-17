@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_samurai/wallhaven-nm8go1.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0c0101",
+        "foreground": "#ffffe5",
+        "cursor": "#ffffe5"
+    },
+    "colors": {
+        "color0": "#0c0101",
+        "color1": "#D85830",
+        "color2": "#D56E4E",
+        "color3": "#F5B758",
+        "color4": "#C44B36",
+        "color5": "#DC7E83",
+        "color6": "#EC9B66",
+        "color7": "#f1dbc5",
+        "color8": "#3e0101",
+        "color9": "#ff692d",
+        "color10": "#ff8552",
+        "color11": "#fff25c",
+        "color12": "#ff5635",
+        "color13": "#ff8d96",
+        "color14": "#ffc46e",
+        "color15": "#ffffe5"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Communism/wallhaven-q2r225.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#423f39",
+        "foreground": "#f3ffff",
+        "cursor": "#f3ffff"
+    },
+    "colors": {
+        "color0": "#423f39",
+        "color1": "#C9C3BC",
+        "color2": "#70B7C7",
+        "color3": "#C9AFAE",
+        "color4": "#5DB4C5",
+        "color5": "#A6A1A1",
+        "color6": "#6BC3CF",
+        "color7": "#c7d5da",
+        "color8": "#5c5850",
+        "color9": "#ffffdb",
+        "color10": "#7dfaff",
+        "color11": "#ffcdc9",
+        "color12": "#66f6ff",
+        "color13": "#ecbcbc",
+        "color14": "#76ffff",
+        "color15": "#f3ffff"
+    }
+}

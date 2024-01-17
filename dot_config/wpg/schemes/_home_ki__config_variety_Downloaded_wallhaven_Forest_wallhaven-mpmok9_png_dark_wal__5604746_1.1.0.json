@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Forest/wallhaven-mpmok9.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#03142C",
+        "foreground": "#fffef9",
+        "cursor": "#fffef9"
+    },
+    "colors": {
+        "color0": "#03142C",
+        "color1": "#5AA6B1",
+        "color2": "#2D94A8",
+        "color3": "#EAAD79",
+        "color4": "#1E6D8B",
+        "color5": "#5F6F88",
+        "color6": "#57BDC8",
+        "color7": "#d7d2ce",
+        "color8": "#05295b",
+        "color9": "#63e4f7",
+        "color10": "#2cc9e8",
+        "color11": "#ffdf86",
+        "color12": "#1b92bf",
+        "color13": "#6c8dbf",
+        "color14": "#5effff",
+        "color15": "#fffef9"
+    }
+}

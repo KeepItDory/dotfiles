@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Communism/wallhaven-kwxrj6.png",
+    "alpha": "100",
+    "special": {
+        "background": "#999999",
+        "foreground": "#cccccc",
+        "cursor": "#cccccc"
+    },
+    "colors": {
+        "color0": "#999999",
+        "color1": "#643838",
+        "color2": "#3F4040",
+        "color3": "#4C4A4A",
+        "color4": "#604C4C",
+        "color5": "#636363",
+        "color6": "#636363",
+        "color7": "#cccccc",
+        "color8": "#8e8e8e",
+        "color9": "#643838",
+        "color10": "#3F4040",
+        "color11": "#4C4A4A",
+        "color12": "#604C4C",
+        "color13": "#636363",
+        "color14": "#636363",
+        "color15": "#cccccc"
+    }
+}

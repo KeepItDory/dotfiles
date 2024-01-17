@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Akira/wallhaven-vqmw15.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0f1112",
+        "foreground": "#fbffff",
+        "cursor": "#fbffff"
+    },
+    "colors": {
+        "color0": "#0f1112",
+        "color1": "#D6E2DC",
+        "color2": "#C7DEE3",
+        "color3": "#E9DCD8",
+        "color4": "#B1D6E2",
+        "color5": "#CADCDB",
+        "color6": "#ADD7E4",
+        "color7": "#e2e9e9",
+        "color8": "#252a2d",
+        "color9": "#deffff",
+        "color10": "#d4ffff",
+        "color11": "#ffecdb",
+        "color12": "#c6ffff",
+        "color13": "#daffff",
+        "color14": "#c2ffff",
+        "color15": "#fbffff"
+    }
+}

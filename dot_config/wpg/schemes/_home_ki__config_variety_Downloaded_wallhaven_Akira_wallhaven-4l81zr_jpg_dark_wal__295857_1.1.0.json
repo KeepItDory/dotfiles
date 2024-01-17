@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Akira/wallhaven-4l81zr.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0A0A0B",
+        "foreground": "#fbfbfe",
+        "cursor": "#fbfbfe"
+    },
+    "colors": {
+        "color0": "#0A0A0B",
+        "color1": "#D42B0D",
+        "color2": "#9F1A0B",
+        "color3": "#CCA148",
+        "color4": "#67676C",
+        "color5": "#CC5C32",
+        "color6": "#7B7D83",
+        "color7": "#c0c0c2",
+        "color8": "#212125",
+        "color9": "#ff2d02",
+        "color10": "#d91803",
+        "color11": "#ffd74b",
+        "color12": "#78789a",
+        "color13": "#ff7030",
+        "color14": "#8f9aba",
+        "color15": "#fbfbfe"
+    }
+}

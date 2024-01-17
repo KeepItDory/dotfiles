@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_3d_art/wallhaven-57rpe3.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#250905",
+        "foreground": "#ffbec9",
+        "cursor": "#ffbec9"
+    },
+    "colors": {
+        "color0": "#250905",
+        "color1": "#D02B30",
+        "color2": "#8A1817",
+        "color3": "#A23B43",
+        "color4": "#8F2627",
+        "color5": "#FE343D",
+        "color6": "#A42124",
+        "color7": "#e29098",
+        "color8": "#52130a",
+        "color9": "#ff272e",
+        "color10": "#bd1413",
+        "color11": "#e13e4a",
+        "color12": "#c52527",
+        "color13": "#ff2f3d",
+        "color14": "#e21d22",
+        "color15": "#ffbec9"
+    }
+}

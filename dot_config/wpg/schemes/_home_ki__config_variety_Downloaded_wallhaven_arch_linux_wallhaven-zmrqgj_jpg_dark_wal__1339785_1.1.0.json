@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_arch_linux/wallhaven-zmrqgj.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0a080c",
+        "foreground": "#dce4fe",
+        "cursor": "#dce4fe"
+    },
+    "colors": {
+        "color0": "#0a080c",
+        "color1": "#9D5939",
+        "color2": "#4F4750",
+        "color3": "#946655",
+        "color4": "#3A455E",
+        "color5": "#5F535E",
+        "color6": "#4C3B48",
+        "color7": "#a5abbe",
+        "color8": "#221b2a",
+        "color9": "#da6e3c",
+        "color10": "#6e5271",
+        "color11": "#cf7d5f",
+        "color12": "#415584",
+        "color13": "#866083",
+        "color14": "#6b4362",
+        "color15": "#dce4fe"
+    }
+}

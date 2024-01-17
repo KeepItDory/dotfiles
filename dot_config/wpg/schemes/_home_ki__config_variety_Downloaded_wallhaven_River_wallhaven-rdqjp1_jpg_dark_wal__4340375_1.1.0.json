@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_River/wallhaven-rdqjp1.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#040C10",
+        "foreground": "#ffe9ef",
+        "cursor": "#ffe9ef"
+    },
+    "colors": {
+        "color0": "#040C10",
+        "color1": "#9F554B",
+        "color2": "#2E4546",
+        "color3": "#C98B73",
+        "color4": "#545993",
+        "color5": "#9B709A",
+        "color6": "#5F505A",
+        "color7": "#ebc7cc",
+        "color8": "#0c2a39",
+        "color9": "#dd6252",
+        "color10": "#346062",
+        "color11": "#ffab80",
+        "color12": "#5e67ce",
+        "color13": "#da80d8",
+        "color14": "#865c78",
+        "color15": "#ffe9ef"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Temple/wallhaven-ne5z9w.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0d0e0f",
+        "foreground": "#dfd8d3",
+        "cursor": "#dfd8d3"
+    },
+    "colors": {
+        "color0": "#0d0e0f",
+        "color1": "#6C4C1D",
+        "color2": "#564433",
+        "color3": "#684B2D",
+        "color4": "#353842",
+        "color5": "#423E42",
+        "color6": "#4A3B32",
+        "color7": "#a29d99",
+        "color8": "#242729",
+        "color9": "#95641c",
+        "color10": "#785839",
+        "color11": "#906130",
+        "color12": "#3d445d",
+        "color13": "#5e485e",
+        "color14": "#684a38",
+        "color15": "#dfd8d3"
+    }
+}

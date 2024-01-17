@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_River/wallhaven-dp7koo.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0C0F12",
+        "foreground": "#fff9f6",
+        "cursor": "#fff9f6"
+    },
+    "colors": {
+        "color0": "#0C0F12",
+        "color1": "#A15D47",
+        "color2": "#98695F",
+        "color3": "#C5926D",
+        "color4": "#5C596B",
+        "color5": "#847B84",
+        "color6": "#797682",
+        "color7": "#c5bebc",
+        "color8": "#1f2730",
+        "color9": "#e0714d",
+        "color10": "#d57e6b",
+        "color11": "#ffba79",
+        "color12": "#6f6797",
+        "color13": "#bc8fbc",
+        "color14": "#9589b9",
+        "color15": "#fff9f6"
+    }
+}

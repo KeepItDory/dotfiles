@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_samurai/wallhaven-rredr7.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0a090a",
+        "foreground": "#f8f9f4",
+        "cursor": "#f8f9f4"
+    },
+    "colors": {
+        "color0": "#0a090a",
+        "color1": "#665B4C",
+        "color2": "#5D6254",
+        "color3": "#85857C",
+        "color4": "#6F7369",
+        "color5": "#817D70",
+        "color6": "#656759",
+        "color7": "#bcbdb9",
+        "color8": "#242024",
+        "color9": "#907857",
+        "color10": "#7c8b61",
+        "color11": "#bdbd90",
+        "color12": "#93a37a",
+        "color13": "#b7aa82",
+        "color14": "#8c9267",
+        "color15": "#f8f9f4"
+    }
+}

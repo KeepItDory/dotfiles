@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Alien/wallhaven-453xo7.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#090C11",
+        "foreground": "#e6ffff",
+        "cursor": "#e6ffff"
+    },
+    "colors": {
+        "color0": "#090C11",
+        "color1": "#259ADC",
+        "color2": "#1875BF",
+        "color3": "#BEC3AA",
+        "color4": "#0B5BAA",
+        "color5": "#6BC8F4",
+        "color6": "#4EB7E9",
+        "color7": "#c7e4f2",
+        "color8": "#192232",
+        "color9": "#1fccff",
+        "color10": "#1199ff",
+        "color11": "#ffffc5",
+        "color12": "#0276e8",
+        "color13": "#74ffff",
+        "color14": "#51f5ff",
+        "color15": "#e6ffff"
+    }
+}

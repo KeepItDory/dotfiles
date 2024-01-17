@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_warhammer_40k/wallhaven-pkvlz9.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#181512",
+        "foreground": "#ffffef",
+        "cursor": "#ffffef"
+    },
+    "colors": {
+        "color0": "#181512",
+        "color1": "#8F7159",
+        "color2": "#A88F6C",
+        "color3": "#D6AD60",
+        "color4": "#687F99",
+        "color5": "#A49E93",
+        "color6": "#CBB491",
+        "color7": "#e5deca",
+        "color8": "#342e27",
+        "color9": "#c89164",
+        "color10": "#ecbc7a",
+        "color11": "#ffe768",
+        "color12": "#76a4d7",
+        "color13": "#e9d3aa",
+        "color14": "#ffeea5",
+        "color15": "#ffffef"
+    }
+}

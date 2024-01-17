@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Pokemon/wallhaven-x897qz.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#13080b",
+        "foreground": "#ffffcf",
+        "cursor": "#ffffcf"
+    },
+    "colors": {
+        "color0": "#13080b",
+        "color1": "#F47514",
+        "color2": "#F8F657",
+        "color3": "#F4E40E",
+        "color4": "#F99514",
+        "color5": "#EB8A43",
+        "color6": "#EB8A39",
+        "color7": "#f4f4a8",
+        "color8": "#37161e",
+        "color9": "#ff9508",
+        "color10": "#ffff5b",
+        "color11": "#ffff01",
+        "color12": "#ffc308",
+        "color13": "#ffb043",
+        "color14": "#ffb137",
+        "color15": "#ffffcf"
+    }
+}

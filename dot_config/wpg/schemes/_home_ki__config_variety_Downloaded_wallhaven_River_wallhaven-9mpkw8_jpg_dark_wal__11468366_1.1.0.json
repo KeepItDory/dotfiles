@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_River/wallhaven-9mpkw8.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1f1113",
+        "foreground": "#fff7ff",
+        "cursor": "#fff7ff"
+    },
+    "colors": {
+        "color0": "#1f1113",
+        "color1": "#997A8A",
+        "color2": "#ECCCAF",
+        "color3": "#DAA99D",
+        "color4": "#D1AEB3",
+        "color5": "#C17E82",
+        "color6": "#AA919E",
+        "color7": "#e1d4dc",
+        "color8": "#3f2226",
+        "color9": "#d88cb3",
+        "color10": "#fffbbf",
+        "color11": "#ffccb3",
+        "color12": "#ffc9d6",
+        "color13": "#ff8f96",
+        "color14": "#f1a8ce",
+        "color15": "#fff7ff"
+    }
+}

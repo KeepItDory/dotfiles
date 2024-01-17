@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_cyberpunk/wallhaven-rrrm6q.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#191312",
+        "foreground": "#aeffff",
+        "cursor": "#aeffff"
+    },
+    "colors": {
+        "color0": "#191312",
+        "color1": "#BF45C1",
+        "color2": "#2F9D5D",
+        "color3": "#D1AB2F",
+        "color4": "#54539F",
+        "color5": "#CA19A4",
+        "color6": "#36AFB3",
+        "color7": "#84efe5",
+        "color8": "#362826",
+        "color9": "#ff48ff",
+        "color10": "#2fd976",
+        "color11": "#ffe72c",
+        "color12": "#5d5cde",
+        "color13": "#ff11dd",
+        "color14": "#36f1f7",
+        "color15": "#aeffff"
+    }
+}

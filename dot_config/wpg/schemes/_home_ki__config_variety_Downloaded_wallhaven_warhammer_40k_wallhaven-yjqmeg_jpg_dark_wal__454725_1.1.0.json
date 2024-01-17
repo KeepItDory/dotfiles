@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_warhammer_40k/wallhaven-yjqmeg.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0a0a0c",
+        "foreground": "#fffefe",
+        "cursor": "#fffefe"
+    },
+    "colors": {
+        "color0": "#0a0a0c",
+        "color1": "#73655A",
+        "color2": "#686363",
+        "color3": "#938976",
+        "color4": "#4E4C4F",
+        "color5": "#857467",
+        "color6": "#767C89",
+        "color7": "#c5c4c4",
+        "color8": "#202027",
+        "color9": "#a28167",
+        "color10": "#947373",
+        "color11": "#d0b788",
+        "color12": "#685870",
+        "color13": "#bc9476",
+        "color14": "#889bc2",
+        "color15": "#fffefe"
+    }
+}

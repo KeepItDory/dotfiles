@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_warhammer_40k/wallhaven-rr2xoq.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0a0a09",
+        "foreground": "#ffffdc",
+        "cursor": "#ffffdc"
+    },
+    "colors": {
+        "color0": "#0a0a09",
+        "color1": "#995738",
+        "color2": "#768E72",
+        "color3": "#966E4E",
+        "color4": "#534637",
+        "color5": "#6C5A47",
+        "color6": "#6C4E38",
+        "color7": "#d7c3a8",
+        "color8": "#242420",
+        "color9": "#d46c3b",
+        "color10": "#8dc983",
+        "color11": "#d18d56",
+        "color12": "#745b3e",
+        "color13": "#977550",
+        "color14": "#97633e",
+        "color15": "#ffffdc"
+    }
+}

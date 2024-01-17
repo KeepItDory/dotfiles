@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_cyberpunk/wallhaven-6djjvx.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#111417",
+        "foreground": "#faffff",
+        "cursor": "#faffff"
+    },
+    "colors": {
+        "color0": "#111417",
+        "color1": "#B7FEEC",
+        "color2": "#98DFCF",
+        "color3": "#C596B0",
+        "color4": "#92A9AB",
+        "color5": "#B582A7",
+        "color6": "#66B9C8",
+        "color7": "#e6ecef",
+        "color8": "#262c33",
+        "color9": "#bcffff",
+        "color10": "#adffff",
+        "color11": "#fface7",
+        "color12": "#a9ecf2",
+        "color13": "#ff94e2",
+        "color14": "#70feff",
+        "color15": "#faffff"
+    }
+}

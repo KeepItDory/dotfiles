@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Buddha/wallhaven-dg5q33.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#2a2b28",
+        "foreground": "#ffffdc",
+        "cursor": "#ffffdc"
+    },
+    "colors": {
+        "color0": "#2a2b28",
+        "color1": "#F8936C",
+        "color2": "#FECB70",
+        "color3": "#FEC657",
+        "color4": "#39698C",
+        "color5": "#FDAB8A",
+        "color6": "#FEB26E",
+        "color7": "#f6dfbc",
+        "color8": "#434440",
+        "color9": "#ffb475",
+        "color10": "#ffff79",
+        "color11": "#ffff5a",
+        "color12": "#3d8ac2",
+        "color13": "#ffd399",
+        "color14": "#ffe677",
+        "color15": "#ffffdc"
+    }
+}

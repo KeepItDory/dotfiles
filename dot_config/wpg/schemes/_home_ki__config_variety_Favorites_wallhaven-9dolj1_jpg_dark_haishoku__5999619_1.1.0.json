@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Favorites/wallhaven-9dolj1.jpg",
+    "alpha": "80",
+
+    "special": {
+        "background": "#181819",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#181819",
+        "color1": "#70333d",
+        "color2": "#44535e",
+        "color3": "#76535d",
+        "color4": "#4d616b",
+        "color5": "#ce7a81",
+        "color6": "#7b7f84",
+        "color7": "#c5c5c5",
+        "color8": "#303032",
+        "color9": "#9c3748",
+        "color10": "#4d6d84",
+        "color11": "#a65e73",
+        "color12": "#588297",
+        "color13": "#ff8995",
+        "color14": "#8fa3bc",
+        "color15": "#ffffff"
+    }
+}

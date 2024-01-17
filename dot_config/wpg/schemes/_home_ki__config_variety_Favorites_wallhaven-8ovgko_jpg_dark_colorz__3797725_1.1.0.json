@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Favorites/wallhaven-8ovgko.jpg",
+    "alpha": "80",
+
+    "special": {
+        "background": "#272420",
+        "foreground": "#fffffd",
+        "cursor": "#fffffd"
+    },
+    "colors": {
+        "color0": "#272420",
+        "color1": "#aa9d8c",
+        "color2": "#a6a8a3",
+        "color3": "#aa9173",
+        "color4": "#c4b6a5",
+        "color5": "#aba397",
+        "color6": "#92a0aa",
+        "color7": "#c9c8c7",
+        "color8": "#423d36",
+        "color9": "#f1cea1",
+        "color10": "#dcefbe",
+        "color11": "#efbe83",
+        "color12": "#ffeebf",
+        "color13": "#f3d8af",
+        "color14": "#a9d3f1",
+        "color15": "#fffffd"
+    }
+}

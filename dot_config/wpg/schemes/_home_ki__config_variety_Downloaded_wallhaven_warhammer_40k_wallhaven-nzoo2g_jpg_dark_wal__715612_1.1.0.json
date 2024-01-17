@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_warhammer_40k/wallhaven-nzoo2g.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0c0a0a",
+        "foreground": "#fff9f9",
+        "cursor": "#fff9f9"
+    },
+    "colors": {
+        "color0": "#0c0a0a",
+        "color1": "#8F5A38",
+        "color2": "#8A776F",
+        "color3": "#CE9D70",
+        "color4": "#827C83",
+        "color5": "#9F8776",
+        "color6": "#8F6B5A",
+        "color7": "#c8bfbf",
+        "color8": "#272020",
+        "color9": "#c6723b",
+        "color10": "#c39480",
+        "color11": "#ffcb7c",
+        "color12": "#b490ba",
+        "color13": "#e0ac87",
+        "color14": "#c98565",
+        "color15": "#fff9f9"
+    }
+}

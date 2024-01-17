@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Communism/wallhaven-r2rwe1.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#343434",
+        "foreground": "#e4e4e4",
+        "cursor": "#e4e4e4"
+    },
+    "colors": {
+        "color0": "#343434",
+        "color1": "#535353",
+        "color2": "#5B5B5B",
+        "color3": "#6c6c6c",
+        "color4": "#4B4B4B",
+        "color5": "#434343",
+        "color6": "#3C3C3C",
+        "color7": "#a8a8a8",
+        "color8": "#4d4d4d",
+        "color9": "#766161",
+        "color10": "#826a6a",
+        "color11": "#9a7e7e",
+        "color12": "#6b5757",
+        "color13": "#5f4e4e",
+        "color14": "#554646",
+        "color15": "#e4e4e4"
+    }
+}

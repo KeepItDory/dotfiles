@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Pokemon/wallhaven-6orqyl.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#141410",
+        "foreground": "#feffff",
+        "cursor": "#feffff"
+    },
+    "colors": {
+        "color0": "#141410",
+        "color1": "#CFD1D0",
+        "color2": "#90918E",
+        "color3": "#B0B1AF",
+        "color4": "#4E4986",
+        "color5": "#9E9FA0",
+        "color6": "#BCC0C1",
+        "color7": "#e6e7e7",
+        "color8": "#2f2f26",
+        "color9": "#e4ffff",
+        "color10": "#c1cfa6",
+        "color11": "#e4fccc",
+        "color12": "#5a51bb",
+        "color13": "#b8cee4",
+        "color14": "#dbffff",
+        "color15": "#feffff"
+    }
+}

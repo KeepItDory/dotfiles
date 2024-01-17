@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_warhammer_40k/wallhaven-q6mp2l.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#12100f",
+        "foreground": "#fffffd",
+        "cursor": "#fffffd"
+    },
+    "colors": {
+        "color0": "#12100f",
+        "color1": "#A75733",
+        "color2": "#78836E",
+        "color3": "#BD964B",
+        "color4": "#4A6D8C",
+        "color5": "#546E77",
+        "color6": "#40A4B3",
+        "color7": "#c3c3c2",
+        "color8": "#2d2825",
+        "color9": "#e76b34",
+        "color10": "#9bb97f",
+        "color11": "#ffc850",
+        "color12": "#528ec3",
+        "color13": "#6095a7",
+        "color14": "#43e0f8",
+        "color15": "#fffffd"
+    }
+}

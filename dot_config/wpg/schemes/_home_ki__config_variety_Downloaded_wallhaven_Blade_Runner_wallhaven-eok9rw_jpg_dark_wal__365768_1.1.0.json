@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Blade_Runner/wallhaven-eok9rw.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#090f10",
+        "foreground": "#f3fffd",
+        "cursor": "#f3fffd"
+    },
+    "colors": {
+        "color0": "#090f10",
+        "color1": "#657B78",
+        "color2": "#546C6D",
+        "color3": "#6B827E",
+        "color4": "#455D62",
+        "color5": "#657F80",
+        "color6": "#798F89",
+        "color7": "#b9c4c1",
+        "color8": "#1a2d30",
+        "color9": "#74aea6",
+        "color10": "#60979a",
+        "color11": "#7bb8ad",
+        "color12": "#4e7f8a",
+        "color13": "#74b2b5",
+        "color14": "#8ccab9",
+        "color15": "#f3fffd"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Circuitry/wallhaven-p2q2ee.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#001718",
+        "foreground": "#9fffff",
+        "cursor": "#9fffff"
+    },
+    "colors": {
+        "color0": "#001718",
+        "color1": "#00696F",
+        "color2": "#01807F",
+        "color3": "#00B4CD",
+        "color4": "#007889",
+        "color5": "#0098A4",
+        "color6": "#00C0BF",
+        "color7": "#77dee5",
+        "color8": "#014549",
+        "color9": "#01878f",
+        "color10": "#01a6a5",
+        "color11": "#01e9ff",
+        "color12": "#019bb1",
+        "color13": "#01c4d4",
+        "color14": "#01f8f7",
+        "color15": "#9fffff"
+    }
+}

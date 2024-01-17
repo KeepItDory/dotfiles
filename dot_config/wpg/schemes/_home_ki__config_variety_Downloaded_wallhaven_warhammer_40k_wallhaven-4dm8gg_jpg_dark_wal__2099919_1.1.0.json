@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_warhammer_40k/wallhaven-4dm8gg.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0a0905",
+        "foreground": "#ffe9f6",
+        "cursor": "#ffe9f6"
+    },
+    "colors": {
+        "color0": "#0a0905",
+        "color1": "#8A724E",
+        "color2": "#74903A",
+        "color3": "#C0B363",
+        "color4": "#5E3A44",
+        "color5": "#A2985E",
+        "color6": "#685F51",
+        "color7": "#c8b1bb",
+        "color8": "#2c2714",
+        "color9": "#c19757",
+        "color10": "#9bc83e",
+        "color11": "#fff66d",
+        "color12": "#844154",
+        "color13": "#e3d169",
+        "color14": "#937e5d",
+        "color15": "#ffe9f6"
+    }
+}

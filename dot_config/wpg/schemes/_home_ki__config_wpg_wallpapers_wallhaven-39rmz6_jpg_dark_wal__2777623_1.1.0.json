@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/wpg/wallpapers/wallhaven-39rmz6.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#13110e",
+        "foreground": "#ffffe6",
+        "cursor": "#ffffe6"
+    },
+    "colors": {
+        "color0": "#13110e",
+        "color1": "#A19136",
+        "color2": "#798D7A",
+        "color3": "#E2CD6F",
+        "color4": "#CCB466",
+        "color5": "#C4B887",
+        "color6": "#A6975D",
+        "color7": "#ece6c3",
+        "color8": "#302a22",
+        "color9": "#dfc638",
+        "color10": "#8cc88f",
+        "color11": "#ffff7a",
+        "color12": "#fff470",
+        "color13": "#fffc9a",
+        "color14": "#e8ce68",
+        "color15": "#ffffe6"
+    }
+}

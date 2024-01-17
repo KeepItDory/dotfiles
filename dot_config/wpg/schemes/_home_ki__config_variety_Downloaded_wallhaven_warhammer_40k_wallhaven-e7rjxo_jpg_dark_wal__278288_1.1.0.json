@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_warhammer_40k/wallhaven-e7rjxo.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#090805",
+        "foreground": "#ffffef",
+        "cursor": "#ffffef"
+    },
+    "colors": {
+        "color0": "#090805",
+        "color1": "#A18C6F",
+        "color2": "#7C8263",
+        "color3": "#D8A869",
+        "color4": "#CBB49C",
+        "color5": "#AFA191",
+        "color6": "#BDC3B5",
+        "color7": "#e6ddcb",
+        "color8": "#2a2515",
+        "color9": "#e2b87e",
+        "color10": "#aab771",
+        "color11": "#ffdd73",
+        "color12": "#ffeab3",
+        "color13": "#f8d2a7",
+        "color14": "#f9ffd2",
+        "color15": "#ffffef"
+    }
+}

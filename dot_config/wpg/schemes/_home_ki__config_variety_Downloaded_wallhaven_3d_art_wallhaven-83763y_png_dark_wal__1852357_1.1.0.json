@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_3d_art/wallhaven-83763y.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#100818",
+        "foreground": "#a3ffff",
+        "cursor": "#a3ffff"
+    },
+    "colors": {
+        "color0": "#100818",
+        "color1": "#C7EC50",
+        "color2": "#179DA9",
+        "color3": "#FFDD12",
+        "color4": "#247485",
+        "color5": "#57C1A9",
+        "color6": "#0DB9C7",
+        "color7": "#79d8df",
+        "color8": "#28133e",
+        "color9": "#ffff53",
+        "color10": "#11d6e8",
+        "color11": "#ffff05",
+        "color12": "#239db7",
+        "color13": "#5effe5",
+        "color14": "#02fcff",
+        "color15": "#a3ffff"
+    }
+}

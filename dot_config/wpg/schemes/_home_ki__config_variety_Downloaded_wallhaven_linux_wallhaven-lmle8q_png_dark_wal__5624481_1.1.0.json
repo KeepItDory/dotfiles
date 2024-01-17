@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_linux/wallhaven-lmle8q.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#120512",
+        "foreground": "#ffffc7",
+        "cursor": "#ffffc7"
+    },
+    "colors": {
+        "color0": "#120512",
+        "color1": "#C34555",
+        "color2": "#6C4B4D",
+        "color3": "#FD995A",
+        "color4": "#4B1C49",
+        "color5": "#FA5E62",
+        "color6": "#FC7056",
+        "color7": "#f5dc9d",
+        "color8": "#3a0e3a",
+        "color9": "#ff4861",
+        "color10": "#985559",
+        "color11": "#ffc15e",
+        "color12": "#681d65",
+        "color13": "#ff636a",
+        "color14": "#ff8259",
+        "color15": "#ffffc7"
+    }
+}

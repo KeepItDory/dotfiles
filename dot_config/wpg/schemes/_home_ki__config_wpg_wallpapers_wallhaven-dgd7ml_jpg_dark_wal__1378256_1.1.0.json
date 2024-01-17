@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/wpg/wallpapers/wallhaven-dgd7ml.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0D000C",
+        "foreground": "#ffdbd9",
+        "cursor": "#ffdbd9"
+    },
+    "colors": {
+        "color0": "#0D000C",
+        "color1": "#A91A33",
+        "color2": "#12625A",
+        "color3": "#A57171",
+        "color4": "#236A6B",
+        "color5": "#817D73",
+        "color6": "#596C6C",
+        "color7": "#e5acaa",
+        "color8": "#3e0139",
+        "color9": "#e81539",
+        "color10": "#0f877b",
+        "color11": "#e88080",
+        "color12": "#249294",
+        "color13": "#b7a985",
+        "color14": "#669999",
+        "color15": "#ffdbd9"
+    }
+}

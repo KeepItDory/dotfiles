@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Forest/wallhaven-eyrlql.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0e0a07",
+        "foreground": "#fffff2",
+        "cursor": "#fffff2"
+    },
+    "colors": {
+        "color0": "#0e0a07",
+        "color1": "#93612C",
+        "color2": "#6E604C",
+        "color3": "#BA9F49",
+        "color4": "#9A6D45",
+        "color5": "#817B66",
+        "color6": "#A6975A",
+        "color7": "#dbd4c6",
+        "color8": "#302116",
+        "color9": "#cb7e2c",
+        "color10": "#9b7e56",
+        "color11": "#ffd74e",
+        "color12": "#d68c4b",
+        "color13": "#b6a875",
+        "color14": "#e8ce64",
+        "color15": "#fffff2"
+    }
+}

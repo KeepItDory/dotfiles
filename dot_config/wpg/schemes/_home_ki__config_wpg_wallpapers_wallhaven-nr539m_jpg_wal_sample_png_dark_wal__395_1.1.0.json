@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/wpg/wallpapers/wallhaven-nr539m.jpg_wal_sample.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0f160d",
+        "foreground": "#fffff6",
+        "cursor": "#fffff6"
+    },
+    "colors": {
+        "color0": "#0f160d",
+        "color1": "#5496A7",
+        "color2": "#186B90",
+        "color3": "#CFF4AB",
+        "color4": "#138DC3",
+        "color5": "#A2B094",
+        "color6": "#60C9E2",
+        "color7": "#ede9dd",
+        "color8": "#24351f",
+        "color9": "#5ccce9",
+        "color10": "#148fc6",
+        "color11": "#feffb8",
+        "color12": "#0abcff",
+        "color13": "#d2f9ab",
+        "color14": "#67ffff",
+        "color15": "#fffff6"
+    }
+}

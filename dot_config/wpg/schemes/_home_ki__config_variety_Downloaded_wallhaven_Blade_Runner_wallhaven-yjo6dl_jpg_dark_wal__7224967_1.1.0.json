@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Blade_Runner/wallhaven-yjo6dl.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#120f0c",
+        "foreground": "#fffff7",
+        "cursor": "#fffff7"
+    },
+    "colors": {
+        "color0": "#120f0c",
+        "color1": "#8D6C3B",
+        "color2": "#91744A",
+        "color3": "#C19F60",
+        "color4": "#65768F",
+        "color5": "#9B8A69",
+        "color6": "#8E7B5D",
+        "color7": "#cccac1",
+        "color8": "#30281f",
+        "color9": "#c48e3f",
+        "color10": "#ca9951",
+        "color11": "#ffd46a",
+        "color12": "#7396c9",
+        "color13": "#dab877",
+        "color14": "#c7a369",
+        "color15": "#fffff7"
+    }
+}

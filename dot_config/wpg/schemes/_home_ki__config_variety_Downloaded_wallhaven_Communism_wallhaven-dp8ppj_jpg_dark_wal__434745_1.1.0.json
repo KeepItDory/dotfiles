@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Communism/wallhaven-dp8ppj.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#14161a",
+        "foreground": "#fcf9fd",
+        "cursor": "#fcf9fd"
+    },
+    "colors": {
+        "color0": "#14161a",
+        "color1": "#6699DD",
+        "color2": "#4F8DD9",
+        "color3": "#73A2E1",
+        "color4": "#3183D4",
+        "color5": "#7385A4",
+        "color6": "#1C80D4",
+        "color7": "#c0bec1",
+        "color8": "#292d36",
+        "color9": "#6fc3ff",
+        "color10": "#53b5ff",
+        "color11": "#7fcfff",
+        "color12": "#2eaaff",
+        "color13": "#83a8e7",
+        "color14": "#14a7ff",
+        "color15": "#fcf9fd"
+    }
+}

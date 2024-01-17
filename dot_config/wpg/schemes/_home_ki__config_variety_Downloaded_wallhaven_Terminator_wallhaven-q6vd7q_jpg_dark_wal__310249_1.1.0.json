@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Terminator/wallhaven-q6vd7q.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#090a0a",
+        "foreground": "#fcfcfe",
+        "cursor": "#fcfcfe"
+    },
+    "colors": {
+        "color0": "#090a0a",
+        "color1": "#6C6E73",
+        "color2": "#4A4E56",
+        "color3": "#5D626B",
+        "color4": "#535964",
+        "color5": "#727886",
+        "color6": "#7E8289",
+        "color7": "#c1c1c2",
+        "color8": "#202424",
+        "color9": "#7d88a3",
+        "color10": "#55617a",
+        "color11": "#6b7b98",
+        "color12": "#60708d",
+        "color13": "#8495be",
+        "color14": "#92a4c3",
+        "color15": "#fcfcfe"
+    }
+}

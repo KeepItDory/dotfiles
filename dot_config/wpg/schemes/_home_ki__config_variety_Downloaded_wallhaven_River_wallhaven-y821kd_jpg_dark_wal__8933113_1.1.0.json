@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_River/wallhaven-y821kd.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#1a131c",
+        "foreground": "#fffcf7",
+        "cursor": "#fffcf7"
+    },
+    "colors": {
+        "color0": "#1a131c",
+        "color1": "#8E8684",
+        "color2": "#CFC3BF",
+        "color3": "#CEAEAB",
+        "color4": "#DDD2D3",
+        "color5": "#A899A3",
+        "color6": "#C8BAC7",
+        "color7": "#ece3df",
+        "color8": "#35273a",
+        "color9": "#caa399",
+        "color10": "#ffeddb",
+        "color11": "#ffcdc5",
+        "color12": "#ffdfe4",
+        "color13": "#efb2da",
+        "color14": "#ffd8ff",
+        "color15": "#fffcf7"
+    }
+}

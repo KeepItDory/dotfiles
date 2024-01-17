@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_3d_art/wallhaven-5gyjx7.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0A0C0E",
+        "foreground": "#fffaf2",
+        "cursor": "#fffaf2"
+    },
+    "colors": {
+        "color0": "#0A0C0E",
+        "color1": "#CE3333",
+        "color2": "#957063",
+        "color3": "#CC9176",
+        "color4": "#990B14",
+        "color5": "#A78777",
+        "color6": "#6B98A0",
+        "color7": "#d0c3bd",
+        "color8": "#1e242b",
+        "color9": "#ff3131",
+        "color10": "#d18970",
+        "color11": "#ffb484",
+        "color12": "#d10310",
+        "color13": "#eba988",
+        "color14": "#79d1e1",
+        "color15": "#fffaf2"
+    }
+}

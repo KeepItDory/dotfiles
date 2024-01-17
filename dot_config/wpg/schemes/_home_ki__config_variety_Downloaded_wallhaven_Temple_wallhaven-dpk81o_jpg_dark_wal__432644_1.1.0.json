@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Temple/wallhaven-dpk81o.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#090a0a",
+        "foreground": "#fefffe",
+        "cursor": "#fefffe"
+    },
+    "colors": {
+        "color0": "#090a0a",
+        "color1": "#9C9866",
+        "color2": "#4D4F4D",
+        "color3": "#CCB976",
+        "color4": "#6D7988",
+        "color5": "#676862",
+        "color6": "#7F8077",
+        "color7": "#c4c5c4",
+        "color8": "#202424",
+        "color9": "#dbd373",
+        "color10": "#5a705a",
+        "color11": "#fffc84",
+        "color12": "#7d9bc0",
+        "color13": "#8e9472",
+        "color14": "#b1b68a",
+        "color15": "#fefffe"
+    }
+}

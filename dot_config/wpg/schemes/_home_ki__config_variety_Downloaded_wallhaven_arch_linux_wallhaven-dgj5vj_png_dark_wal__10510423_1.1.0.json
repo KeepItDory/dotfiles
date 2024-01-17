@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_arch_linux/wallhaven-dgj5vj.png",
+    "alpha": "100",
+    "special": {
+        "background": "#010101",
+        "foreground": "#959799",
+        "cursor": "#959799"
+    },
+    "colors": {
+        "color0": "#010101",
+        "color1": "#201F20",
+        "color2": "#072433",
+        "color3": "#252525",
+        "color4": "#403F3F",
+        "color5": "#062F43",
+        "color6": "#2C3C44",
+        "color7": "#959799",
+        "color8": "#68696b",
+        "color9": "#201F20",
+        "color10": "#072433",
+        "color11": "#252525",
+        "color12": "#403F3F",
+        "color13": "#062F43",
+        "color14": "#2C3C44",
+        "color15": "#959799"
+    }
+}

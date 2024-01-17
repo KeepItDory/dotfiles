@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_warhammer_40k/wallhaven-p979ge.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#121314",
+        "foreground": "#ffffeb",
+        "cursor": "#ffffeb"
+    },
+    "colors": {
+        "color0": "#121314",
+        "color1": "#A26B42",
+        "color2": "#7D837A",
+        "color3": "#D1A471",
+        "color4": "#998A71",
+        "color5": "#9FA090",
+        "color6": "#B7C7B6",
+        "color7": "#e6dec5",
+        "color8": "#292c2e",
+        "color9": "#e18846",
+        "color10": "#9dba8e",
+        "color11": "#ffd67d",
+        "color12": "#d8b781",
+        "color13": "#dfe3a7",
+        "color14": "#d8ffd3",
+        "color15": "#ffffeb"
+    }
+}

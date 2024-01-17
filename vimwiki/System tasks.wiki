@@ -3,10 +3,19 @@
 TODO:
 * [ ] Install [[tdrop]]
   * [ ] Configure [[tdrop]] to dock at top and centered
-* [ ] Redo [[polybar]], no bitmap versions! This is why glyphs are broken
 * [ ] Install pttabs
+= * [ ] Make hotkeys and shortcuts to change the wallpaper in variety =
+* [ ] install openweathermap-fullfeatured for polybar
+* [ ] Figure out why polybar_online status module isn't showing up.
 * [ ] Install rofi-wifi-menu
 * [ ] Install polybar-qbittorrent
+* [ ] Try Kodo nvim config
+* [ ] Try orgmode for vim
+* [ ] Try neorg for vim
+* [ ] Try mpv-discordRPC or mpvcord
+* [ ] Try mpv-autosub
+* [ ] Try rofi-pulse
+* [ ] Fix polybar temperature module
 * [ ] Install polybar-pulseaudio-control
 * [ ] Install bar-gmail and bar-protonmail
 * [ ] Install slickgreeter pywal
@@ -19,7 +28,6 @@ TODO:
 * [ ] Research jackett
 * [ ] Setup hyprland
 * [X] Reinstall Linux System. EndeavourOS, but also leave Room for a secondary Linux OS
-* [ ] Figure out why polybar VPN module has 'tunnel error'
 * [ ] Figure out ProtonVPN bullshit
 * [ ] Lube FEKER IK75 Stabalizers
 * [ ] Move personal accounts over to proton mail

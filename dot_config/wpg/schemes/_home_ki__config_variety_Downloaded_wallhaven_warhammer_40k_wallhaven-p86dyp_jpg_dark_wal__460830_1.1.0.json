@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_warhammer_40k/wallhaven-p86dyp.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#050505",
+        "foreground": "#fffff0",
+        "cursor": "#fffff0"
+    },
+    "colors": {
+        "color0": "#050505",
+        "color1": "#8D5F39",
+        "color2": "#6A5A4D",
+        "color3": "#CD9C71",
+        "color4": "#5F7A96",
+        "color5": "#AB8C69",
+        "color6": "#937351",
+        "color7": "#dcd1c5",
+        "color8": "#1e1e1e",
+        "color9": "#c47a3d",
+        "color10": "#957358",
+        "color11": "#ffc97e",
+        "color12": "#6b9ed2",
+        "color13": "#f0b776",
+        "color14": "#cd955a",
+        "color15": "#fffff0"
+    }
+}

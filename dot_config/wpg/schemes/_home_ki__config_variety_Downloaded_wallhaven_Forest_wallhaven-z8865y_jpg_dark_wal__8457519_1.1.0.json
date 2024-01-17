@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Forest/wallhaven-z8865y.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#180e0d",
+        "foreground": "#ffffea",
+        "cursor": "#ffffea"
+    },
+    "colors": {
+        "color0": "#180e0d",
+        "color1": "#976C54",
+        "color2": "#AF8B68",
+        "color3": "#D5A86B",
+        "color4": "#757E88",
+        "color5": "#ADA8A7",
+        "color6": "#CFAC94",
+        "color7": "#eee1ca",
+        "color8": "#38201e",
+        "color9": "#d3885d",
+        "color10": "#f5b475",
+        "color11": "#ffdd76",
+        "color12": "#87a2c1",
+        "color13": "#f6cbc3",
+        "color14": "#ffdba9",
+        "color15": "#ffffea"
+    }
+}

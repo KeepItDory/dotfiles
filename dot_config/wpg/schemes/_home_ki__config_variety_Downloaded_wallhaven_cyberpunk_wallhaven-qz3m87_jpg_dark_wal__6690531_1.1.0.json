@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_cyberpunk/wallhaven-qz3m87.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0D1314",
+        "foreground": "#fffbf9",
+        "cursor": "#fffbf9"
+    },
+    "colors": {
+        "color0": "#0D1314",
+        "color1": "#966133",
+        "color2": "#645959",
+        "color3": "#9E886B",
+        "color4": "#717984",
+        "color5": "#975E62",
+        "color6": "#5098A0",
+        "color7": "#c6c0bf",
+        "color8": "#203032",
+        "color9": "#d07d35",
+        "color10": "#8e6767",
+        "color11": "#deb379",
+        "color12": "#839abb",
+        "color13": "#d46a71",
+        "color14": "#58d2df",
+        "color15": "#fffbf9"
+    }
+}

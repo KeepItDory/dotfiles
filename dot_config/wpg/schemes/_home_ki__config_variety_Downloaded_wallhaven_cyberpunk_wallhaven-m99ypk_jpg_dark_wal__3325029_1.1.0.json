@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_cyberpunk/wallhaven-m99ypk.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#11141c",
+        "foreground": "#fdf8ff",
+        "cursor": "#fdf8ff"
+    },
+    "colors": {
+        "color0": "#11141c",
+        "color1": "#956964",
+        "color2": "#637090",
+        "color3": "#BE9D6B",
+        "color4": "#3C588B",
+        "color5": "#8B7485",
+        "color6": "#6F8EA6",
+        "color7": "#c4c0ca",
+        "color8": "#232a3b",
+        "color9": "#d17b71",
+        "color10": "#708aca",
+        "color11": "#ffd077",
+        "color12": "#416ec1",
+        "color13": "#c586b4",
+        "color14": "#7ebae9",
+        "color15": "#fdf8ff"
+    }
+}

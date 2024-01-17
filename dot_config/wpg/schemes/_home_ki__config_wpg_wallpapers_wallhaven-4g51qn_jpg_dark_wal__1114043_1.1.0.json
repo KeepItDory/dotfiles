@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/wpg/wallpapers/wallhaven-4g51qn.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#020202",
+        "foreground": "#fffdef",
+        "cursor": "#fffdef"
+    },
+    "colors": {
+        "color0": "#020202",
+        "color1": "#D02626",
+        "color2": "#76867F",
+        "color3": "#D1BD4C",
+        "color4": "#A48F70",
+        "color5": "#D8B9A1",
+        "color6": "#A79E8F",
+        "color7": "#e9dace",
+        "color8": "#1b1b1b",
+        "color9": "#ff2121",
+        "color10": "#89bea7",
+        "color11": "#ffff50",
+        "color12": "#e7bd7f",
+        "color13": "#ffedb8",
+        "color14": "#edd2a5",
+        "color15": "#fffdef"
+    }
+}

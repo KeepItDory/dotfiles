@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_arch_linux/wallhaven-k77oy6.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#321829",
+        "foreground": "#baffff",
+        "cursor": "#baffff"
+    },
+    "colors": {
+        "color0": "#321829",
+        "color1": "#9E2A85",
+        "color2": "#C06899",
+        "color3": "#FEA91B",
+        "color4": "#375DA5",
+        "color5": "#D50D86",
+        "color6": "#1299D8",
+        "color7": "#8cc2de",
+        "color8": "#542744",
+        "color9": "#da29b4",
+        "color10": "#ff73c9",
+        "color11": "#ffe010",
+        "color12": "#3974e4",
+        "color13": "#ff02b1",
+        "color14": "#08ccff",
+        "color15": "#baffff"
+    }
+}

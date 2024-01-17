@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Pokemon/wallhaven-j58qwp.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#101118",
+        "foreground": "#fffffa",
+        "cursor": "#fffffa"
+    },
+    "colors": {
+        "color0": "#101118",
+        "color1": "#CDBB9E",
+        "color2": "#D8C6AA",
+        "color3": "#DBC496",
+        "color4": "#E4CCAA",
+        "color5": "#9EA7A3",
+        "color6": "#A3C1C4",
+        "color7": "#e6e5de",
+        "color8": "#232636",
+        "color9": "#fff8b5",
+        "color10": "#ffffc3",
+        "color11": "#ffffab",
+        "color12": "#ffffc0",
+        "color13": "#b8eed6",
+        "color14": "#bcffff",
+        "color15": "#fffffa"
+    }
+}

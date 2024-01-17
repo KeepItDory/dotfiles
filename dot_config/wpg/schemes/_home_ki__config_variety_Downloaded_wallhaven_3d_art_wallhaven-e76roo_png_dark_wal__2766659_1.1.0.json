@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_3d_art/wallhaven-e76roo.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#101116",
+        "foreground": "#f1ffff",
+        "cursor": "#f1ffff"
+    },
+    "colors": {
+        "color0": "#101116",
+        "color1": "#917C85",
+        "color2": "#A4AFCE",
+        "color3": "#C5A796",
+        "color4": "#6A8CB9",
+        "color5": "#AA9797",
+        "color6": "#AAF0FB",
+        "color7": "#def5f6",
+        "color8": "#242733",
+        "color9": "#cd8faa",
+        "color10": "#bdd8ff",
+        "color11": "#ffd2ac",
+        "color12": "#76b3ff",
+        "color13": "#f1afaf",
+        "color14": "#b4ffff",
+        "color15": "#f1ffff"
+    }
+}

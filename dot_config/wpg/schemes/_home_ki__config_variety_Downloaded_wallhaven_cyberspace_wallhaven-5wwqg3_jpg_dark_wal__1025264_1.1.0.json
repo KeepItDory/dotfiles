@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_cyberspace/wallhaven-5wwqg3.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#001332",
+        "foreground": "#eef1ff",
+        "cursor": "#eef1ff"
+    },
+    "colors": {
+        "color0": "#001332",
+        "color1": "#485B79",
+        "color2": "#355B82",
+        "color3": "#294C72",
+        "color4": "#124471",
+        "color5": "#3D6186",
+        "color6": "#556B8A",
+        "color7": "#b5b7c2",
+        "color8": "#012663",
+        "color9": "#5173a9",
+        "color10": "#3876b4",
+        "color11": "#2b629e",
+        "color12": "#0e589b",
+        "color13": "#427dba",
+        "color14": "#6088c1",
+        "color15": "#eef1ff"
+    }
+}

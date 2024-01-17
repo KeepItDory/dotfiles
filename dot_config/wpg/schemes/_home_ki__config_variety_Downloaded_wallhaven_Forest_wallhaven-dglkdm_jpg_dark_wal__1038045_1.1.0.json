@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Forest/wallhaven-dglkdm.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0b0809",
+        "foreground": "#ffffd7",
+        "cursor": "#ffffd7"
+    },
+    "colors": {
+        "color0": "#0b0809",
+        "color1": "#92693A",
+        "color2": "#6F522A",
+        "color3": "#DDA75D",
+        "color4": "#695447",
+        "color5": "#6A4C30",
+        "color6": "#584336",
+        "color7": "#f4dfb3",
+        "color8": "#281c20",
+        "color9": "#cb893e",
+        "color10": "#9a6c2c",
+        "color11": "#ffdc64",
+        "color12": "#936a50",
+        "color13": "#936234",
+        "color14": "#7b543c",
+        "color15": "#ffffd7"
+    }
+}

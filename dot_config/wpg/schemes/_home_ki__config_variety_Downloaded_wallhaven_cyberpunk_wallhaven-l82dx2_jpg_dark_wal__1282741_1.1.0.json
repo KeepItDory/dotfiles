@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_cyberpunk/wallhaven-l82dx2.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0f0f0f",
+        "foreground": "#feffff",
+        "cursor": "#feffff"
+    },
+    "colors": {
+        "color0": "#0f0f0f",
+        "color1": "#BFC4BD",
+        "color2": "#4C59B0",
+        "color3": "#B3BC46",
+        "color4": "#12219C",
+        "color5": "#A0A5A4",
+        "color6": "#7A85AF",
+        "color7": "#dfe0e0",
+        "color8": "#282828",
+        "color9": "#edffdc",
+        "color10": "#5267f5",
+        "color11": "#f6ff4a",
+        "color12": "#0b21d6",
+        "color13": "#baebe1",
+        "color14": "#8ba1f6",
+        "color15": "#feffff"
+    }
+}

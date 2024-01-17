@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Forest/wallhaven-gjydpl.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0f1713",
+        "foreground": "#ffffec",
+        "cursor": "#ffffec"
+    },
+    "colors": {
+        "color0": "#0f1713",
+        "color1": "#91A46A",
+        "color2": "#7BBB65",
+        "color3": "#A9D26F",
+        "color4": "#6A9365",
+        "color5": "#A1C6B7",
+        "color6": "#6998A2",
+        "color7": "#e7ebcc",
+        "color8": "#22352c",
+        "color9": "#c2e678",
+        "color10": "#96ff70",
+        "color11": "#dfff7b",
+        "color12": "#7dcf73",
+        "color13": "#bafff2",
+        "color14": "#77d0e3",
+        "color15": "#ffffec"
+    }
+}

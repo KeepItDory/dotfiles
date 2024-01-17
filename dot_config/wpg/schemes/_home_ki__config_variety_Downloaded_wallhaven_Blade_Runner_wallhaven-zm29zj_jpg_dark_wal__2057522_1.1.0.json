@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Blade_Runner/wallhaven-zm29zj.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#050506",
+        "foreground": "#edf2fa",
+        "cursor": "#edf2fa"
+    },
+    "colors": {
+        "color0": "#050506",
+        "color1": "#9C514C",
+        "color2": "#698A72",
+        "color3": "#CDA142",
+        "color4": "#5C6057",
+        "color5": "#892B69",
+        "color6": "#9C9B6C",
+        "color7": "#b3b7bd",
+        "color8": "#1b1b21",
+        "color9": "#d95c53",
+        "color10": "#78c38d",
+        "color11": "#ffd744",
+        "color12": "#788865",
+        "color13": "#bd2c8c",
+        "color14": "#dbd97b",
+        "color15": "#edf2fa"
+    }
+}

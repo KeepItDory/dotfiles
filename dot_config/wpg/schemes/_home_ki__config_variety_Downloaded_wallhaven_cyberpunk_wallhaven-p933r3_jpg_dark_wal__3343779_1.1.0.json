@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_cyberpunk/wallhaven-p933r3.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#010214",
+        "foreground": "#e6ffff",
+        "cursor": "#e6ffff"
+    },
+    "colors": {
+        "color0": "#010214",
+        "color1": "#776977",
+        "color2": "#4C9B92",
+        "color3": "#3F8086",
+        "color4": "#2F93B2",
+        "color5": "#417D85",
+        "color6": "#10F5A2",
+        "color7": "#b5dccc",
+        "color8": "#010446",
+        "color9": "#a97aa9",
+        "color10": "#53d8c9",
+        "color11": "#45b1bb",
+        "color12": "#2ec6f6",
+        "color13": "#47acb9",
+        "color14": "#03ffd7",
+        "color15": "#e6ffff"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_warhammer_40k/wallhaven-4yr6pk.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#090a0a",
+        "foreground": "#fffff6",
+        "cursor": "#fffff6"
+    },
+    "colors": {
+        "color0": "#090a0a",
+        "color1": "#9C4A32",
+        "color2": "#6C645C",
+        "color3": "#A0966D",
+        "color4": "#7B857E",
+        "color5": "#956B57",
+        "color6": "#9FA69A",
+        "color7": "#dbdecf",
+        "color8": "#202424",
+        "color9": "#d85833",
+        "color10": "#99826a",
+        "color11": "#e1cd7c",
+        "color12": "#8fbd9d",
+        "color13": "#d18561",
+        "color14": "#cbecb3",
+        "color15": "#fffff6"
+    }
+}

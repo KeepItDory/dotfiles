@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Pokemon/wallhaven-vmx7qm.jpg",
+    "alpha": "80",
+
+    "special": {
+        "background": "#220603",
+        "foreground": "#fffafa",
+        "cursor": "#fffafa"
+    },
+    "colors": {
+        "color0": "#220603",
+        "color1": "#ac1f12",
+        "color2": "#af1d63",
+        "color3": "#c46423",
+        "color4": "#8211a9",
+        "color5": "#b937a9",
+        "color6": "#c87e87",
+        "color7": "#c7c0c0",
+        "color8": "#510d05",
+        "color9": "#ec1d0a",
+        "color10": "#f01880",
+        "color11": "#ff7f1e",
+        "color12": "#ae09e7",
+        "color13": "#ff37e7",
+        "color14": "#ff8e9f",
+        "color15": "#fffafa"
+    }
+}

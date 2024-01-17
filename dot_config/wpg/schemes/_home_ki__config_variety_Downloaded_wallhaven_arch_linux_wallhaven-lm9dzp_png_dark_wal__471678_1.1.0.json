@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_arch_linux/wallhaven-lm9dzp.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0f0f0f",
+        "foreground": "#0fb8ff",
+        "cursor": "#0fb8ff"
+    },
+    "colors": {
+        "color0": "#0f0f0f",
+        "color1": "#0C9064",
+        "color2": "#089E32",
+        "color3": "#868D0A",
+        "color4": "#191C90",
+        "color5": "#4E089E",
+        "color6": "#7ab1ca",
+        "color7": "#096892",
+        "color8": "#282828",
+        "color9": "#05c585",
+        "color10": "#01d63c",
+        "color11": "#b7c103",
+        "color12": "#1519c6",
+        "color13": "#6401d6",
+        "color14": "#89edff",
+        "color15": "#0fb8ff"
+    }
+}

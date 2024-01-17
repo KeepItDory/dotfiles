@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_cyberpunk/wallhaven-rd3w91.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0f1416",
+        "foreground": "#fffdf6",
+        "cursor": "#fffdf6"
+    },
+    "colors": {
+        "color0": "#0f1416",
+        "color1": "#936F5C",
+        "color2": "#BDC0B8",
+        "color3": "#AA8772",
+        "color4": "#737B84",
+        "color5": "#A2A6A3",
+        "color6": "#709999",
+        "color7": "#e1d9d3",
+        "color8": "#232f34",
+        "color9": "#ce8b68",
+        "color10": "#fbffd6",
+        "color11": "#efaa81",
+        "color12": "#859ebb",
+        "color13": "#bdedc9",
+        "color14": "#80d8d8",
+        "color15": "#fffdf6"
+    }
+}

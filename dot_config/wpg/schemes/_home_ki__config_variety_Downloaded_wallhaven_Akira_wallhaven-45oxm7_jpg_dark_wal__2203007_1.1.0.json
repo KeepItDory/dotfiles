@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Akira/wallhaven-45oxm7.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#07090C",
+        "foreground": "#f1ffff",
+        "cursor": "#f1ffff"
+    },
+    "colors": {
+        "color0": "#07090C",
+        "color1": "#E5E4D4",
+        "color2": "#B1E2F7",
+        "color3": "#CAA35E",
+        "color4": "#B0D6F7",
+        "color5": "#AEAAA5",
+        "color6": "#5B8EA4",
+        "color7": "#dceff5",
+        "color8": "#18202c",
+        "color9": "#ffffdb",
+        "color10": "#bbffff",
+        "color11": "#ffd966",
+        "color12": "#baffff",
+        "color13": "#f8dfc0",
+        "color14": "#65bfe5",
+        "color15": "#f1ffff"
+    }
+}

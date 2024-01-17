@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Pokemon/wallhaven-ne513l.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0c131f",
+        "foreground": "#fdfff6",
+        "cursor": "#fdfff6"
+    },
+    "colors": {
+        "color0": "#0c131f",
+        "color1": "#906271",
+        "color2": "#788774",
+        "color3": "#B6AA8B",
+        "color4": "#968C7B",
+        "color5": "#A39C8D",
+        "color6": "#7C8887",
+        "color7": "#d2dacc",
+        "color8": "#192843",
+        "color9": "#ca6f8d",
+        "color10": "#92bf86",
+        "color11": "#ffe69f",
+        "color12": "#d4ba8e",
+        "color13": "#e7d1a3",
+        "color14": "#90c1bd",
+        "color15": "#fdfff6"
+    }
+}

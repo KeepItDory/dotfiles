@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Forest/wallhaven-3lorwy.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0C1305",
+        "foreground": "#ffffe8",
+        "cursor": "#ffffe8"
+    },
+    "colors": {
+        "color0": "#0C1305",
+        "color1": "#8E7631",
+        "color2": "#76835E",
+        "color3": "#C09C51",
+        "color4": "#5B6B5B",
+        "color5": "#A6A4A8",
+        "color6": "#CCB7AD",
+        "color7": "#f2e0ca",
+        "color8": "#253b0e",
+        "color9": "#c59f33",
+        "color10": "#9db86b",
+        "color11": "#ffd157",
+        "color12": "#699769",
+        "color13": "#d7bfef",
+        "color14": "#ffe5c8",
+        "color15": "#ffffe8"
+    }
+}

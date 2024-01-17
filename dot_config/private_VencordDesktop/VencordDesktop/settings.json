@@ -3,10 +3,10 @@
     "discordBranch": "canary",
     "firstLaunch": false,
     "arRPC": "on",
-    "splashColor": "rgb(200, 196, 195)",
-    "splashBackground": "rgb(35, 21, 18)",
+    "splashColor": "rgb(201, 200, 199)",
+    "splashBackground": "rgb(39, 36, 32)",
     "windowBounds": {
-        "x": 1949,
+        "x": 10,
         "y": 50,
         "width": 1881,
         "height": 1018

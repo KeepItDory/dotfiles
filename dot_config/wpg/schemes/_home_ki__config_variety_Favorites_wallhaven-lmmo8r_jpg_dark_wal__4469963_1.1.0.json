@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Favorites/wallhaven-lmmo8r.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#06011D",
+        "foreground": "#ffb1e6",
+        "cursor": "#ffb1e6"
+    },
+    "colors": {
+        "color0": "#06011D",
+        "color1": "#D0126B",
+        "color2": "#744672",
+        "color3": "#9F1260",
+        "color4": "#6C1762",
+        "color5": "#B23E6C",
+        "color6": "#700F53",
+        "color7": "#e485ad",
+        "color8": "#0e014f",
+        "color9": "#ff088a",
+        "color10": "#a24e9f",
+        "color11": "#da0b7e",
+        "color12": "#951585",
+        "color13": "#f74089",
+        "color14": "#990b6f",
+        "color15": "#ffb1e6"
+    }
+}

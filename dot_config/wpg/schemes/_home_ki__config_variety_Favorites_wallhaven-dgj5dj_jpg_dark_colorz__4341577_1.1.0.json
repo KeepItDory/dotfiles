@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Favorites/wallhaven-dgj5dj.jpg",
+    "alpha": "80",
+
+    "special": {
+        "background": "#21160c",
+        "foreground": "#fffefb",
+        "cursor": "#fffefb"
+    },
+    "colors": {
+        "color0": "#21160c",
+        "color1": "#aa723d",
+        "color2": "#a9a08f",
+        "color3": "#a98f66",
+        "color4": "#c7baa4",
+        "color5": "#b5babc",
+        "color6": "#939fb0",
+        "color7": "#c7c4c2",
+        "color8": "#462e18",
+        "color9": "#ec9340",
+        "color10": "#efd6a5",
+        "color11": "#edbd73",
+        "color12": "#fff7bd",
+        "color13": "#d3fcff",
+        "color14": "#aacbf9",
+        "color15": "#fffefb"
+    }
+}

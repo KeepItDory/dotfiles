@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/wpg/wallpapers/wallhaven-vmlgz3.jpg_wal_sample.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#111213",
+        "foreground": "#fffdfc",
+        "cursor": "#fffdfc"
+    },
+    "colors": {
+        "color0": "#111213",
+        "color1": "#A1C0B8",
+        "color2": "#7AAAA0",
+        "color3": "#C8C0BF",
+        "color4": "#6C8587",
+        "color5": "#A17FA0",
+        "color6": "#85B8B0",
+        "color7": "#e1dedd",
+        "color8": "#282b2d",
+        "color9": "#bafffa",
+        "color10": "#8befdb",
+        "color11": "#ffe5de",
+        "color12": "#7cbabf",
+        "color13": "#e392e1",
+        "color14": "#98fff2",
+        "color15": "#fffdfc"
+    }
+}

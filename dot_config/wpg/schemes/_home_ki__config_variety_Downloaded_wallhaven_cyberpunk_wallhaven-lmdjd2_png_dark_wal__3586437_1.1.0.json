@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_cyberpunk/wallhaven-lmdjd2.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#100c0a",
+        "foreground": "#fffaf6",
+        "cursor": "#fffaf6"
+    },
+    "colors": {
+        "color0": "#100c0a",
+        "color1": "#E04C34",
+        "color2": "#7C8372",
+        "color3": "#FB836F",
+        "color4": "#FA6B54",
+        "color5": "#E8AB9E",
+        "color6": "#998A6B",
+        "color7": "#eee2df",
+        "color8": "#2f221c",
+        "color9": "#ff5531",
+        "color10": "#a3ba84",
+        "color11": "#ff9978",
+        "color12": "#ff7b57",
+        "color13": "#ffcdb4",
+        "color14": "#d7b97a",
+        "color15": "#fffaf6"
+    }
+}

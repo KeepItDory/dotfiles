@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_cyberpunk/wallhaven-dgp2jl.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0B080C",
+        "foreground": "#ffc9ff",
+        "cursor": "#ffc9ff"
+    },
+    "colors": {
+        "color0": "#0B080C",
+        "color1": "#BC3548",
+        "color2": "#2B5560",
+        "color3": "#99B758",
+        "color4": "#307487",
+        "color5": "#972965",
+        "color6": "#505140",
+        "color7": "#e399cd",
+        "color8": "#261b2a",
+        "color9": "#ff3552",
+        "color10": "#2e7385",
+        "color11": "#cdff60",
+        "color12": "#329dbb",
+        "color13": "#d02884",
+        "color14": "#707249",
+        "color15": "#ffc9ff"
+    }
+}

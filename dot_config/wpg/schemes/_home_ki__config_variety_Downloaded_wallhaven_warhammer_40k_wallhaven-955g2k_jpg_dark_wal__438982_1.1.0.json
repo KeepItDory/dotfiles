@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_warhammer_40k/wallhaven-955g2k.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0A0B0D",
+        "foreground": "#fffff4",
+        "cursor": "#fffff4"
+    },
+    "colors": {
+        "color0": "#0A0B0D",
+        "color1": "#A45F3A",
+        "color2": "#6E6456",
+        "color3": "#D9A25A",
+        "color4": "#91745C",
+        "color5": "#978973",
+        "color6": "#7F8175",
+        "color7": "#ccc7bc",
+        "color8": "#1f2229",
+        "color9": "#e3773c",
+        "color10": "#9b8463",
+        "color11": "#ffd561",
+        "color12": "#cb9568",
+        "color13": "#d5b584",
+        "color14": "#afb788",
+        "color15": "#fffff4"
+    }
+}

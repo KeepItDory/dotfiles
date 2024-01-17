@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_warhammer_40k/wallhaven-lm1r6l.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0D0E0F",
+        "foreground": "#ffdecf",
+        "cursor": "#ffdecf"
+    },
+    "colors": {
+        "color0": "#0D0E0F",
+        "color1": "#5C281A",
+        "color2": "#524C4A",
+        "color3": "#6C5E57",
+        "color4": "#3A3E43",
+        "color5": "#554539",
+        "color6": "#48362E",
+        "color7": "#c0a59a",
+        "color8": "#242729",
+        "color9": "#7f2f1a",
+        "color10": "#745d56",
+        "color11": "#997564",
+        "color12": "#434f5f",
+        "color13": "#775840",
+        "color14": "#654334",
+        "color15": "#ffdecf"
+    }
+}

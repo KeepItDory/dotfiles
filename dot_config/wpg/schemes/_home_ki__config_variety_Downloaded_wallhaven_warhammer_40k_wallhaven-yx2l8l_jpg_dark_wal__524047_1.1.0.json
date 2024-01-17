@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_warhammer_40k/wallhaven-yx2l8l.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#131515",
+        "foreground": "#f8ffff",
+        "cursor": "#f8ffff"
+    },
+    "colors": {
+        "color0": "#131515",
+        "color1": "#CBDFE1",
+        "color2": "#D0DADA",
+        "color3": "#B9C0BA",
+        "color4": "#B0D2D6",
+        "color5": "#9EBAC4",
+        "color6": "#A4CFD4",
+        "color7": "#e1ebec",
+        "color8": "#2a2f2f",
+        "color9": "#d8ffff",
+        "color10": "#dfffff",
+        "color11": "#d8ffe0",
+        "color12": "#cbffff",
+        "color13": "#b6fcff",
+        "color14": "#bcffff",
+        "color15": "#f8ffff"
+    }
+}

@@ -1,43 +1,50 @@
 = LINUX CHEAT SHEETS =
-
+* Shell
+  * Fish
+    * Hotkeys
+      - Shift tab - Search Command
 * Terminal
+  * Commands
+    -  [[broot]]
+    - $ broot $DIRECTORY
+      Shows a tree view of a directory, uses current if none specified
   * Fun Commands
-    - No more secrets
+    - [[No more secrets]]
       $ nms *phrase*
-    - cmatrix
+    - [[cmatrix]]
       Matrix like
       $ cmatrix
-    - cava
+    - [[cava]]
       Music visualizer
       $ cava
-    - cal
+    - [[cal]]
       Calander
       $ cal
-    - asciiquarium
+    - [[asciiquarium]]
       $ asciiquarium
       An aquarium for your terminal!
-    - Figlet
+    - [[Figlet]]
       Turn text into ascii art banners
       figlet *phrase*
-    - Banner
+    - [[Banner]]
       Like figlet. Turns text into ascii art
       $ banner *phrase*
-    - Boxes
+    - [[Boxes]]
       Like figlet but with boxes
       $ boxes *phrase*
-    - sl
+    - [[sl]]
       Trains! WOO WOOOO!!
       $ sl
-    - oneko
+    - [[oneko]]
       Adds an animated cat that follow your mouse cursor
       $oneko
-    - nyancat
+    - [[nyancat]]
       POP TART CAT!
       $ nyancat
-    - pom
+    - [[pom]]
       Pomodoro timer that aids productivety (somehow...)
       $ pom
-    - bb
+    - [[bb]]
       Presents a variety of animations
       $ bb
       - options

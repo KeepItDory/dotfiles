@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_cyberpunk/wallhaven-dge1ll.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0D0A03",
+        "foreground": "#fffffa",
+        "cursor": "#fffffa"
+    },
+    "colors": {
+        "color0": "#0D0A03",
+        "color1": "#937055",
+        "color2": "#AA8A6E",
+        "color3": "#D39B6E",
+        "color4": "#D1BBA4",
+        "color5": "#D6AE94",
+        "color6": "#65808A",
+        "color7": "#ece9e3",
+        "color8": "#372a0a",
+        "color9": "#ce8f5f",
+        "color10": "#efb27c",
+        "color11": "#ffc77a",
+        "color12": "#fff3bd",
+        "color13": "#ffdda8",
+        "color14": "#73adc2",
+        "color15": "#fffffa"
+    }
+}

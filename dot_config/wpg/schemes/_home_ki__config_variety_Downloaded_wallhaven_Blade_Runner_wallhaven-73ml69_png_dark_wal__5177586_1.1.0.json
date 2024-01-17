@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Blade_Runner/wallhaven-73ml69.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0c060e",
+        "foreground": "#fad3ff",
+        "cursor": "#fad3ff"
+    },
+    "colors": {
+        "color0": "#0c060e",
+        "color1": "#962872",
+        "color2": "#652DA6",
+        "color3": "#9E349B",
+        "color4": "#5C34B6",
+        "color5": "#D153BB",
+        "color6": "#7549D0",
+        "color7": "#bfa1e1",
+        "color8": "#2a1332",
+        "color9": "#cf2798",
+        "color10": "#822ce5",
+        "color11": "#db35d6",
+        "color12": "#7134fb",
+        "color13": "#ff58ff",
+        "color14": "#914cff",
+        "color15": "#fad3ff"
+    }
+}

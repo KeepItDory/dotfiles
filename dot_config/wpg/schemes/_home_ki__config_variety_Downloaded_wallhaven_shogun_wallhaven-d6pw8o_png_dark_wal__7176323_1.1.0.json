@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_shogun/wallhaven-d6pw8o.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#110f0f",
+        "foreground": "#fffbff",
+        "cursor": "#fffbff"
+    },
+    "colors": {
+        "color0": "#110f0f",
+        "color1": "#A297A1",
+        "color2": "#646795",
+        "color3": "#BE926C",
+        "color4": "#34448D",
+        "color5": "#D3A494",
+        "color6": "#7C8599",
+        "color7": "#d7d4da",
+        "color8": "#2b2626",
+        "color9": "#e6b0e1",
+        "color10": "#7177d1",
+        "color11": "#ffbc79",
+        "color12": "#3750c3",
+        "color13": "#ffc9a9",
+        "color14": "#8fa6d8",
+        "color15": "#fffbff"
+    }
+}

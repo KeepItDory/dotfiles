@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Forest/wallhaven-lmpzdl.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0c0d0e",
+        "foreground": "#fffff9",
+        "cursor": "#fffff9"
+    },
+    "colors": {
+        "color0": "#0c0d0e",
+        "color1": "#8B8A69",
+        "color2": "#7E815C",
+        "color3": "#C0BFAA",
+        "color4": "#646968",
+        "color5": "#AEAE9D",
+        "color6": "#909389",
+        "color7": "#dcdcd2",
+        "color8": "#222629",
+        "color9": "#c4c278",
+        "color10": "#afb669",
+        "color11": "#ffffc5",
+        "color12": "#74958f",
+        "color13": "#f7f7b6",
+        "color14": "#c2d19f",
+        "color15": "#fffff9"
+    }
+}

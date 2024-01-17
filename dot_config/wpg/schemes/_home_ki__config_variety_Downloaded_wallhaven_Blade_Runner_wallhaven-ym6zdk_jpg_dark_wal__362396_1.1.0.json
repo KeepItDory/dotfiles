@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Blade_Runner/wallhaven-ym6zdk.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0d0606",
+        "foreground": "#deffff",
+        "cursor": "#deffff"
+    },
+    "colors": {
+        "color0": "#0d0606",
+        "color1": "#9D624C",
+        "color2": "#318E8D",
+        "color3": "#BF9766",
+        "color4": "#5F7F82",
+        "color5": "#5C6056",
+        "color6": "#56A5A2",
+        "color7": "#afe2e0",
+        "color8": "#301414",
+        "color9": "#db7853",
+        "color10": "#33c5c3",
+        "color11": "#ffc671",
+        "color12": "#6cb1b7",
+        "color13": "#798864",
+        "color14": "#5fe6e1",
+        "color15": "#deffff"
+    }
+}

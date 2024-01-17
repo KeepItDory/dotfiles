@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Circuitry/wallhaven-2yg3jm.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0c0c0c",
+        "foreground": "#fffff9",
+        "cursor": "#fffff9"
+    },
+    "colors": {
+        "color0": "#0c0c0c",
+        "color1": "#94725B",
+        "color2": "#919190",
+        "color3": "#8F8778",
+        "color4": "#7C7E83",
+        "color5": "#A2A09C",
+        "color6": "#ADAEAE",
+        "color7": "#dad6d1",
+        "color8": "#252525",
+        "color9": "#cf9166",
+        "color10": "#cfcfa8",
+        "color11": "#cab48a",
+        "color12": "#909cba",
+        "color13": "#e7d6b6",
+        "color14": "#caf8f8",
+        "color15": "#fffff9"
+    }
+}

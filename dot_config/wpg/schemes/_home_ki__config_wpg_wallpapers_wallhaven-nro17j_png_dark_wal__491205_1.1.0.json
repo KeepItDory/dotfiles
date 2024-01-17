@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/wpg/wallpapers/wallhaven-nro17j.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0f0e11",
+        "foreground": "#ffffec",
+        "cursor": "#ffffec"
+    },
+    "colors": {
+        "color0": "#0f0e11",
+        "color1": "#FCE8B6",
+        "color2": "#FDE9B9",
+        "color3": "#EFD5A0",
+        "color4": "#FEE9BA",
+        "color5": "#D4C2A3",
+        "color6": "#34BCBB",
+        "color7": "#f6ebd4",
+        "color8": "#27242c",
+        "color9": "#ffffbc",
+        "color10": "#ffffbd",
+        "color11": "#ffffb3",
+        "color12": "#ffffbe",
+        "color13": "#ffffbb",
+        "color14": "#33ffff",
+        "color15": "#ffffec"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_3d_art/wallhaven-nmp5jy.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#010109",
+        "foreground": "#f9ffff",
+        "cursor": "#f9ffff"
+    },
+    "colors": {
+        "color0": "#010109",
+        "color1": "#C6D6DC",
+        "color2": "#B4CAD1",
+        "color3": "#A1BBC3",
+        "color4": "#6994A7",
+        "color5": "#8FABB6",
+        "color6": "#A4D6E9",
+        "color7": "#e1e8ea",
+        "color8": "#01013b",
+        "color9": "#d8ffff",
+        "color10": "#d0ffff",
+        "color11": "#baffff",
+        "color12": "#76c7ea",
+        "color13": "#a4e7ff",
+        "color14": "#b9ffff",
+        "color15": "#f9ffff"
+    }
+}

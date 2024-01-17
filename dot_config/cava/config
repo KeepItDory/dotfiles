@@ -184,14 +184,14 @@
 # You can define as many as 8 different colors. They range from bottom to top of screen
  gradient = 1
  gradient_count = 8
- gradient_color_1 = '#8d38aa'
- gradient_color_2 = '#7abca8'
- gradient_color_3 = '#6c38aa'
- gradient_color_4 = '#a73c9f'
- gradient_color_5 = '#57a4bb'
- gradient_color_6 = '#be3aeb'
- gradient_color_7 = '#8affe2'
- gradient_color_8 = '#e73fdb'
+ gradient_color_1 = '#89a2a9'
+ gradient_color_2 = '#7394ab'
+ gradient_color_3 = '#3b6caa'
+ gradient_color_4 = '#a2a69d'
+ gradient_color_5 = '#5e85aa'
+ gradient_color_6 = '#9eddef'
+ gradient_color_7 = '#82c3f0'
+ gradient_color_8 = '#d4ecb7'
 
 
 

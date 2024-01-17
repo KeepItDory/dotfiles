@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_arch_linux/wallhaven-g7jyxe.png",
+    "alpha": "100",
+    "special": {
+        "background": "#181925",
+        "foreground": "#dfdfe1",
+        "cursor": "#dfdfe1"
+    },
+    "colors": {
+        "color0": "#181925",
+        "color1": "#B04996",
+        "color2": "#D14EAA",
+        "color3": "#EC53BA",
+        "color4": "#F855C1",
+        "color5": "#F855C1",
+        "color6": "#A0A1AA",
+        "color7": "#dfdfe1",
+        "color8": "#9c9c9d",
+        "color9": "#B04996",
+        "color10": "#D14EAA",
+        "color11": "#EC53BA",
+        "color12": "#F855C1",
+        "color13": "#F855C1",
+        "color14": "#A0A1AA",
+        "color15": "#dfdfe1"
+    }
+}

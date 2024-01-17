@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_cyberpunk/wallhaven-md8g5y.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#191111",
+        "foreground": "#d9ffff",
+        "cursor": "#d9ffff"
+    },
+    "colors": {
+        "color0": "#191111",
+        "color1": "#647AA4",
+        "color2": "#5F6C8E",
+        "color3": "#C09465",
+        "color4": "#325191",
+        "color5": "#6E89B3",
+        "color6": "#789ED0",
+        "color7": "#aadae5",
+        "color8": "#372525",
+        "color9": "#7099e6",
+        "color10": "#6c85c7",
+        "color11": "#ffc170",
+        "color12": "#3464c9",
+        "color13": "#7caefb",
+        "color14": "#86caff",
+        "color15": "#d9ffff"
+    }
+}

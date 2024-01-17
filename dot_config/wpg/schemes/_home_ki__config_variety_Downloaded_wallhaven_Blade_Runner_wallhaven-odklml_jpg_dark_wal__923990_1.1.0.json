@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Blade_Runner/wallhaven-odklml.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#020105",
+        "foreground": "#e4ffff",
+        "cursor": "#e4ffff"
+    },
+    "colors": {
+        "color0": "#020105",
+        "color1": "#58A6E1",
+        "color2": "#5A719C",
+        "color3": "#C89DD0",
+        "color4": "#458CBE",
+        "color5": "#BA6D98",
+        "color6": "#65D2FC",
+        "color7": "#c7e5f5",
+        "color8": "#0e0137",
+        "color9": "#5edaff",
+        "color10": "#658eda",
+        "color11": "#ffb4ff",
+        "color12": "#48b8ff",
+        "color13": "#ff7ac7",
+        "color14": "#6cffff",
+        "color15": "#e4ffff"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_3d_art/wallhaven-733kpv.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#000C1C",
+        "foreground": "#ffffed",
+        "cursor": "#ffffed"
+    },
+    "colors": {
+        "color0": "#000C1C",
+        "color1": "#61797A",
+        "color2": "#4C6C70",
+        "color3": "#9D9E93",
+        "color4": "#3B626B",
+        "color5": "#697F80",
+        "color6": "#738685",
+        "color7": "#eedfd0",
+        "color8": "#01214d",
+        "color9": "#6faaac",
+        "color10": "#56959d",
+        "color11": "#dce1ab",
+        "color12": "#418695",
+        "color13": "#79b2b5",
+        "color14": "#85bebb",
+        "color15": "#ffffed"
+    }
+}

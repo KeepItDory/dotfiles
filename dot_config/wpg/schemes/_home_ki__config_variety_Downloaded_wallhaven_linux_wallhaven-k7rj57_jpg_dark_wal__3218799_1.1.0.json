@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_linux/wallhaven-k7rj57.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#050302",
+        "foreground": "#ffffa7",
+        "cursor": "#ffffa7"
+    },
+    "colors": {
+        "color0": "#050302",
+        "color1": "#E31203",
+        "color2": "#2FBB06",
+        "color3": "#EC9C03",
+        "color4": "#9E6208",
+        "color5": "#AB0F03",
+        "color6": "#EC6103",
+        "color7": "#d8cf7c",
+        "color8": "#2d170c",
+        "color9": "#ff1401",
+        "color10": "#39f901",
+        "color11": "#ffcb01",
+        "color12": "#d68101",
+        "color13": "#e11101",
+        "color14": "#ff7d01",
+        "color15": "#ffffa7"
+    }
+}

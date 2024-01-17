@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_linux/wallhaven-m927y9.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#050F15",
+        "foreground": "#f3f7ff",
+        "cursor": "#f3f7ff"
+    },
+    "colors": {
+        "color0": "#050F15",
+        "color1": "#837B8F",
+        "color2": "#525A67",
+        "color3": "#68758B",
+        "color4": "#1F5F8C",
+        "color5": "#9597A6",
+        "color6": "#7189A3",
+        "color7": "#ccd0e0",
+        "color8": "#0d2c3e",
+        "color9": "#a68ecb",
+        "color10": "#5e7291",
+        "color11": "#7794c4",
+        "color12": "#1d7dc1",
+        "color13": "#adb4ec",
+        "color14": "#81b1e5",
+        "color15": "#f3f7ff"
+    }
+}

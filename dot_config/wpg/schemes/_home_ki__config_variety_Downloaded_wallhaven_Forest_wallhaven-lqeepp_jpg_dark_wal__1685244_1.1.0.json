@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Forest/wallhaven-lqeepp.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0C132C",
+        "foreground": "#fff2ee",
+        "cursor": "#fff2ee"
+    },
+    "colors": {
+        "color0": "#0C132C",
+        "color1": "#996565",
+        "color2": "#6B8873",
+        "color3": "#B48E76",
+        "color4": "#3C5C94",
+        "color5": "#AB679B",
+        "color6": "#56ADBB",
+        "color7": "#e1c9c5",
+        "color8": "#162353",
+        "color9": "#d77272",
+        "color10": "#7bc08e",
+        "color11": "#fdb486",
+        "color12": "#4073cd",
+        "color13": "#f074d2",
+        "color14": "#5eedff",
+        "color15": "#fff2ee"
+    }
+}

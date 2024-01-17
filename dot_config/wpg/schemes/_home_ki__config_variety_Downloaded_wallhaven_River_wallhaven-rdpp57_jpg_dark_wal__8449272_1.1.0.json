@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_River/wallhaven-rdpp57.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0c1009",
+        "foreground": "#fff9d1",
+        "cursor": "#fff9d1"
+    },
+    "colors": {
+        "color0": "#0c1009",
+        "color1": "#6B730A",
+        "color2": "#788609",
+        "color3": "#91970B",
+        "color4": "#524A28",
+        "color5": "#5B5B26",
+        "color6": "#7D8254",
+        "color7": "#c1ba9c",
+        "color8": "#23301a",
+        "color9": "#929d04",
+        "color10": "#a3b702",
+        "color11": "#c6ce03",
+        "color12": "#72652c",
+        "color13": "#7e7e28",
+        "color14": "#adb65f",
+        "color15": "#fff9d1"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_warhammer_40k/wallhaven-471vw3.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#100d1c",
+        "foreground": "#ffe9ff",
+        "cursor": "#ffe9ff"
+    },
+    "colors": {
+        "color0": "#100d1c",
+        "color1": "#9274D9",
+        "color2": "#AB9FDE",
+        "color3": "#9B8DBD",
+        "color4": "#8D77F3",
+        "color5": "#AE8DF7",
+        "color6": "#9587F6",
+        "color7": "#e1ccf2",
+        "color8": "#231c3e",
+        "color9": "#b581ff",
+        "color10": "#cfb5ff",
+        "color11": "#c0a1ff",
+        "color12": "#a883ff",
+        "color13": "#d89eff",
+        "color14": "#af96ff",
+        "color15": "#ffe9ff"
+    }
+}

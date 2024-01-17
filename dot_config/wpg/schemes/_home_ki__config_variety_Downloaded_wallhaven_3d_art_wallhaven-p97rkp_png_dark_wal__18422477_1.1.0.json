@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_3d_art/wallhaven-p97rkp.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0b0b0b",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#0b0b0b",
+        "color1": "#CE3636",
+        "color2": "#605F5F",
+        "color3": "#D74343",
+        "color4": "#6B6B6B",
+        "color5": "#8F8F8F",
+        "color6": "#9A2C2C",
+        "color7": "#cecece",
+        "color8": "#242424",
+        "color9": "#ff3535",
+        "color10": "#896f6f",
+        "color11": "#ff4444",
+        "color12": "#987d7d",
+        "color13": "#cca7a7",
+        "color14": "#d52c2c",
+        "color15": "#ffffff"
+    }
+}

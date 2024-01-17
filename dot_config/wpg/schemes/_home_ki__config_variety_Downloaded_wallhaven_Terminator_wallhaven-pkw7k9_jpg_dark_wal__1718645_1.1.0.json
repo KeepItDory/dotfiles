@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Terminator/wallhaven-pkw7k9.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0b0805",
+        "foreground": "#fffff0",
+        "cursor": "#fffff0"
+    },
+    "colors": {
+        "color0": "#0b0805",
+        "color1": "#925941",
+        "color2": "#998F6D",
+        "color3": "#C2A448",
+        "color4": "#657087",
+        "color5": "#BEC0B7",
+        "color6": "#A8AB9F",
+        "color7": "#e3dfcb",
+        "color8": "#2e2113",
+        "color9": "#cb6e46",
+        "color10": "#d7c37c",
+        "color11": "#ffde4c",
+        "color12": "#748cbe",
+        "color13": "#ffffd5",
+        "color14": "#e5f3b9",
+        "color15": "#fffff0"
+    }
+}

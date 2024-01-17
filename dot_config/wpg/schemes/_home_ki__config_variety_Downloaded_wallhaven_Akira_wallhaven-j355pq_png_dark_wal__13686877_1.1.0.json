@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Akira/wallhaven-j355pq.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0e180c",
+        "foreground": "#f8fffb",
+        "cursor": "#f8fffb"
+    },
+    "colors": {
+        "color0": "#0e180c",
+        "color1": "#B76834",
+        "color2": "#5A8970",
+        "color3": "#C59C53",
+        "color4": "#317887",
+        "color5": "#5F9B95",
+        "color6": "#369192",
+        "color7": "#c3cdc5",
+        "color8": "#21391c",
+        "color9": "#fd8434",
+        "color10": "#66c090",
+        "color11": "#ffcf59",
+        "color12": "#33a3bb",
+        "color13": "#6bd9ce",
+        "color14": "#39c9ca",
+        "color15": "#f8fffb"
+    }
+}

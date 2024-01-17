@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_warhammer_40k/wallhaven-m9or31.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0E171A",
+        "foreground": "#ebfafa",
+        "cursor": "#ebfafa"
+    },
+    "colors": {
+        "color0": "#0E171A",
+        "color1": "#77796D",
+        "color2": "#5D6C68",
+        "color3": "#9C8E6F",
+        "color4": "#305761",
+        "color5": "#49514D",
+        "color6": "#3B888F",
+        "color7": "#b1bdbd",
+        "color8": "#1f333a",
+        "color9": "#a4ac7e",
+        "color10": "#6b998d",
+        "color11": "#dcbf7e",
+        "color12": "#347687",
+        "color13": "#547364",
+        "color14": "#3fbbc7",
+        "color15": "#ebfafa"
+    }
+}

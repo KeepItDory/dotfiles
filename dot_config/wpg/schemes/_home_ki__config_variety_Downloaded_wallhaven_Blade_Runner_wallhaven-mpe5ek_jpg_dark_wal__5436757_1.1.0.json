@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Blade_Runner/wallhaven-mpe5ek.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0F0B0C",
+        "foreground": "#fffbd0",
+        "cursor": "#fffbd0"
+    },
+    "colors": {
+        "color0": "#0F0B0C",
+        "color1": "#9E512E",
+        "color2": "#744533",
+        "color3": "#EA9632",
+        "color4": "#474952",
+        "color5": "#AC6231",
+        "color6": "#8F4E32",
+        "color7": "#dabf9e",
+        "color8": "#2c1f22",
+        "color9": "#da642e",
+        "color10": "#a15437",
+        "color11": "#ffc42e",
+        "color12": "#525874",
+        "color13": "#ee7c31",
+        "color14": "#c66034",
+        "color15": "#fffbd0"
+    }
+}

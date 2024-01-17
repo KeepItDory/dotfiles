@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Pokemon/wallhaven-4ogkjp.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#213136",
+        "foreground": "#fffff8",
+        "cursor": "#fffff8"
+    },
+    "colors": {
+        "color0": "#213136",
+        "color1": "#E8CFB3",
+        "color2": "#7C7F81",
+        "color3": "#DAAB92",
+        "color4": "#427588",
+        "color5": "#A0B1A8",
+        "color6": "#6A8D91",
+        "color7": "#e9eade",
+        "color8": "#334d55",
+        "color9": "#ffffc4",
+        "color10": "#90a8b8",
+        "color11": "#ffd7a6",
+        "color12": "#489ebd",
+        "color13": "#bafbd9",
+        "color14": "#79c4cc",
+        "color15": "#fffff8"
+    }
+}

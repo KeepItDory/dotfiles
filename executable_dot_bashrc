@@ -187,3 +187,5 @@ source /usr/bin/virtualenvwrapper.sh
 export PATH=$PATH:/
 # Neofetch
 neofetch
+
+source /home/ki/.config/broot/launcher/bash/br

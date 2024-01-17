@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_River/wallhaven-lmz712.jpg",
+    "alpha": "80",
+
+    "special": {
+        "background": "#201f1f",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#201f1f",
+        "color1": "#ba4a2c",
+        "color2": "#af644f",
+        "color3": "#ad8074",
+        "color4": "#699da9",
+        "color5": "#a49e9d",
+        "color6": "#1d95a9",
+        "color7": "#c7c7c7",
+        "color8": "#393737",
+        "color9": "#ff572a",
+        "color10": "#f47856",
+        "color11": "#f39b84",
+        "color12": "#76d7ed",
+        "color13": "#e9beb7",
+        "color14": "#18cae8",
+        "color15": "#ffffff"
+    }
+}

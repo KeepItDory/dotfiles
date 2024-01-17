@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/wpg/wallpapers/wallhaven-wedgv7.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0c090a",
+        "foreground": "#fff6e9",
+        "cursor": "#fff6e9"
+    },
+    "colors": {
+        "color0": "#0c090a",
+        "color1": "#8E2E19",
+        "color2": "#5C4F4E",
+        "color3": "#906751",
+        "color4": "#453B44",
+        "color5": "#654733",
+        "color6": "#862301",
+        "color7": "#cabbb1",
+        "color8": "#281e21",
+        "color9": "#c33415",
+        "color10": "#825d5a",
+        "color11": "#c9815a",
+        "color12": "#61445e",
+        "color13": "#8d5a38",
+        "color14": "#ae2d01",
+        "color15": "#fff6e9"
+    }
+}

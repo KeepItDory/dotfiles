@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Akira/wallhaven-n6kj9l.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#010000",
+        "foreground": "#fffdfa",
+        "cursor": "#fffdfa"
+    },
+    "colors": {
+        "color0": "#010000",
+        "color1": "#675451",
+        "color2": "#4C423E",
+        "color3": "#A99C95",
+        "color4": "#8B716C",
+        "color5": "#AA7D82",
+        "color6": "#95847A",
+        "color7": "#dad5d2",
+        "color8": "#191919",
+        "color9": "#91645d",
+        "color10": "#6b5147",
+        "color11": "#f0c4ad",
+        "color12": "#c4887c",
+        "color13": "#f08f9a",
+        "color14": "#d3a78d",
+        "color15": "#fffdfa"
+    }
+}

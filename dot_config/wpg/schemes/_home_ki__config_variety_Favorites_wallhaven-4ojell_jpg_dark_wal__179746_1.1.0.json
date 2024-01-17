@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Favorites/wallhaven-4ojell.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#241b10",
+        "foreground": "#ffffdb",
+        "cursor": "#ffffdb"
+    },
+    "colors": {
+        "color0": "#241b10",
+        "color1": "#B89228",
+        "color2": "#C19D33",
+        "color3": "#C4B818",
+        "color4": "#C6A835",
+        "color5": "#C8B760",
+        "color6": "#CBAE4B",
+        "color7": "#dfd1a8",
+        "color8": "#47351f",
+        "color9": "#fdc425",
+        "color10": "#ffd332",
+        "color11": "#fffb10",
+        "color12": "#ffe434",
+        "color13": "#fffa69",
+        "color14": "#ffec4f",
+        "color15": "#ffffdb"
+    }
+}

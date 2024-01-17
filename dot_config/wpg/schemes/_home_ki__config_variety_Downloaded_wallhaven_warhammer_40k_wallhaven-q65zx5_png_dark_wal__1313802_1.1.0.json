@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_warhammer_40k/wallhaven-q65zx5.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#000000",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#000000",
+        "color1": "#707070",
+        "color2": "#E8E8E8",
+        "color3": "#AFAFAF",
+        "color4": "#F3F3F3",
+        "color5": "#8F8F8F",
+        "color6": "#D0D0D0",
+        "color7": "#f3f3f3",
+        "color8": "#191919",
+        "color9": "#a08383",
+        "color10": "#ffe5e5",
+        "color11": "#facccc",
+        "color12": "#ffe5e5",
+        "color13": "#cca7a7",
+        "color14": "#ffe5e5",
+        "color15": "#ffffff"
+    }
+}

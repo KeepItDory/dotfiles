@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_3d_art/wallhaven-7265rv.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0d0c0f",
+        "foreground": "#adb7bf",
+        "cursor": "#adb7bf"
+    },
+    "colors": {
+        "color0": "#0d0c0f",
+        "color1": "#5A443B",
+        "color2": "#303845",
+        "color3": "#3A4552",
+        "color4": "#605551",
+        "color5": "#966453",
+        "color6": "#BE8C76",
+        "color7": "#adb7bf",
+        "color8": "#798085",
+        "color9": "#5A443B",
+        "color10": "#303845",
+        "color11": "#3A4552",
+        "color12": "#605551",
+        "color13": "#966453",
+        "color14": "#BE8C76",
+        "color15": "#adb7bf"
+    }
+}

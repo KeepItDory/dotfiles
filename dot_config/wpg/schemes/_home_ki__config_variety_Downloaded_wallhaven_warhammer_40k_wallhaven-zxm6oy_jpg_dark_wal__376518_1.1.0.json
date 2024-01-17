@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_warhammer_40k/wallhaven-zxm6oy.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#06090A",
+        "foreground": "#ffe5ff",
+        "cursor": "#ffe5ff"
+    },
+    "colors": {
+        "color0": "#06090A",
+        "color1": "#8D6B70",
+        "color2": "#423E58",
+        "color3": "#5E4C66",
+        "color4": "#384985",
+        "color5": "#9669A0",
+        "color6": "#63569A",
+        "color7": "#c9b2d9",
+        "color8": "#17252a",
+        "color9": "#c77b86",
+        "color10": "#4f467c",
+        "color11": "#7e5790",
+        "color12": "#3c58b9",
+        "color13": "#cd77e1",
+        "color14": "#7760d7",
+        "color15": "#ffe5ff"
+    }
+}

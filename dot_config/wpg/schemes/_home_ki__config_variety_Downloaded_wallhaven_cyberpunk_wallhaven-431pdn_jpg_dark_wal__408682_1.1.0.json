@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_cyberpunk/wallhaven-431pdn.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#030C08",
+        "foreground": "#f3ffff",
+        "cursor": "#f3ffff"
+    },
+    "colors": {
+        "color0": "#030C08",
+        "color1": "#A27258",
+        "color2": "#538D6D",
+        "color3": "#536A5F",
+        "color4": "#316E92",
+        "color5": "#5D969F",
+        "color6": "#51A6CA",
+        "color7": "#c7d8da",
+        "color8": "#0a3622",
+        "color9": "#e28f62",
+        "color10": "#5dc58c",
+        "color11": "#5f967c",
+        "color12": "#3292ca",
+        "color13": "#68cedf",
+        "color14": "#56dfff",
+        "color15": "#f3ffff"
+    }
+}

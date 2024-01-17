@@ -516,3 +516,5 @@ neofetch
 #sysinfo-retro
 #cpufetch
 #colorscript random
+
+source /home/ki/.config/broot/launcher/bash/br

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Forest/wallhaven-5dekk8.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#070811",
+        "foreground": "#dbffff",
+        "cursor": "#dbffff"
+    },
+    "colors": {
+        "color0": "#070811",
+        "color1": "#BA5C63",
+        "color2": "#544F69",
+        "color3": "#F2BF6F",
+        "color4": "#48668B",
+        "color5": "#8C6693",
+        "color6": "#4394A6",
+        "color7": "#a5c3c8",
+        "color8": "#141735",
+        "color9": "#ff6571",
+        "color10": "#655a94",
+        "color11": "#fffd79",
+        "color12": "#4f83c2",
+        "color13": "#c174cf",
+        "color14": "#47cae6",
+        "color15": "#dbffff"
+    }
+}

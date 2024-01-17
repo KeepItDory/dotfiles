@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_arch_linux/wallhaven-n6pwql.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#050505",
+        "foreground": "#fcfcfc",
+        "cursor": "#fcfcfc"
+    },
+    "colors": {
+        "color0": "#050505",
+        "color1": "#545454",
+        "color2": "#6E6E6E",
+        "color3": "#0D82BC",
+        "color4": "#0D7EC5",
+        "color5": "#116EA0",
+        "color6": "#0789CA",
+        "color7": "#c0c0c0",
+        "color8": "#1e1e1e",
+        "color9": "#786262",
+        "color10": "#9d8080",
+        "color11": "#03adff",
+        "color12": "#03a6ff",
+        "color13": "#0a92db",
+        "color14": "#01b4ff",
+        "color15": "#fcfcfc"
+    }
+}

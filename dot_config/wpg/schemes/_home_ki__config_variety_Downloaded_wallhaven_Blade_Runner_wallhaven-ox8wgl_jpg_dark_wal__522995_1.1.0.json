@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Blade_Runner/wallhaven-ox8wgl.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#090905",
+        "foreground": "#ffffea",
+        "cursor": "#ffffea"
+    },
+    "colors": {
+        "color0": "#090905",
+        "color1": "#D3673D",
+        "color2": "#9C6C55",
+        "color3": "#E39C66",
+        "color4": "#AD8E70",
+        "color5": "#C4AD9A",
+        "color6": "#548197",
+        "color7": "#eedfcb",
+        "color8": "#2a2a15",
+        "color9": "#ff7e3d",
+        "color10": "#da865e",
+        "color11": "#ffc76f",
+        "color12": "#f3b87f",
+        "color13": "#ffdeb1",
+        "color14": "#5dacd3",
+        "color15": "#ffffea"
+    }
+}

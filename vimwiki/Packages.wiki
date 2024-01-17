@@ -2,12 +2,16 @@
 == List of packages for Ki's arch system ==
 - Package list
   - [X] [[alacritty]]
+  - [ ] [[advance-touch]]
   - [X] [[alacritty]] themes
+  - [X] ansiweather
   - [X] alsa-plugins
   - [X] [[archlinus-tweak-tool-git]]
   - [X] [[awesome-terminal-fonts]]
   - [X] [[bashtop]]
   - [X] [[blueman]]
+  - [X] broot
+  - [ ] [[btop]]
   - [X] [[brasero]]
   - [X] [[breeze-icons]]
   - [X] [[broot]]
@@ -39,7 +43,7 @@
   - [X] flake8
   - [X] [[firefox]]
   - [X] [[flameshot]]
-  - [ ] font-manager
+  - [X] font-manager
   - [X] [[gamemode]]
   - [X] gamescope
   - [X] [[geany]]
@@ -134,106 +138,112 @@
   - [X] obsidian
   - [X] obsidian-icon-theme
   - [X] onefetch
-  - [ ] [[okular]]
-  - [ ] openal
-  - [ ] opencl-icd-loader
-  - [ ] openshot
-  - [ ] openresolv
-  - [ ] [[os-prober]]
-  - [ ] papis
-  - [ ] powerline-fonts
-  - [ ] powerline-console-fonts
-  - [ ] [[prismlauncher]]
-  - [ ] [[proton-ge-custom]]
-  - [ ] protondb-tags
-  - [ ] [[protontricks]]
-  - [ ] [[protonup-qt]]
-  - [ ] protonutils
-  - [ ] [[protonmail-bridge]]
-  - [ ] [[protonvpn]]
-  - [ ] playerctl
-  - [ ] [[polybar]]
-  - [ ] python-pycurl
-  - [ ] [[python-pywal]]
-  - [ ] [[python-pywalfox]]
-  - [ ] python-pip
-  - [ ] [[qbittorrent]]
-  - [ ] qomui
-  - [ ] qt5ct
-  - [ ] qrencode
-  - [ ] radeontop
-  - [ ] [[ranger]]
-  - [ ] [[realvnc-vnc-viewer]]
-  - [ ] [[ripgrep]]
-  - [ ] [[rufus]]
-  - [ ] [[rpi-imager]]
-  - [ ] [[rofi]]
-  - [ ] rofi-blocks-git
-  - [ ] [[rofimoji]]
-  - [ ] sc-controller
-  - [ ] simple-mtpfs
-  - [ ] sl
-  - [ ] [[sxhkd]]
-  - [ ] [[smplayer]]
-  - [ ] [[smplayer-themes]]
-  - [ ] [[smplayer-skins]]
-  - [ ] speedtest-cli
-  - [ ] stacer
-  - [ ] steam
-  - [ ] steamcmd
-  - [ ] steam-native-runtime
-  - [ ] sqlite
-  - [ ] [[syncthing]]
-  - [ ] terminus-font
-  - [ ] thunderbird
-  - [ ] tmatrix-git
-  - [ ] tmux
-  - [ ] tint2
-  - [ ] [[timeshift]]
-  - [ ] ttf-ancient-fonts
-  - [ ] ttf-joypixels
-  - [ ] ttf-space-mono-nerd
-  - [ ] ttf-nerd-fonts-symbols-mono
-  - [ ] ttf-fantasque-sans-mono
-  - [ ] ttf-font-awesome
-  - [ ] ttf-font-awesome-5
-  - [ ] ttf-icomoon-feather
-  - [ ] ttf-jetbrains-mono
-  - [ ] ttf-material-icons-git
-  - [ ] ttf-nerd-fonts-symbols-common
-  - [ ] ttf-weather-icons
-  - [ ] ttf-iosevka-nerd
-  - [ ] tuifimanager
-  - [ ] siji-ttf
-  - [ ] udisks2
-  - [ ] [[uwufetch]]
-  - [ ] [[variety]]
-  - [ ] vencord
-  - [ ] v4l-utils
-  - [ ] v4l2loopback-dkms
-  - [ ] vulkan-icd-loader
-  - [ ] waterfox-g4-bin
-  - [ ] webtorrent-cli
-  - [ ] weechat
-  - [ ] weechat-matrix-git
-  - [ ] weechat-emoji-git
-  - [ ] wine-staging
-  - [ ] wireguard-dkms
-  - [ ] wireguard-tools
-  - [ ] w3m
-  - [ ] w3m-imgcat
-  - [ ] wpgtk
-  - [ ] xclip
-  - [ ] xidel
-  - [ ] xcape
-  - [ ] xdotool
-  - [ ] xboxdrv
-  - [ ] xorg-server-devel
-  - [ ] xorg-fonts-misc
-  - [ ] xorg-xev
-  - [ ] xsel
-  - [ ] xarchiver
-  - [ ] yay
-  - [ ] yt-dlp
-  - [ ] zathura
-  - [ ] zfxtop
+  - [X] [[okular]]
+  - [X] openal
+  - [X] opencl-icd-loader
+  - [X] openshot
+  - [X] openresolv
+  - [X] [[os-prober]]
+  - [X] papis
+  - [X] powerline-fonts
+  - [X] powerline-console-fonts
+  - [X] [[prismlauncher]]
+  - [X] [[proton-ge-custom]]
+  - [X] poppler
+  - [X] protondb-tags
+  - [X] [[protontricks]]
+  - [X] [[protonup-qt]]
+  - [X] protonutils
+  - [X] [[protonmail-bridge]]
+  - [X] [[protonvpn]]
+  - [X] playerctl
+  - [X] [[polybar]]
+  - [X] python-pycurl
+  - [X] [[python-pywal]]
+  - [X] [[python-pywalfox]]
+  - [X] python-pip
+  - [X] [[qbittorrent]]
+  - [X] qomui
+  - [X] qt5ct
+  - [X] qrencode
+  - [X] radeontop
+  - [X] [[ranger]]
+  - [X] [[realvnc-vnc-viewer]]
+  - [X] [[ripgrep]]
+  - [X] [[rufus]]
+  - [X] [[rpi-imager]]
+  - [X] [[rofi]]
+  - [X] rofi-blocks-git
+  - [X] [[rofimoji]]
+  - [X] sc-controller
+  - [X] simple-mtpfs
+  - [X] sl
+  - [X] [[sxhkd]]
+  - [X] [[smplayer]]
+  - [X] [[smplayer-themes]]
+  - [X] [[smplayer-skins]]
+  - [X] speedtest-cli
+  - [X] stacer
+  - [X] steam
+  - [X] steamcmd
+  - [X] steam-native-runtime
+  - [X] sqlite
+  - [X] [[syncthing]]
+  - [X] terminus-font
+  - [X] thunderbird
+  - [X] tmatrix-git
+  - [X] tmux
+  - [X] tint2
+  - [X] [[the_silver_surfer]]
+  - [X] [[timeshift]]
+  - [X] ttf-ancient-fonts
+  - [X] ttf-joypixels
+  - [X] ttf-space-mono-nerd
+  - [X] ttf-nerd-fonts-symbols-mono
+  - [X] ttf-fantasque-sans-mono
+  - [X] ttf-font-awesome
+  - [X] ttf-font-awesome-5
+  - [X] ttf-icomoon-feather
+  - [X] ttf-jetbrains-mono
+  - [X] ttf-material-icons-git
+  - [X] ttf-nerd-fonts-symbols-common
+  - [X] ttf-weather-icons
+  - [X] ttf-iosevka-nerd
+  - [X] tuifimanager
+  - [X] siji-ttf
+  - [X] udisks2
+  - [X] unarchiver
+  - [X] [[uwufetch]]
+  - [X] [[variety]]
+  - [X] vencord
+  - [X] v4l-utils
+  - [X] v4l2loopback-dkms
+  - [X] vulkan-icd-loader
+  - [X] waterfox-g4-bin
+  - [X] webtorrent-cli
+  - [X] weechat
+  - [X] weechat-matrix-git
+  - [X] weechat-emoji-git
+  - [X] wine-staging
+  - [X] wireguard-dkms
+  - [X] wireguard-tools
+  - [X] w3m
+  - [X] w3m-imgcat
+  - [X] wpgtk
+  - [X] xclip
+  - [X] xidel
+  - [X] xcape
+  - [X] xdotool
+  - [X] xboxdrv
+  - [X] xorg-server-devel
+  - [X] xorg-fonts-misc
+  - [X] xplr
+  - [X] xorg-xev
+  - [X] xsel
+  - [X] xarchiver
+  - [X] yay
+  - [X] yazi
+  - [X] yt-dlp
+  - [X] zathura
+  - [X] zfxtop
+  - [X] zoxide

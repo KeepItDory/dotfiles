@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Favorites/wallhaven-5gm6q5.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#25143a",
+        "foreground": "#fbe1ff",
+        "cursor": "#fbe1ff"
+    },
+    "colors": {
+        "color0": "#25143a",
+        "color1": "#8038BD",
+        "color2": "#7C50CB",
+        "color3": "#8151CB",
+        "color4": "#7C2FCE",
+        "color5": "#813DC2",
+        "color6": "#8379CC",
+        "color7": "#cbb6e5",
+        "color8": "#3c205f",
+        "color9": "#a738ff",
+        "color10": "#9b55ff",
+        "color11": "#a356ff",
+        "color12": "#a02cff",
+        "color13": "#a83eff",
+        "color14": "#9a88ff",
+        "color15": "#fbe1ff"
+    }
+}

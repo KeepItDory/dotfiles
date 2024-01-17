@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_River/wallhaven-zymgly.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#2e2b35",
+        "foreground": "#f4ffff",
+        "cursor": "#f4ffff"
+    },
+    "colors": {
+        "color0": "#2e2b35",
+        "color1": "#8DD1EE",
+        "color2": "#73B4E5",
+        "color3": "#A7E5F2",
+        "color4": "#68A8D8",
+        "color5": "#C2A4A5",
+        "color6": "#71C8ED",
+        "color7": "#def1e8",
+        "color8": "#454150",
+        "color9": "#9effff",
+        "color10": "#7fedff",
+        "color11": "#b6ffff",
+        "color12": "#72ddff",
+        "color13": "#ffbec0",
+        "color14": "#7cffff",
+        "color15": "#f4ffff"
+    }
+}

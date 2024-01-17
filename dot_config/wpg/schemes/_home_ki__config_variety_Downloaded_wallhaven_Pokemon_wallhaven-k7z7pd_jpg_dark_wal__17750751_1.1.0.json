@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Pokemon/wallhaven-k7z7pd.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0c131b",
+        "foreground": "#f5ffff",
+        "cursor": "#f5ffff"
+    },
+    "colors": {
+        "color0": "#0c131b",
+        "color1": "#817F83",
+        "color2": "#A6B9CA",
+        "color3": "#95A4B4",
+        "color4": "#72879E",
+        "color5": "#C2BDBF",
+        "color6": "#77C4D9",
+        "color7": "#d0d9e0",
+        "color8": "#1a2b3e",
+        "color9": "#a794ba",
+        "color10": "#bff1ff",
+        "color11": "#acd4ff",
+        "color12": "#82aedf",
+        "color13": "#ffdcf3",
+        "color14": "#84ffff",
+        "color15": "#f5ffff"
+    }
+}

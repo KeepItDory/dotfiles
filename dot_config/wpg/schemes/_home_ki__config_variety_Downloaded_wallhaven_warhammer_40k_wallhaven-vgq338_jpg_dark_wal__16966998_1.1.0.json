@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_warhammer_40k/wallhaven-vgq338.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0F0B06",
+        "foreground": "#ffffe6",
+        "cursor": "#ffffe6"
+    },
+    "colors": {
+        "color0": "#0F0B06",
+        "color1": "#995A27",
+        "color2": "#675F51",
+        "color3": "#DDB553",
+        "color4": "#A5653D",
+        "color5": "#B8A9A3",
+        "color6": "#588CBB",
+        "color7": "#f2ebc7",
+        "color8": "#332513",
+        "color9": "#d37326",
+        "color10": "#917e5d",
+        "color11": "#fff358",
+        "color12": "#e57f40",
+        "color13": "#ffd2bd",
+        "color14": "#60b6ff",
+        "color15": "#ffffe6"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Favorites/wallhaven-xlm2wv.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#151111",
+        "foreground": "#ffffe8",
+        "cursor": "#ffffe8"
+    },
+    "colors": {
+        "color0": "#151111",
+        "color1": "#B19064",
+        "color2": "#D2A762",
+        "color3": "#E4C36C",
+        "color4": "#597B9D",
+        "color5": "#B29E91",
+        "color6": "#CAB19B",
+        "color7": "#e9dfc4",
+        "color8": "#302727",
+        "color9": "#f8bd70",
+        "color10": "#ffdd6b",
+        "color11": "#ffff76",
+        "color12": "#639fdc",
+        "color13": "#fcc8a7",
+        "color14": "#ffe4b2",
+        "color15": "#ffffe8"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_linux/wallhaven-ne2zjl.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#000000",
+        "foreground": "#f5ffff",
+        "cursor": "#f5ffff"
+    },
+    "colors": {
+        "color0": "#000000",
+        "color1": "#867C4A",
+        "color2": "#535C69",
+        "color3": "#6C748A",
+        "color4": "#115A9F",
+        "color5": "#909AAB",
+        "color6": "#6293A4",
+        "color7": "#ced7de",
+        "color8": "#191919",
+        "color9": "#bbaa52",
+        "color10": "#5f7594",
+        "color11": "#7c8fc3",
+        "color12": "#0a75da",
+        "color13": "#a6c2f2",
+        "color14": "#6ec7e6",
+        "color15": "#f5ffff"
+    }
+}

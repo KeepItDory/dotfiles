@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_linux/wallhaven-d6vzql.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#10141c",
+        "foreground": "#fffffd",
+        "cursor": "#fffffd"
+    },
+    "colors": {
+        "color0": "#10141c",
+        "color1": "#887E7A",
+        "color2": "#6B7075",
+        "color3": "#AEB2B0",
+        "color4": "#6F7B83",
+        "color5": "#919899",
+        "color6": "#77878C",
+        "color7": "#d8d8d5",
+        "color8": "#212a3c",
+        "color9": "#c19c8d",
+        "color10": "#7c91a6",
+        "color11": "#cbfee4",
+        "color12": "#80a3b9",
+        "color13": "#a9d4da",
+        "color14": "#89b8c6",
+        "color15": "#fffffd"
+    }
+}

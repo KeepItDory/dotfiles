@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_3d_art/wallhaven-72z6qe.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0f090a",
+        "foreground": "#fff5fb",
+        "cursor": "#fff5fb"
+    },
+    "colors": {
+        "color0": "#0f090a",
+        "color1": "#9F4447",
+        "color2": "#A0807E",
+        "color3": "#D2A6A9",
+        "color4": "#945D6A",
+        "color5": "#A5728F",
+        "color6": "#AF9699",
+        "color7": "#e4d4d9",
+        "color8": "#2e1b1e",
+        "color9": "#dd494e",
+        "color10": "#e29691",
+        "color11": "#ffbfc6",
+        "color12": "#d06981",
+        "color13": "#e882bc",
+        "color14": "#f8adb6",
+        "color15": "#fff5fb"
+    }
+}

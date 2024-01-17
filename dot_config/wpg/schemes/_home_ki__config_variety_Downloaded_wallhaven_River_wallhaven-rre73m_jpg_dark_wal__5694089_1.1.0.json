@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_River/wallhaven-rre73m.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#17100e",
+        "foreground": "#f2ffff",
+        "cursor": "#f2ffff"
+    },
+    "colors": {
+        "color0": "#17100e",
+        "color1": "#D3713C",
+        "color2": "#986950",
+        "color3": "#E28D54",
+        "color4": "#77828A",
+        "color5": "#9E5833",
+        "color6": "#ACB1AA",
+        "color7": "#cfdee5",
+        "color8": "#362520",
+        "color9": "#ff8d3c",
+        "color10": "#d48358",
+        "color11": "#ffb359",
+        "color12": "#8aabc4",
+        "color13": "#db6e34",
+        "color14": "#d5fcc6",
+        "color15": "#f2ffff"
+    }
+}

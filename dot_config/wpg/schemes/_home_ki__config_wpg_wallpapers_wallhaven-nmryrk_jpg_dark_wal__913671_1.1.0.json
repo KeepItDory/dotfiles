@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/wpg/wallpapers/wallhaven-nmryrk.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0e0e0d",
+        "foreground": "#ffffe4",
+        "cursor": "#ffffe4"
+    },
+    "colors": {
+        "color0": "#0e0e0d",
+        "color1": "#847C5B",
+        "color2": "#7DA274",
+        "color3": "#968C65",
+        "color4": "#555544",
+        "color5": "#706D52",
+        "color6": "#5C6249",
+        "color7": "#cbc5ad",
+        "color8": "#282825",
+        "color9": "#baaa67",
+        "color10": "#97e484",
+        "color11": "#d3bf73",
+        "color12": "#78784e",
+        "color13": "#9e975e",
+        "color14": "#7d8a53",
+        "color15": "#ffffe4"
+    }
+}

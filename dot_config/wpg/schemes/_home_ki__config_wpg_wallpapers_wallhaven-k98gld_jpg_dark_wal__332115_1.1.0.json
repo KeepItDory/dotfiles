@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/wpg/wallpapers/wallhaven-k98gld.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#423113",
+        "foreground": "#ecf5ff",
+        "cursor": "#ecf5ff"
+    },
+    "colors": {
+        "color0": "#423113",
+        "color1": "#C0C6BF",
+        "color2": "#5C6EA3",
+        "color3": "#ECD65E",
+        "color4": "#4D66BC",
+        "color5": "#897B85",
+        "color6": "#758AC6",
+        "color7": "#c3cbe2",
+        "color8": "#694d1d",
+        "color9": "#e7ffdf",
+        "color10": "#6786e4",
+        "color11": "#ffff64",
+        "color12": "#527bff",
+        "color13": "#c28fb4",
+        "color14": "#83a9ff",
+        "color15": "#ecf5ff"
+    }
+}

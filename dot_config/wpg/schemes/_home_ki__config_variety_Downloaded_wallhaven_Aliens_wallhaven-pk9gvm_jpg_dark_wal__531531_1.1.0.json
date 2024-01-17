@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Aliens/wallhaven-pk9gvm.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0D1A22",
+        "foreground": "#f8ffff",
+        "cursor": "#f8ffff"
+    },
+    "colors": {
+        "color0": "#0D1A22",
+        "color1": "#484F53",
+        "color2": "#7A8774",
+        "color3": "#59666B",
+        "color4": "#4A758D",
+        "color5": "#5F92A0",
+        "color6": "#4DA3C0",
+        "color7": "#c5cecf",
+        "color8": "#1a3546",
+        "color9": "#536975",
+        "color10": "#98bf86",
+        "color11": "#678a97",
+        "color12": "#529cc5",
+        "color13": "#6ac7e0",
+        "color14": "#52dcff",
+        "color15": "#f8ffff"
+    }
+}

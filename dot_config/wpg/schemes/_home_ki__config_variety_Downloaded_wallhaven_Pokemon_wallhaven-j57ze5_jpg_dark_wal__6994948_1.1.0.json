@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Pokemon/wallhaven-j57ze5.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#131113",
+        "foreground": "#fffff5",
+        "cursor": "#fffff5"
+    },
+    "colors": {
+        "color0": "#131113",
+        "color1": "#AA5E48",
+        "color2": "#827E7B",
+        "color3": "#E69876",
+        "color4": "#927160",
+        "color5": "#A98C70",
+        "color6": "#D6C09D",
+        "color7": "#f1efe0",
+        "color8": "#2d282d",
+        "color9": "#ec714d",
+        "color10": "#b9a18f",
+        "color11": "#ffbc82",
+        "color12": "#cd8d6d",
+        "color13": "#edb57f",
+        "color14": "#ffffb4",
+        "color15": "#fffff5"
+    }
+}

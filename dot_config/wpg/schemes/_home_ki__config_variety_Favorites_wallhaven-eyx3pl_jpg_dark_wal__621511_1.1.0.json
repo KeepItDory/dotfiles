@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Favorites/wallhaven-eyx3pl.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#010010",
+        "foreground": "#ceffff",
+        "cursor": "#ceffff"
+    },
+    "colors": {
+        "color0": "#010010",
+        "color1": "#3343D0",
+        "color2": "#0B8AFD",
+        "color3": "#0170FE",
+        "color4": "#0152FE",
+        "color5": "#AE43DB",
+        "color6": "#2E96F8",
+        "color7": "#a4d1f1",
+        "color8": "#050141",
+        "color9": "#3149ff",
+        "color10": "#01b4ff",
+        "color11": "#0191ff",
+        "color12": "#016aff",
+        "color13": "#e944ff",
+        "color14": "#28c3ff",
+        "color15": "#ceffff"
+    }
+}

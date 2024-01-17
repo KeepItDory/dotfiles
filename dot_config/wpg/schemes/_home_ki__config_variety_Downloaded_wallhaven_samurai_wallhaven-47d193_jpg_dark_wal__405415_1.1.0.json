@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_samurai/wallhaven-47d193.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#04070F",
+        "foreground": "#fffff2",
+        "cursor": "#fffff2"
+    },
+    "colors": {
+        "color0": "#04070F",
+        "color1": "#B5AA87",
+        "color2": "#E2C8A3",
+        "color3": "#E0906D",
+        "color4": "#F4D2AE",
+        "color5": "#D0B893",
+        "color6": "#7F8381",
+        "color7": "#f5eede",
+        "color8": "#0c1838",
+        "color9": "#ffe79b",
+        "color10": "#ffffba",
+        "color11": "#ffb278",
+        "color12": "#ffffba",
+        "color13": "#fff4a8",
+        "color14": "#94baa7",
+        "color15": "#fffff2"
+    }
+}

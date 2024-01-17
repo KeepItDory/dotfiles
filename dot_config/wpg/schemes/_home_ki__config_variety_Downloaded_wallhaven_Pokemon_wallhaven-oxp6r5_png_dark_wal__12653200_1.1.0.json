@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Pokemon/wallhaven-oxp6r5.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0A1836",
+        "foreground": "#bcffff",
+        "cursor": "#bcffff"
+    },
+    "colors": {
+        "color0": "#0A1836",
+        "color1": "#24A6D9",
+        "color2": "#1C8DC9",
+        "color3": "#30B2D9",
+        "color4": "#1C7CBE",
+        "color5": "#2298CF",
+        "color6": "#25B4E5",
+        "color7": "#90e3f2",
+        "color8": "#112a60",
+        "color9": "#1edfff",
+        "color10": "#15bbff",
+        "color11": "#2df0ff",
+        "color12": "#16a3ff",
+        "color13": "#1ccbff",
+        "color14": "#1ef2ff",
+        "color15": "#bcffff"
+    }
+}

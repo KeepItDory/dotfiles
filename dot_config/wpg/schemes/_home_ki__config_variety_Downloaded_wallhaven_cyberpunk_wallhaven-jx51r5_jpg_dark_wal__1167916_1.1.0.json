@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_cyberpunk/wallhaven-jx51r5.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#101216",
+        "foreground": "#fffdfd",
+        "cursor": "#fffdfd"
+    },
+    "colors": {
+        "color0": "#101216",
+        "color1": "#DACEB0",
+        "color2": "#A3A5A2",
+        "color3": "#E5E16A",
+        "color4": "#B3C3C6",
+        "color5": "#CCB2A5",
+        "color6": "#65A2A3",
+        "color7": "#e1dede",
+        "color8": "#242933",
+        "color9": "#ffffca",
+        "color10": "#ccebbd",
+        "color11": "#ffff74",
+        "color12": "#d0ffff",
+        "color13": "#ffdfbe",
+        "color14": "#72e3e5",
+        "color15": "#fffdfd"
+    }
+}

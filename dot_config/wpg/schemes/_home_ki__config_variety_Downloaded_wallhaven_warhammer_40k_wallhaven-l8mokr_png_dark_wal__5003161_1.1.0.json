@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_warhammer_40k/wallhaven-l8mokr.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0F0907",
+        "foreground": "#eaf4f8",
+        "cursor": "#eaf4f8"
+    },
+    "colors": {
+        "color0": "#0F0907",
+        "color1": "#E55D14",
+        "color2": "#60513D",
+        "color3": "#FDF01A",
+        "color4": "#962A0D",
+        "color5": "#B04C26",
+        "color6": "#F4BC39",
+        "color7": "#b0b8bb",
+        "color8": "#321d16",
+        "color9": "#ff7309",
+        "color10": "#866a45",
+        "color11": "#ffff0f",
+        "color12": "#cd3006",
+        "color13": "#f25c23",
+        "color14": "#fffc36",
+        "color15": "#eaf4f8"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/wpg/wallpapers/wallhaven-neqr8l.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0a0a0a",
+        "foreground": "#fbfbfe",
+        "cursor": "#fbfbfe"
+    },
+    "colors": {
+        "color0": "#0a0a0a",
+        "color1": "#9F2619",
+        "color2": "#6B6C70",
+        "color3": "#C89D54",
+        "color4": "#5E5E61",
+        "color5": "#C94F32",
+        "color6": "#7C7E83",
+        "color7": "#c0c0c2",
+        "color8": "#232323",
+        "color9": "#da2714",
+        "color10": "#7c839f",
+        "color11": "#ffd05a",
+        "color12": "#6d6d8a",
+        "color13": "#ff5c30",
+        "color14": "#909cba",
+        "color15": "#fbfbfe"
+    }
+}

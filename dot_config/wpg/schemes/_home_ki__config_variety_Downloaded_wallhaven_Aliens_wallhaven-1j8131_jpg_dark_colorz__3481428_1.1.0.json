@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Aliens/wallhaven-1j8131.jpg",
+    "alpha": "80",
+
+    "special": {
+        "background": "#21120c",
+        "foreground": "#fffdfb",
+        "cursor": "#fffdfb"
+    },
+    "colors": {
+        "color0": "#21120c",
+        "color1": "#aa5b3e",
+        "color2": "#ae958b",
+        "color3": "#ae7b64",
+        "color4": "#b7bbbf",
+        "color5": "#9997aa",
+        "color6": "#6992aa",
+        "color7": "#c7c3c2",
+        "color8": "#462518",
+        "color9": "#ec6f41",
+        "color10": "#f6b9a0",
+        "color11": "#f39970",
+        "color12": "#d5f3ff",
+        "color13": "#b6aff1",
+        "color14": "#76c2ee",
+        "color15": "#fffdfb"
+    }
+}

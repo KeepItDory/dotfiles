@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/wpg/wallpapers/wallhaven-nzr9ry.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0b131a",
+        "foreground": "#edfdff",
+        "cursor": "#edfdff"
+    },
+    "colors": {
+        "color0": "#0b131a",
+        "color1": "#3588CA",
+        "color2": "#507594",
+        "color3": "#5B8DA8",
+        "color4": "#2469A2",
+        "color5": "#93AFC8",
+        "color6": "#5C9ED4",
+        "color7": "#d0deee",
+        "color8": "#192c3d",
+        "color9": "#34b2ff",
+        "color10": "#5999cf",
+        "color11": "#65bceb",
+        "color12": "#2189df",
+        "color13": "#a8e4ff",
+        "color14": "#63cfff",
+        "color15": "#edfdff"
+    }
+}

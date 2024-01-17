@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_cyberpunk/wallhaven-dgom73.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#040608",
+        "foreground": "#c4ffff",
+        "cursor": "#c4ffff"
+    },
+    "colors": {
+        "color0": "#040608",
+        "color1": "#4D4E66",
+        "color2": "#294C70",
+        "color3": "#5C7291",
+        "color4": "#1C6794",
+        "color5": "#86768D",
+        "color6": "#0BA1DA",
+        "color7": "#94c9dc",
+        "color8": "#131e2b",
+        "color9": "#585a90",
+        "color10": "#2b629b",
+        "color11": "#6891cb",
+        "color12": "#1888cb",
+        "color13": "#b488c8",
+        "color14": "#01d7ff",
+        "color15": "#c4ffff"
+    }
+}

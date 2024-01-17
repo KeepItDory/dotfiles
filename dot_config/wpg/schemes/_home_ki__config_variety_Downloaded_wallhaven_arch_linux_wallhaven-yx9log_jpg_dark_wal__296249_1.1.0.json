@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_arch_linux/wallhaven-yx9log.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#000000",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#000000",
+        "color1": "#199EE0",
+        "color2": "#1584BB",
+        "color3": "#A1A1A1",
+        "color4": "#1378AB",
+        "color5": "#1793D1",
+        "color6": "#19A1E5",
+        "color7": "#dedede",
+        "color8": "#191919",
+        "color9": "#10d2ff",
+        "color10": "#0db0ff",
+        "color11": "#e6bcbc",
+        "color12": "#0ca0ea",
+        "color13": "#0ec4ff",
+        "color14": "#0fd6ff",
+        "color15": "#ffffff"
+    }
+}

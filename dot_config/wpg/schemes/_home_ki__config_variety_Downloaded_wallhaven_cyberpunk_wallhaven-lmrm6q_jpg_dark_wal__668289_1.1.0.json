@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_cyberpunk/wallhaven-lmrm6q.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0A0617",
+        "foreground": "#ceffff",
+        "cursor": "#ceffff"
+    },
+    "colors": {
+        "color0": "#0A0617",
+        "color1": "#B66D44",
+        "color2": "#284C69",
+        "color3": "#4F2D5F",
+        "color4": "#3C4CAB",
+        "color5": "#A95FC2",
+        "color6": "#545499",
+        "color7": "#9dc7de",
+        "color8": "#1a0f3f",
+        "color9": "#fc8948",
+        "color10": "#2a6391",
+        "color11": "#693184",
+        "color12": "#3e58ed",
+        "color13": "#e468ff",
+        "color14": "#5d5dd6",
+        "color15": "#ceffff"
+    }
+}

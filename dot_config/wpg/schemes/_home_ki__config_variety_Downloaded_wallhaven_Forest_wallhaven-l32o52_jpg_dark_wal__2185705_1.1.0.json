@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Forest/wallhaven-l32o52.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0D0B06",
+        "foreground": "#c0c5ab",
+        "cursor": "#c0c5ab"
+    },
+    "colors": {
+        "color0": "#0D0B06",
+        "color1": "#5C6230",
+        "color2": "#65704A",
+        "color3": "#857945",
+        "color4": "#748635",
+        "color5": "#78885B",
+        "color6": "#A5AB55",
+        "color7": "#c0c5ab",
+        "color8": "#868977",
+        "color9": "#5C6230",
+        "color10": "#65704A",
+        "color11": "#857945",
+        "color12": "#748635",
+        "color13": "#78885B",
+        "color14": "#A5AB55",
+        "color15": "#c0c5ab"
+    }
+}

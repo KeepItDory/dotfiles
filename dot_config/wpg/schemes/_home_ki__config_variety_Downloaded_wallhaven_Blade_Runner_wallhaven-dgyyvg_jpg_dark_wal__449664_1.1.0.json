@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Blade_Runner/wallhaven-dgyyvg.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0c0c11",
+        "foreground": "#e2ffff",
+        "cursor": "#e2ffff"
+    },
+    "colors": {
+        "color0": "#0c0c11",
+        "color1": "#4B546D",
+        "color2": "#4F5A6C",
+        "color3": "#3A4E68",
+        "color4": "#3C6296",
+        "color5": "#907AA3",
+        "color6": "#5D6D8D",
+        "color7": "#acc3ce",
+        "color8": "#20202e",
+        "color9": "#556799",
+        "color10": "#5a7298",
+        "color11": "#406491",
+        "color12": "#407dd0",
+        "color13": "#bc8ce6",
+        "color14": "#6988c6",
+        "color15": "#e2ffff"
+    }
+}

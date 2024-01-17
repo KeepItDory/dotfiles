@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_cyberspace/wallhaven-e72xqo.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#010B2A",
+        "foreground": "#fffff6",
+        "cursor": "#fffff6"
+    },
+    "colors": {
+        "color0": "#010B2A",
+        "color1": "#44C430",
+        "color2": "#1BA82B",
+        "color3": "#BBE338",
+        "color4": "#0C8C2A",
+        "color5": "#E2F39E",
+        "color6": "#70B98D",
+        "color7": "#eff1e2",
+        "color8": "#01175c",
+        "color9": "#4cff2e",
+        "color10": "#16e72e",
+        "color11": "#fcff36",
+        "color12": "#05c031",
+        "color13": "#ffffaf",
+        "color14": "#7effb3",
+        "color15": "#fffff6"
+    }
+}

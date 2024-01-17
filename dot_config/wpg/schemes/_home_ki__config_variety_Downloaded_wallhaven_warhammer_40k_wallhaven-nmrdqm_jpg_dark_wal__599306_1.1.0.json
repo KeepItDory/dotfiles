@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_warhammer_40k/wallhaven-nmrdqm.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0d0c0c",
+        "foreground": "#dbeeff",
+        "cursor": "#dbeeff"
+    },
+    "colors": {
+        "color0": "#0d0c0c",
+        "color1": "#A75630",
+        "color2": "#615754",
+        "color3": "#D09D64",
+        "color4": "#38465E",
+        "color5": "#966E54",
+        "color6": "#2C374A",
+        "color7": "#a5b3c3",
+        "color8": "#272323",
+        "color9": "#e76a30",
+        "color10": "#896a61",
+        "color11": "#ffcd6d",
+        "color12": "#3f5883",
+        "color13": "#d28b5e",
+        "color14": "#314567",
+        "color15": "#dbeeff"
+    }
+}

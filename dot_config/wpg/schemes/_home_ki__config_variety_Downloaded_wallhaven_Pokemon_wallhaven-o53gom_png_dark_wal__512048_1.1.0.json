@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Pokemon/wallhaven-o53gom.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#271d18",
+        "foreground": "#ffffe0",
+        "cursor": "#ffffe0"
+    },
+    "colors": {
+        "color0": "#271d18",
+        "color1": "#DCA94F",
+        "color2": "#F4D64D",
+        "color3": "#FEE654",
+        "color4": "#FFF370",
+        "color5": "#F1D062",
+        "color6": "#FFF888",
+        "color7": "#f5e7c1",
+        "color8": "#46332a",
+        "color9": "#ffe153",
+        "color10": "#ffff4f",
+        "color11": "#ffff57",
+        "color12": "#ffff79",
+        "color13": "#ffff69",
+        "color14": "#ffff97",
+        "color15": "#ffffe0"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Pokemon/wallhaven-lmp2xl.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#100f10",
+        "foreground": "#cbcbff",
+        "cursor": "#cbcbff"
+    },
+    "colors": {
+        "color0": "#100f10",
+        "color1": "#AF324A",
+        "color2": "#604968",
+        "color3": "#A22B54",
+        "color4": "#4B388A",
+        "color5": "#D0656C",
+        "color6": "#5C275F",
+        "color7": "#9797c3",
+        "color8": "#292729",
+        "color9": "#f23257",
+        "color10": "#825392",
+        "color11": "#e02a69",
+        "color12": "#5a3cc0",
+        "color13": "#ff6f7a",
+        "color14": "#7f2984",
+        "color15": "#cbcbff"
+    }
+}

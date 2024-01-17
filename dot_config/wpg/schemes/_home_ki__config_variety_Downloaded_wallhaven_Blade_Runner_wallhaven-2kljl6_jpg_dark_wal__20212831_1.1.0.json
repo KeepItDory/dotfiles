@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Blade_Runner/wallhaven-2kljl6.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0a1013",
+        "foreground": "#fbffff",
+        "cursor": "#fbffff"
+    },
+    "colors": {
+        "color0": "#0a1013",
+        "color1": "#D0DEE0",
+        "color2": "#C9D7DA",
+        "color3": "#98AAAE",
+        "color4": "#B4CDD1",
+        "color5": "#B3BCBE",
+        "color6": "#419CBB",
+        "color7": "#e3e9ea",
+        "color8": "#1a2b34",
+        "color9": "#dcffff",
+        "color10": "#dbffff",
+        "color11": "#b0eaf7",
+        "color12": "#d0ffff",
+        "color13": "#d0ffff",
+        "color14": "#44d2ff",
+        "color15": "#fbffff"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Temple/wallhaven-n6keel.jpg",
+    "alpha": "80",
+
+    "special": {
+        "background": "#211205",
+        "foreground": "#fffefa",
+        "cursor": "#fffefa"
+    },
+    "colors": {
+        "color0": "#211205",
+        "color1": "#aa5f1e",
+        "color2": "#ab743e",
+        "color3": "#a99415",
+        "color4": "#ae845b",
+        "color5": "#c6c2b9",
+        "color6": "#c49f72",
+        "color7": "#c7c3c0",
+        "color8": "#4d290a",
+        "color9": "#ea7a19",
+        "color10": "#ed9641",
+        "color11": "#e8c90e",
+        "color12": "#f3ab65",
+        "color13": "#ffffd7",
+        "color14": "#ffd080",
+        "color15": "#fffefa"
+    }
+}

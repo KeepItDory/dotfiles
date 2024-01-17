@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_linux/wallhaven-qdk56q.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0C0E0E",
+        "foreground": "#dbffff",
+        "cursor": "#dbffff"
+    },
+    "colors": {
+        "color0": "#0C0E0E",
+        "color1": "#EAA550",
+        "color2": "#497598",
+        "color3": "#F0AD2B",
+        "color4": "#206994",
+        "color5": "#FDD662",
+        "color6": "#4197B8",
+        "color7": "#a8cddd",
+        "color8": "#222929",
+        "color9": "#ffd853",
+        "color10": "#5099d4",
+        "color11": "#ffe625",
+        "color12": "#1d8bcc",
+        "color13": "#ffff68",
+        "color14": "#44cbff",
+        "color15": "#dbffff"
+    }
+}

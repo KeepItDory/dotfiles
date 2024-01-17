@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/wpg/wallpapers/photo-1471664003401-92a303090b54.jpg",
+    "alpha": "80",
+
+    "special": {
+        "background": "#211f1d",
+        "foreground": "#fffffe",
+        "cursor": "#fffffe"
+    },
+    "colors": {
+        "color0": "#211f1d",
+        "color1": "#aa885c",
+        "color2": "#ab947a",
+        "color3": "#ab803e",
+        "color4": "#c5beb4",
+        "color5": "#aaa096",
+        "color6": "#8a95aa",
+        "color7": "#c7c7c6",
+        "color8": "#3b3834",
+        "color9": "#eeb266",
+        "color10": "#f1c18b",
+        "color11": "#eda941",
+        "color12": "#fffbd1",
+        "color13": "#f1d0ae",
+        "color14": "#9fbbf0",
+        "color15": "#fffffe"
+    }
+}

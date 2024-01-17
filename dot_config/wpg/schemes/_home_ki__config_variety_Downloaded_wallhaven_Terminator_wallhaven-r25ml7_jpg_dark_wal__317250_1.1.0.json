@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Terminator/wallhaven-r25ml7.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0a0909",
+        "foreground": "#fbffff",
+        "cursor": "#fbffff"
+    },
+    "colors": {
+        "color0": "#0a0909",
+        "color1": "#A54842",
+        "color2": "#555B5F",
+        "color3": "#314355",
+        "color4": "#384F67",
+        "color5": "#607589",
+        "color6": "#738CA1",
+        "color7": "#c2c5c8",
+        "color8": "#242020",
+        "color9": "#e55046",
+        "color10": "#627887",
+        "color11": "#375777",
+        "color12": "#3e6690",
+        "color13": "#6d98c1",
+        "color14": "#83b7e3",
+        "color15": "#fbffff"
+    }
+}

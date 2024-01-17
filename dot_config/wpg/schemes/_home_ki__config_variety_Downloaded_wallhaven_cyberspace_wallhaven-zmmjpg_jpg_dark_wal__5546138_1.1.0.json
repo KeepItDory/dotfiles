@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_cyberspace/wallhaven-zmmjpg.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#090311",
+        "foreground": "#ffe7ff",
+        "cursor": "#ffe7ff"
+    },
+    "colors": {
+        "color0": "#090311",
+        "color1": "#75455B",
+        "color2": "#776074",
+        "color3": "#845072",
+        "color4": "#6A3D62",
+        "color5": "#985A92",
+        "color6": "#7B4A66",
+        "color7": "#d8b3d0",
+        "color8": "#1f083d",
+        "color9": "#a44d75",
+        "color10": "#a86ea1",
+        "color11": "#b95a98",
+        "color12": "#944486",
+        "color13": "#d565ca",
+        "color14": "#ac5386",
+        "color15": "#ffe7ff"
+    }
+}

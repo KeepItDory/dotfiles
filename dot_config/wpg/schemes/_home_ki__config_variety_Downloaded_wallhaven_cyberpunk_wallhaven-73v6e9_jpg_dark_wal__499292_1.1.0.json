@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_cyberpunk/wallhaven-73v6e9.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#070410",
+        "foreground": "#ffc1ff",
+        "cursor": "#ffc1ff"
+    },
+    "colors": {
+        "color0": "#070410",
+        "color1": "#D22C72",
+        "color2": "#641A62",
+        "color3": "#9C2361",
+        "color4": "#32228A",
+        "color5": "#831E76",
+        "color6": "#61338C",
+        "color7": "#db92c1",
+        "color8": "#170c39",
+        "color9": "#ff2891",
+        "color10": "#8a1987",
+        "color11": "#d7207e",
+        "color12": "#3920be",
+        "color13": "#b41ca1",
+        "color14": "#7e35c2",
+        "color15": "#ffc1ff"
+    }
+}

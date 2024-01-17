@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_cyberspace/wallhaven-q66ezd.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0d000c",
+        "foreground": "#ffc9ef",
+        "cursor": "#ffc9ef"
+    },
+    "colors": {
+        "color0": "#0d000c",
+        "color1": "#CF114A",
+        "color2": "#B50F42",
+        "color3": "#EF1556",
+        "color4": "#A01E4B",
+        "color5": "#FB2067",
+        "color6": "#C41044",
+        "color7": "#f5a0be",
+        "color8": "#3e0139",
+        "color9": "#ff075a",
+        "color10": "#f80650",
+        "color11": "#ff0a68",
+        "color12": "#dc1a5d",
+        "color13": "#ff177f",
+        "color14": "#ff0652",
+        "color15": "#ffc9ef"
+    }
+}

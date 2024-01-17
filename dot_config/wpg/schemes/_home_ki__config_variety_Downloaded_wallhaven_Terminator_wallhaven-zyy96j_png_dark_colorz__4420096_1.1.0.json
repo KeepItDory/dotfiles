@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Terminator/wallhaven-zyy96j.png",
+    "alpha": "80",
+
+    "special": {
+        "background": "#220503",
+        "foreground": "#fffffa",
+        "cursor": "#fffffa"
+    },
+    "colors": {
+        "color0": "#220503",
+        "color1": "#ae1a10",
+        "color2": "#a7976d",
+        "color3": "#a87430",
+        "color4": "#a4a69d",
+        "color5": "#c7c0c0",
+        "color6": "#4f9898",
+        "color7": "#c5c3bf",
+        "color8": "#510a05",
+        "color9": "#ee1608",
+        "color10": "#ebcc7b",
+        "color11": "#e89830",
+        "color12": "#e0ecb7",
+        "color13": "#ffe0e0",
+        "color14": "#57d4d4",
+        "color15": "#fffffa"
+    }
+}

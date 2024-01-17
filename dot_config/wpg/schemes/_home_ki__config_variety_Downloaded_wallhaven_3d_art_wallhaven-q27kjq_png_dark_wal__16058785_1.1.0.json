@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_3d_art/wallhaven-q27kjq.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#080408",
+        "foreground": "#e1ffff",
+        "cursor": "#e1ffff"
+    },
+    "colors": {
+        "color0": "#080408",
+        "color1": "#5D516B",
+        "color2": "#4A4775",
+        "color3": "#504F8B",
+        "color4": "#50479E",
+        "color5": "#8D74AB",
+        "color6": "#6864A0",
+        "color7": "#acc6d8",
+        "color8": "#2b132a",
+        "color9": "#775d97",
+        "color10": "#5550a4",
+        "color11": "#5a58c2",
+        "color12": "#5c4ddc",
+        "color13": "#b584f0",
+        "color14": "#7871e0",
+        "color15": "#e1ffff"
+    }
+}

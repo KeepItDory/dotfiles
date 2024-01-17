@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Aliens/wallhaven-96rgyx.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#030A12",
+        "foreground": "#b9ffff",
+        "cursor": "#b9ffff"
+    },
+    "colors": {
+        "color0": "#030A12",
+        "color1": "#C62D76",
+        "color2": "#428A78",
+        "color3": "#40BAA5",
+        "color4": "#577B84",
+        "color5": "#D33F87",
+        "color6": "#1EEACE",
+        "color7": "#8dede0",
+        "color8": "#08213e",
+        "color9": "#ff2a98",
+        "color10": "#48c0a2",
+        "color11": "#42ffe1",
+        "color12": "#62a8b9",
+        "color13": "#ff40af",
+        "color14": "#15ffff",
+        "color15": "#b9ffff"
+    }
+}

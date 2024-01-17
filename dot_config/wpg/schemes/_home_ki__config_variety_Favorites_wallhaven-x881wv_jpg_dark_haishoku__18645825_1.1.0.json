@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Favorites/wallhaven-x881wv.jpg",
+    "alpha": "80",
+
+    "special": {
+        "background": "#1c1818",
+        "foreground": "#fffefe",
+        "cursor": "#fffefe"
+    },
+    "colors": {
+        "color0": "#1c1818",
+        "color1": "#ec401f",
+        "color2": "#96693b",
+        "color3": "#dd8d31",
+        "color4": "#7e3427",
+        "color5": "#92817c",
+        "color6": "#e2c583",
+        "color7": "#c6c5c5",
+        "color8": "#372f2f",
+        "color9": "#ff4716",
+        "color10": "#d0883f",
+        "color11": "#ffb82e",
+        "color12": "#ae3c27",
+        "color13": "#cf9e8f",
+        "color14": "#ffff93",
+        "color15": "#fffefe"
+    }
+}

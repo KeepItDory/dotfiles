@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Forest/wallhaven-3k329v.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0f0f0f",
+        "foreground": "#ffffff",
+        "cursor": "#ffffff"
+    },
+    "colors": {
+        "color0": "#0f0f0f",
+        "color1": "#DEDEDE",
+        "color2": "#E2E2E2",
+        "color3": "#C8C8C8",
+        "color4": "#E4E4E4",
+        "color5": "#D4D4D4",
+        "color6": "#DBDBDB",
+        "color7": "#ececec",
+        "color8": "#282828",
+        "color9": "#ffe5e5",
+        "color10": "#ffe5e5",
+        "color11": "#ffe5e5",
+        "color12": "#ffe5e5",
+        "color13": "#ffe5e5",
+        "color14": "#ffe5e5",
+        "color15": "#ffffff"
+    }
+}

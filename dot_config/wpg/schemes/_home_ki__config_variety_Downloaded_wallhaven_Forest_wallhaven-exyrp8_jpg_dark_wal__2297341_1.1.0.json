@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Forest/wallhaven-exyrp8.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#081214",
+        "foreground": "#dbf4ff",
+        "cursor": "#dbf4ff"
+    },
+    "colors": {
+        "color0": "#081214",
+        "color1": "#5758A7",
+        "color2": "#2953A5",
+        "color3": "#8E64EC",
+        "color4": "#4744AF",
+        "color5": "#A55EB2",
+        "color6": "#6661DA",
+        "color7": "#abbfe3",
+        "color8": "#153238",
+        "color9": "#6062e9",
+        "color10": "#2767e3",
+        "color11": "#b06cff",
+        "color12": "#4d48f3",
+        "color13": "#e268f9",
+        "color14": "#7169ff",
+        "color15": "#dbf4ff"
+    }
+}

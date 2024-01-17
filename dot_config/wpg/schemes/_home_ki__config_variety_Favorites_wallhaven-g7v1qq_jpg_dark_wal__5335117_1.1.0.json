@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Favorites/wallhaven-g7v1qq.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0B171B",
+        "foreground": "#ffdebf",
+        "cursor": "#ffdebf"
+    },
+    "colors": {
+        "color0": "#0B171B",
+        "color1": "#264754",
+        "color2": "#246379",
+        "color3": "#144557",
+        "color4": "#1D6279",
+        "color5": "#17556B",
+        "color6": "#255C70",
+        "color7": "#c4a48d",
+        "color8": "#18353f",
+        "color9": "#295f75",
+        "color10": "#2485a7",
+        "color11": "#125c78",
+        "color12": "#1b84a7",
+        "color13": "#157293",
+        "color14": "#267c9b",
+        "color15": "#ffdebf"
+    }
+}

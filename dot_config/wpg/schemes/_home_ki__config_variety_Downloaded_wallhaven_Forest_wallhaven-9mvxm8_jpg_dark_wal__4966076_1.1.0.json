@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Forest/wallhaven-9mvxm8.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0a090d",
+        "foreground": "#fdffff",
+        "cursor": "#fdffff"
+    },
+    "colors": {
+        "color0": "#0a090d",
+        "color1": "#B2C5C9",
+        "color2": "#A6BEC2",
+        "color3": "#C5BDB6",
+        "color4": "#9CBBC2",
+        "color5": "#9EA3A4",
+        "color6": "#90B1B8",
+        "color7": "#dee0e1",
+        "color8": "#201d2b",
+        "color9": "#ceffff",
+        "color10": "#c0ffff",
+        "color11": "#fff4d4",
+        "color12": "#b4ffff",
+        "color13": "#b8e1ea",
+        "color14": "#a5f3ff",
+        "color15": "#fdffff"
+    }
+}

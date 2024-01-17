@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Temple/wallhaven-nmyjmn.jpg",
+    "alpha": "80",
+
+    "special": {
+        "background": "#221610",
+        "foreground": "#fffdfc",
+        "cursor": "#fffdfc"
+    },
+    "colors": {
+        "color0": "#221610",
+        "color1": "#ac7351",
+        "color2": "#2faa55",
+        "color3": "#097ac4",
+        "color4": "#1054ac",
+        "color5": "#528ca6",
+        "color6": "#15abaf",
+        "color7": "#c7c4c3",
+        "color8": "#442b1f",
+        "color9": "#f09158",
+        "color10": "#2eeb69",
+        "color11": "#01a0ff",
+        "color12": "#086beb",
+        "color13": "#5abce7",
+        "color14": "#0eeaf0",
+        "color15": "#fffdfc"
+    }
+}

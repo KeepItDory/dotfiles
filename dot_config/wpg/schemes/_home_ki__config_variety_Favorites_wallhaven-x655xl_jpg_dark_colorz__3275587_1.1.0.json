@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Favorites/wallhaven-x655xl.jpg",
+    "alpha": "80",
+
+    "special": {
+        "background": "#07161f",
+        "foreground": "#fbffff",
+        "cursor": "#fbffff"
+    },
+    "colors": {
+        "color0": "#07161f",
+        "color1": "#7c0bac",
+        "color2": "#b857bd",
+        "color3": "#b6a3b9",
+        "color4": "#241aaa",
+        "color5": "#ad0cc4",
+        "color6": "#27739d",
+        "color7": "#c1c4c7",
+        "color8": "#0f3348",
+        "color9": "#a602eb",
+        "color10": "#ff5fff",
+        "color11": "#fcbdff",
+        "color12": "#2314e9",
+        "color13": "#eb01ff",
+        "color14": "#2599d8",
+        "color15": "#fbffff"
+    }
+}

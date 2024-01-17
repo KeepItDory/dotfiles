@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_warhammer_40k/wallhaven-453zp8.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#050411",
+        "foreground": "#f7fffb",
+        "cursor": "#f7fffb"
+    },
+    "colors": {
+        "color0": "#050411",
+        "color1": "#96906E",
+        "color2": "#729793",
+        "color3": "#DAB969",
+        "color4": "#497A85",
+        "color5": "#9BAB99",
+        "color6": "#4FBDC5",
+        "color7": "#cdd9d0",
+        "color8": "#0f0b3b",
+        "color9": "#d3c67e",
+        "color10": "#83d5cc",
+        "color11": "#fff973",
+        "color12": "#51a7ba",
+        "color13": "#b9f3b1",
+        "color14": "#54ffff",
+        "color15": "#f7fffb"
+    }
+}

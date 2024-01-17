@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Forest/wallhaven-p9m2qm.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0d0d08",
+        "foreground": "#ffffed",
+        "cursor": "#ffffed"
+    },
+    "colors": {
+        "color0": "#0d0d08",
+        "color1": "#8A7A78",
+        "color2": "#F1AD72",
+        "color3": "#EAB572",
+        "color4": "#727984",
+        "color5": "#ACA29B",
+        "color6": "#8F8C8D",
+        "color7": "#dfd1c3",
+        "color8": "#2c2c1a",
+        "color9": "#c4918b",
+        "color10": "#ffdf7d",
+        "color11": "#ffed7d",
+        "color12": "#8499bb",
+        "color13": "#f4ceb4",
+        "color14": "#cca3b1",
+        "color15": "#ffffed"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Circuitry/wallhaven-4lzq6q.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#130303",
+        "foreground": "#ffede9",
+        "cursor": "#ffede9"
+    },
+    "colors": {
+        "color0": "#130303",
+        "color1": "#AA473A",
+        "color2": "#A75F5B",
+        "color3": "#CD8D6F",
+        "color4": "#72588E",
+        "color5": "#C97588",
+        "color6": "#D66462",
+        "color7": "#e6c6c3",
+        "color8": "#400808",
+        "color9": "#eb503c",
+        "color10": "#e96c65",
+        "color11": "#ffaf7b",
+        "color12": "#9363c7",
+        "color13": "#ff83a5",
+        "color14": "#ff6e6b",
+        "color15": "#ffede9"
+    }
+}

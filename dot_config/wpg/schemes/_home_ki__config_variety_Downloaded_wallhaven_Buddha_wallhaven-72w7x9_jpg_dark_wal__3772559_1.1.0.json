@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Buddha/wallhaven-72w7x9.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#331f1f",
+        "foreground": "#f3ffff",
+        "cursor": "#f3ffff"
+    },
+    "colors": {
+        "color0": "#331f1f",
+        "color1": "#E2D3D5",
+        "color2": "#759890",
+        "color3": "#D1A5B4",
+        "color4": "#B4ECF2",
+        "color5": "#DB6799",
+        "color6": "#A4D4D7",
+        "color7": "#def2f3",
+        "color8": "#523131",
+        "color9": "#ffdce5",
+        "color10": "#86d7c4",
+        "color11": "#ffbee2",
+        "color12": "#c0ffff",
+        "color13": "#ff70c4",
+        "color14": "#bcffff",
+        "color15": "#f3ffff"
+    }
+}

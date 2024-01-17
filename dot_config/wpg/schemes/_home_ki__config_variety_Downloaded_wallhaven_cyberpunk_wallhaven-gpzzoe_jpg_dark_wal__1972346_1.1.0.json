@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_cyberpunk/wallhaven-gpzzoe.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#080115",
+        "foreground": "#f8fff8",
+        "cursor": "#f8fff8"
+    },
+    "colors": {
+        "color0": "#080115",
+        "color1": "#9BA7FB",
+        "color2": "#7EA6FE",
+        "color3": "#AEBDB2",
+        "color4": "#6687D7",
+        "color5": "#EB6A8A",
+        "color6": "#66B6C4",
+        "color7": "#e9f5e9",
+        "color8": "#190147",
+        "color9": "#a9beff",
+        "color10": "#8bceff",
+        "color11": "#caffdc",
+        "color12": "#6fa6ff",
+        "color13": "#ff73a8",
+        "color14": "#71faff",
+        "color15": "#f8fff8"
+    }
+}

@@ -538,10 +538,6 @@ alias grh="git reset --hard"
 #pamac
 alias pamac-unlock="sudo rm /var/tmp/pamac/dbs/db.lock"
 
-#others
-alias bb="bb -driver slang -loop"
-alias polybar="~/.config/polybar/launch.sh"
-
 #moving your personal files and folders from /personal to ~
 function personal
     cp -rf /personal/ ~
@@ -552,6 +548,14 @@ end
 # using plugin
 # omf install https://github.com/jhillyerd/plugin-git
 alias undopush "git push -f origin HEAD^:master"
+
+#others
+alias bb="bb -driver slang -loop"
+alias polybar="~/.config/polybar/launch.sh"
+alias blockbar="~/.config/polybar/launch.sh --blocks"
+
+cat ~/.config/wpg/sequences
+clear
 
 # reporting tools - install when not installed
 neofetch
@@ -602,8 +606,10 @@ set fish_pager_color_prefix white --bold --underline
 set fish_pager_color_progress brwhite --background=cyan
 set fish_color_search_match --background="#60AEFF"
 
-cat ~/.config/wpg/sequences &
+
 # tmux
 # why wont tmux work :(
-clear &
-neofetch
+# clear &
+# neofetch &
+
+byobu

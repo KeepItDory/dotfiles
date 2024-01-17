@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Forest/wallhaven-rdxwkw.jpg",
+    "alpha": "80",
+
+    "special": {
+        "background": "#221b15",
+        "foreground": "#fffffd",
+        "cursor": "#fffffd"
+    },
+    "colors": {
+        "color0": "#221b15",
+        "color1": "#ab7941",
+        "color2": "#ab886b",
+        "color3": "#a5a059",
+        "color4": "#a3a69e",
+        "color5": "#bdc0bf",
+        "color6": "#7ba7a3",
+        "color7": "#c7c6c4",
+        "color8": "#413327",
+        "color9": "#ed9e45",
+        "color10": "#f0af79",
+        "color11": "#e7de63",
+        "color12": "#d9ecb8",
+        "color13": "#ddffff",
+        "color14": "#8debe3",
+        "color15": "#fffffd"
+    }
+}

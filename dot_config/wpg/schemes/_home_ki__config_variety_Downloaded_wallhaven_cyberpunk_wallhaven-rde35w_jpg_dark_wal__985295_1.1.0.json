@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_cyberpunk/wallhaven-rde35w.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0D0A07",
+        "foreground": "#fbffff",
+        "cursor": "#fbffff"
+    },
+    "colors": {
+        "color0": "#0D0A07",
+        "color1": "#B7412A",
+        "color2": "#906F59",
+        "color3": "#D7A055",
+        "color4": "#677788",
+        "color5": "#9B7B81",
+        "color6": "#758C9E",
+        "color7": "#c3c7c9",
+        "color8": "#2e2317",
+        "color9": "#fc4a27",
+        "color10": "#ca8d64",
+        "color11": "#ffd35a",
+        "color12": "#769ac0",
+        "color13": "#db8d9c",
+        "color14": "#86b8df",
+        "color15": "#fbffff"
+    }
+}

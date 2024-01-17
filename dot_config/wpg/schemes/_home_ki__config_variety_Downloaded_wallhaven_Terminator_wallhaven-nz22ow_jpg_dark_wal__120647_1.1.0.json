@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Terminator/wallhaven-nz22ow.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0a212d",
+        "foreground": "#ffffeb",
+        "cursor": "#ffffeb"
+    },
+    "colors": {
+        "color0": "#0a212d",
+        "color1": "#6E949C",
+        "color2": "#608892",
+        "color3": "#C8BF9A",
+        "color4": "#527885",
+        "color5": "#9AAB9B",
+        "color6": "#7199A2",
+        "color7": "#eae2c8",
+        "color8": "#123f56",
+        "color9": "#7dcbdc",
+        "color10": "#6dbacd",
+        "color11": "#ffffb1",
+        "color12": "#5ca2ba",
+        "color13": "#b3f3b6",
+        "color14": "#81d2e4",
+        "color15": "#ffffeb"
+    }
+}

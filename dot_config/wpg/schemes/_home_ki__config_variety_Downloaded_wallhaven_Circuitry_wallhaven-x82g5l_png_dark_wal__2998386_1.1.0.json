@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Circuitry/wallhaven-x82g5l.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#070606",
+        "foreground": "#ffeedf",
+        "cursor": "#ffeedf"
+    },
+    "colors": {
+        "color0": "#070606",
+        "color1": "#D74617",
+        "color2": "#7D422E",
+        "color3": "#D96D53",
+        "color4": "#AA5033",
+        "color5": "#DA4C2F",
+        "color6": "#963311",
+        "color7": "#e5beb2",
+        "color8": "#221c1c",
+        "color9": "#ff530e",
+        "color10": "#ad5030",
+        "color11": "#ff8158",
+        "color12": "#eb6033",
+        "color13": "#ff572b",
+        "color14": "#cd3c0b",
+        "color15": "#ffeedf"
+    }
+}

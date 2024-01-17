@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_linux/wallhaven-4lpwdl.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#454544",
+        "foreground": "#f7fbff",
+        "cursor": "#f7fbff"
+    },
+    "colors": {
+        "color0": "#454544",
+        "color1": "#DBE2F7",
+        "color2": "#DFE0DF",
+        "color3": "#CECFD0",
+        "color4": "#CFD8F8",
+        "color5": "#BFC1C5",
+        "color6": "#BBBDC2",
+        "color7": "#e5e8f2",
+        "color8": "#5e5e5c",
+        "color9": "#d6eaff",
+        "color10": "#e5ffe5",
+        "color11": "#e4feff",
+        "color12": "#cee3ff",
+        "color13": "#dff2ff",
+        "color14": "#daebff",
+        "color15": "#f7fbff"
+    }
+}

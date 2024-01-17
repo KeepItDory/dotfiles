@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Pokemon/wallhaven-n6okzx.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0b351c",
+        "foreground": "#fffffb",
+        "cursor": "#fffffb"
+    },
+    "colors": {
+        "color0": "#0b351c",
+        "color1": "#6FC8E8",
+        "color2": "#6DCB91",
+        "color3": "#F5E1AB",
+        "color4": "#409FBD",
+        "color5": "#ACBFAD",
+        "color6": "#58B3DF",
+        "color7": "#e8e6e2",
+        "color8": "#135e31",
+        "color9": "#79ffff",
+        "color10": "#79ffb7",
+        "color11": "#ffffb8",
+        "color12": "#42d7ff",
+        "color13": "#c8ffcb",
+        "color14": "#5eefff",
+        "color15": "#fffffb"
+    }
+}

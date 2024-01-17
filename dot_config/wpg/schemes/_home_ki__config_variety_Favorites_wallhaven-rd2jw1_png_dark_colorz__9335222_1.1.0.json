@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Favorites/wallhaven-rd2jw1.png",
+    "alpha": "80",
+
+    "special": {
+        "background": "#261514",
+        "foreground": "#fffcfc",
+        "cursor": "#fffcfc"
+    },
+    "colors": {
+        "color0": "#261514",
+        "color1": "#b92944",
+        "color2": "#c64e47",
+        "color3": "#bf6a67",
+        "color4": "#206eaa",
+        "color5": "#af989f",
+        "color6": "#457daa",
+        "color7": "#c8c4c4",
+        "color8": "#472624",
+        "color9": "#ff264f",
+        "color10": "#ff554a",
+        "color11": "#ff7872",
+        "color12": "#1c90ea",
+        "color13": "#f8b0c6",
+        "color14": "#4aa4ec",
+        "color15": "#fffcfc"
+    }
+}

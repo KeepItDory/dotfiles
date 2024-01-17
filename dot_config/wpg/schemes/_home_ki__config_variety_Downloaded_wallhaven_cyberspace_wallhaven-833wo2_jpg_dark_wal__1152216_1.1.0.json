@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_cyberspace/wallhaven-833wo2.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0b0409",
+        "foreground": "#ffe2d1",
+        "cursor": "#ffe2d1"
+    },
+    "colors": {
+        "color0": "#0b0409",
+        "color1": "#8C5D37",
+        "color2": "#684516",
+        "color3": "#71452B",
+        "color4": "#714544",
+        "color5": "#653B29",
+        "color6": "#512E25",
+        "color7": "#c3a99c",
+        "color8": "#310f27",
+        "color9": "#c2773a",
+        "color10": "#8f5a14",
+        "color11": "#9d572d",
+        "color12": "#9e4e4c",
+        "color13": "#8c482c",
+        "color14": "#703728",
+        "color15": "#ffe2d1"
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_linux/wallhaven-d5ormj.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#003B74",
+        "foreground": "#f0eadf",
+        "cursor": "#f0eadf"
+    },
+    "colors": {
+        "color0": "#003B74",
+        "color1": "#6D8999",
+        "color2": "#A6AFAC",
+        "color3": "#F0C792",
+        "color4": "#F3CA92",
+        "color5": "#F3CA92",
+        "color6": "#F1D7AF",
+        "color7": "#f0eadf",
+        "color8": "#a8a39c",
+        "color9": "#6D8999",
+        "color10": "#A6AFAC",
+        "color11": "#F0C792",
+        "color12": "#F3CA92",
+        "color13": "#F3CA92",
+        "color14": "#F1D7AF",
+        "color15": "#f0eadf"
+    }
+}

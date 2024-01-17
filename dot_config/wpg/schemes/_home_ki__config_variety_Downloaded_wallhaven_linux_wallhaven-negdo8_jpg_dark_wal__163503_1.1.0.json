@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_linux/wallhaven-negdo8.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#490523",
+        "foreground": "#ffb1c4",
+        "cursor": "#ffb1c4"
+    },
+    "colors": {
+        "color0": "#490523",
+        "color1": "#9D161E",
+        "color2": "#6A1661",
+        "color3": "#691560",
+        "color4": "#6B1462",
+        "color5": "#6B1762",
+        "color6": "#6A1461",
+        "color7": "#bd818f",
+        "color8": "#780739",
+        "color9": "#d7101c",
+        "color10": "#921484",
+        "color11": "#901383",
+        "color12": "#931186",
+        "color13": "#931586",
+        "color14": "#921184",
+        "color15": "#ffb1c4"
+    }
+}

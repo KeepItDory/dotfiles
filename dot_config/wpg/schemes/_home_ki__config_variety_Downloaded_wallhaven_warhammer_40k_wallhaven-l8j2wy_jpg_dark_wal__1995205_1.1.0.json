@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_warhammer_40k/wallhaven-l8j2wy.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0c0a07",
+        "foreground": "#f2f2f4",
+        "cursor": "#f2f2f4"
+    },
+    "colors": {
+        "color0": "#0c0a07",
+        "color1": "#985F1C",
+        "color2": "#645C53",
+        "color3": "#BF9A42",
+        "color4": "#403F42",
+        "color5": "#966842",
+        "color6": "#664A26",
+        "color7": "#b7b7b8",
+        "color8": "#2c2418",
+        "color9": "#d17c18",
+        "color10": "#8d7860",
+        "color11": "#ffcf45",
+        "color12": "#50495e",
+        "color13": "#d18547",
+        "color14": "#8d6128",
+        "color15": "#f2f2f4"
+    }
+}

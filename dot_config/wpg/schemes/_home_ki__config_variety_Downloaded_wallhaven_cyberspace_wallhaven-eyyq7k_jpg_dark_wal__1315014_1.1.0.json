@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_cyberspace/wallhaven-eyyq7k.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0B0E12",
+        "foreground": "#dcfff9",
+        "cursor": "#dcfff9"
+    },
+    "colors": {
+        "color0": "#0B0E12",
+        "color1": "#2C8F8A",
+        "color2": "#33AE94",
+        "color3": "#49CB9A",
+        "color4": "#2A6B76",
+        "color5": "#2A7C81",
+        "color6": "#3EC19A",
+        "color7": "#ade3c4",
+        "color8": "#1d2631",
+        "color9": "#2cc6be",
+        "color10": "#33f0c8",
+        "color11": "#4cffcc",
+        "color12": "#2c92a3",
+        "color13": "#2babb2",
+        "color14": "#3fffce",
+        "color15": "#dcfff9"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Circuitry/wallhaven-w8q5lp.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#070A0D",
+        "foreground": "#fbffff",
+        "cursor": "#fbffff"
+    },
+    "colors": {
+        "color0": "#070A0D",
+        "color1": "#D1DAE3",
+        "color2": "#C7D2DC",
+        "color3": "#B8C7D4",
+        "color4": "#7490A9",
+        "color5": "#A3B6C7",
+        "color6": "#8CA3B8",
+        "color7": "#e4e8eb",
+        "color8": "#17222e",
+        "color9": "#dbfeff",
+        "color10": "#d8ffff",
+        "color11": "#d3ffff",
+        "color12": "#84bcee",
+        "color13": "#bcedff",
+        "color14": "#a0d4ff",
+        "color15": "#fbffff"
+    }
+}

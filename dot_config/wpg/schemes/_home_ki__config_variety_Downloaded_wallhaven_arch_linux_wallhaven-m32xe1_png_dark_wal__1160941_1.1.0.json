@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_arch_linux/wallhaven-m32xe1.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#7a1216",
+        "foreground": "#c4ffff",
+        "cursor": "#c4ffff"
+    },
+    "colors": {
+        "color0": "#7a1216",
+        "color1": "#C0A13A",
+        "color2": "#A0B04D",
+        "color3": "#E39E28",
+        "color4": "#6F2D8C",
+        "color5": "#5A5685",
+        "color6": "#229986",
+        "color7": "#94c2dc",
+        "color8": "#a5181d",
+        "color9": "#ffda3b",
+        "color10": "#dbf553",
+        "color11": "#ffd122",
+        "color12": "#952ec2",
+        "color13": "#6961bb",
+        "color14": "#1fd3b6",
+        "color15": "#c4ffff"
+    }
+}

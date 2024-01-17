@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_arch_linux/wallhaven-7pry79.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#212e1f",
+        "foreground": "#fffff9",
+        "cursor": "#fffff9"
+    },
+    "colors": {
+        "color0": "#212e1f",
+        "color1": "#B1B234",
+        "color2": "#6CA655",
+        "color3": "#DAE12F",
+        "color4": "#D8DF2E",
+        "color5": "#859B46",
+        "color6": "#85A545",
+        "color7": "#cfd0c8",
+        "color8": "#364c33",
+        "color9": "#f4f634",
+        "color10": "#85e85e",
+        "color11": "#ffff2b",
+        "color12": "#ffff2a",
+        "color13": "#b3d84c",
+        "color14": "#b1e54a",
+        "color15": "#fffff9"
+    }
+}

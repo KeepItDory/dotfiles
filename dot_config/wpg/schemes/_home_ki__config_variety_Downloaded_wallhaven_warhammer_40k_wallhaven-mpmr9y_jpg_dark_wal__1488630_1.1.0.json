@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_warhammer_40k/wallhaven-mpmr9y.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#020307",
+        "foreground": "#e4f6ff",
+        "cursor": "#e4f6ff"
+    },
+    "colors": {
+        "color0": "#020307",
+        "color1": "#A5666A",
+        "color2": "#595768",
+        "color3": "#2D4A74",
+        "color4": "#053D85",
+        "color5": "#30578A",
+        "color6": "#526F9C",
+        "color7": "#aebcd1",
+        "color8": "#091131",
+        "color9": "#e7737a",
+        "color10": "#6a6493",
+        "color11": "#305ea1",
+        "color12": "#014eb2",
+        "color13": "#326fbf",
+        "color14": "#5b8cda",
+        "color15": "#e4f6ff"
+    }
+}

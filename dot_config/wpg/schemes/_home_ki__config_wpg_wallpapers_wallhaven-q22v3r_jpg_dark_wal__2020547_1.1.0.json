@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/wpg/wallpapers/wallhaven-q22v3r.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#081112",
+        "foreground": "#dff4ff",
+        "cursor": "#dff4ff"
+    },
+    "colors": {
+        "color0": "#081112",
+        "color1": "#45454E",
+        "color2": "#2B8678",
+        "color3": "#4B8679",
+        "color4": "#29706C",
+        "color5": "#21655E",
+        "color6": "#339E97",
+        "color7": "#a8b7c0",
+        "color8": "#163235",
+        "color9": "#50506e",
+        "color10": "#2cb9a4",
+        "color11": "#53bba4",
+        "color12": "#2b9b95",
+        "color13": "#228c81",
+        "color14": "#34dbd0",
+        "color15": "#dff4ff"
+    }
+}

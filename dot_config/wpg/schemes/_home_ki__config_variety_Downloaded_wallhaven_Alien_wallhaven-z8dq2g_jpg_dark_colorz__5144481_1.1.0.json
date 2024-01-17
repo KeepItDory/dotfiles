@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Alien/wallhaven-z8dq2g.jpg",
+    "alpha": "80",
+
+    "special": {
+        "background": "#211412",
+        "foreground": "#fffdfc",
+        "cursor": "#fffdfc"
+    },
+    "colors": {
+        "color0": "#211412",
+        "color1": "#aa655e",
+        "color2": "#9375aa",
+        "color3": "#aa7983",
+        "color4": "#6a62aa",
+        "color5": "#a980a3",
+        "color6": "#7e6eaa",
+        "color7": "#c7c4c3",
+        "color8": "#412723",
+        "color9": "#ee7569",
+        "color10": "#c185ef",
+        "color11": "#ef8a9f",
+        "color12": "#7c6dee",
+        "color13": "#ee93e1",
+        "color14": "#9b7cef",
+        "color15": "#fffdfc"
+    }
+}

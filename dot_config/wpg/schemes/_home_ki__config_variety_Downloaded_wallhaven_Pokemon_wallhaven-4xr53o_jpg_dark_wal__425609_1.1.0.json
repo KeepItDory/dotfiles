@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Pokemon/wallhaven-4xr53o.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0c090a",
+        "foreground": "#e4edff",
+        "cursor": "#e4edff"
+    },
+    "colors": {
+        "color0": "#0c090a",
+        "color1": "#9C5130",
+        "color2": "#5A4F51",
+        "color3": "#D19860",
+        "color4": "#333E4B",
+        "color5": "#A2523B",
+        "color6": "#533A44",
+        "color7": "#aeb5cf",
+        "color8": "#281e21",
+        "color9": "#d86431",
+        "color10": "#7f5b62",
+        "color11": "#ffc568",
+        "color12": "#3a4f69",
+        "color13": "#e1623e",
+        "color14": "#754256",
+        "color15": "#e4edff"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_warhammer_40k/wallhaven-6ome1w.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0c0c0f",
+        "foreground": "#f8ffff",
+        "cursor": "#f8ffff"
+    },
+    "colors": {
+        "color0": "#0c0c0f",
+        "color1": "#8B7359",
+        "color2": "#C5C4B7",
+        "color3": "#9B8B6D",
+        "color4": "#6A7C82",
+        "color5": "#9CA4A7",
+        "color6": "#76899E",
+        "color7": "#e3ecef",
+        "color8": "#22222b",
+        "color9": "#c39664",
+        "color10": "#ffffd5",
+        "color11": "#dab97c",
+        "color12": "#7aa8b8",
+        "color13": "#b5deee",
+        "color14": "#87b1df",
+        "color15": "#f8ffff"
+    }
+}

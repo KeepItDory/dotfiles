@@ -1,0 +1,229 @@
+git clone --depth 1 https://github.com/doomemacs/doomemacs ~/.config/emacs
+~/.config/emacs/bin/doom install
+yay -S alacritty alacritty-themes alsa-plugins archlinux-tweak-tool-git awesome-terminal-fonts bashtop blueman brasero breeze-icons broot chrip-next ckb-next cmatrix-git cointop conky conky-manager2-git corectrl cryptocoins-git cuff-git darktable digikam discord-canary discover-overlay-git dmenu docker downgrade etcher-bin electron11-bin fetchcord flaresolverr ffmpeg filelight flake8 firefox flameshot gamemode gamescope geany gpaste gnome-keyring geoip geoip-database geoip-database-extra giflib gimp googler-git gnutls gparted gpick gtk3 gst-plugins-base-libs htop imagemagick inkscape jq jackett kdenlive keepassxc kitty knotes krita lazygit lib32-fluidsynth lib32-giflib lib32-libva-mesa-driver libpng lib32-libpng lib32-ncruses libldap lib32-libldap lib32-gnutls lib32-mpg123 lib32-openal lib32-v4l-utils libpulse lib32-libpulse libgpg-error lib32-libgpg-error lib32-sqlite libxcomposite lib32-libxcomposite libxinerama lib32-libgcrypt libgcrypt lib32-vulkan-icd-loader lib32-libxinerama lib32-opencl-icd-loader lib32-gst-plugins-base-libs lib32-gtk3 libxslt libva lib32-libva lib32-alsa-lib libjpeg-turbo libva-mesa-driver -lib32-libjpeg-turbo light-dm-greeter lm_sensors lutris arandr mesa maim mesa-vdpau mangohud minecraft-launcher mpc mpd mpg123 mpv mypy mullvad-vpn-bin ncmpcpp ncruses neofetch nerdfetch nerd-fonts-noto-sans-mono nodejs no-more-secrets nmap noisetorch notflix-git neovim nvtop ntp obapps obs-studio obsidian obsidian-icon-theme onefetch okular openal opencl-icd-loader openshot openresolv os-prober papis peerflix powerline-fonts powerline-console-fonts prismlauncher proton-ge-custom protondb-tags protontricks protonup-qt protonutils protonmail-bridge protonvpn playerctl polybawr python-pycurl python-pywal python-pip qbittorrent qomui qt5ct qrencode radeontop ranger realvnc-vnc-viewer ripgrep rufus rpi-imager rofi rofi-blocks-git rofimoji sc-controller simple-mtpfs sl smplayer smplayer-themes smplayer-skins speedtest-cli stacer steam steamcmd steam-native-runtime sqlite syncthing terminus-font thunderbird tmatrix-git tmux tint2 timeshift ttf-ancient-fonts ttf-joypixels ttf-fantasque-sans-mono ttf-font-awesome ttf-font-awesome5 ttf-icomoon-feather ttf-jetbrains-mono ttf-material-icons-git ttf-nerd-fonts-symbols-common ttf-weather-icons ttf-iosevka-nerd tuifimanager siji-ttf udisks2 uwufetch variety v4l-utils v4l2loopback-dkms vulkan-icd-loader waterfox-g4-bin webtorrent-cli weechat weechat-matrix-git weechat-emoji-git wine-staging wireguard-dkms wireguard-tools w3m w3m-imgcat wpgtk xclip xcape xdotool xboxdrv xorg-server-devel xorg-fonts-misc xorg-xev xsel xarchiver youtube-dl zathura vencord
+yay -S alacritty alacritty-themes alsa-plugins archlinux-tweak-tool-git awesome-terminal-fonts bashtop blueman brasero breeze-icons broot chrip-next ckb-next cmatrix-git cointop conky conky-manager2-git corectrl cryptocoins-git cuff-git darktable digikam discord-canary discover-overlay-git dmenu docker downgrade etcher-bin electron11-bin fetchcord flaresolverr ffmpeg filelight flake8 firefox flameshot gamemode gamescope geany gpaste gnome-keyring geoip geoip-database geoip-database-extra giflib gimp googler-git gnutls gparted gpick gtk3 gst-plugins-base-libs htop imagemagick inkscape jq jackett kdenlive keepassxc kitty knotes krita lazygit lib32-fluidsynth lib32-giflib lib32-libva-mesa-driver libpng lib32-libpng lib32-ncruses libldap lib32-libldap lib32-gnutls lib32-mpg123 lib32-openal lib32-v4l-utils libpulse lib32-libpulse libgpg-error lib32-libgpg-error lib32-sqlite libxcomposite lib32-libxcomposite libxinerama lib32-libgcrypt libgcrypt lib32-vulkan-icd-loader lib32-libxinerama lib32-opencl-icd-loader lib32-gst-plugins-base-libs lib32-gtk3 libxslt libva lib32-libva lib32-alsa-lib libjpeg-turbo libva-mesa-driver -lib32-libjpeg-turbo light-dm-greeter lm_sensors lutris arandr mesa maim mesa-vdpau mangohud minecraft-launcher mpc mpd mpg123 mpv mypy mullvad-vpn-bin ncmpcpp ncruses neofetch nerdfetch nerd-fonts-noto-sans-mono nodejs no-more-secrets nmap noisetorch notflix-git neovim nvtop ntp obapps obs-studio obsidian obsidian-icon-theme onefetch okular openal opencl-icd-loader openshot openresolv os-prober papis peerflix powerline-fonts powerline-console-fonts prismlauncher proton-ge-custom protondb-tags protontricks protonup-qt protonutils protonmail-bridge protonvpn playerctl polybawr python-pycurl python-pywal python-pip qbittorrent qomui qt5ct qrencode radeontop ranger realvnc-vnc-viewer ripgrep rufus rpi-imager rofi rofi-blocks-git rofimoji sc-controller simple-mtpfs sl smplayer smplayer-themes smplayer-skins speedtest-cli stacer steam steamcmd steam-native-runtime sqlite syncthing terminus-font thunderbird tmatrix-git tmux tint2 timeshift ttf-ancient-fonts ttf-joypixels ttf-fantasque-sans-mono ttf-font-awesome ttf-font-awesome5 ttf-icomoon-feather ttf-jetbrains-mono ttf-material-icons-git ttf-nerd-fonts-symbols-common ttf-weather-icons ttf-iosevka-nerd tuifimanager siji-ttf udisks2 uwufetch variety v4l-utils v4l2loopback-dkms vulkan-icd-loader waterfox-g4-bin webtorrent-cli weechat weechat-matrix-git weechat-emoji-git wine-staging wireguard-dkms wireguard-tools w3m w3m-imgcat wpgtk xclip xcape xdotool xboxdrv xorg-server-devel xorg-fonts-misc xorg-xev xsel xarchiver youtube-dl zathura vencord
+sudo pacman-S alacritty alacritty-themes alsa-plugins archlinux-tweak-tool-git awesome-terminal-fonts bashtop blueman brasero breeze-icons broot chrip-next ckb-next cmatrix-git cointop conky conky-manager2-git corectrl cryptocoins-git cuff-git darktable digikam discord-canary discover-overlay-git dmenu docker downgrade etcher-bin electron11-bin fetchcord flaresolverr ffmpeg filelight flake8 firefox flameshot gamemode gamescope geany gpaste gnome-keyring geoip geoip-database geoip-database-extra giflib gimp googler-git gnutls gparted gpick gtk3 gst-plugins-base-libs htop imagemagick inkscape jq jackett kdenlive keepassxc kitty knotes krita lazygit lib32-fluidsynth lib32-giflib lib32-libva-mesa-driver libpng lib32-libpng lib32-ncruses libldap lib32-libldap lib32-gnutls lib32-mpg123 lib32-openal lib32-v4l-utils libpulse lib32-libpulse libgpg-error lib32-libgpg-error lib32-sqlite libxcomposite lib32-libxcomposite libxinerama lib32-libgcrypt libgcrypt lib32-vulkan-icd-loader lib32-libxinerama lib32-opencl-icd-loader lib32-gst-plugins-base-libs lib32-gtk3 libxslt libva lib32-libva lib32-alsa-lib libjpeg-turbo libva-mesa-driver -lib32-libjpeg-turbo light-dm-greeter lm_sensors lutris arandr mesa maim mesa-vdpau mangohud minecraft-launcher mpc mpd mpg123 mpv mypy mullvad-vpn-bin ncmpcpp ncruses neofetch nerdfetch nerd-fonts-noto-sans-mono nodejs no-more-secrets nmap noisetorch notflix-git neovim nvtop ntp obapps obs-studio obsidian obsidian-icon-theme onefetch okular openal opencl-icd-loader openshot openresolv os-prober papis peerflix powerline-fonts powerline-console-fonts prismlauncher proton-ge-custom protondb-tags protontricks protonup-qt protonutils protonmail-bridge protonvpn playerctl polybawr python-pycurl python-pywal python-pip qbittorrent qomui qt5ct qrencode radeontop ranger realvnc-vnc-viewer ripgrep rufus rpi-imager rofi rofi-blocks-git rofimoji sc-controller simple-mtpfs sl smplayer smplayer-themes smplayer-skins speedtest-cli stacer steam steamcmd steam-native-runtime sqlite syncthing terminus-font thunderbird tmatrix-git tmux tint2 timeshift ttf-ancient-fonts ttf-joypixels ttf-fantasque-sans-mono ttf-font-awesome ttf-font-awesome5 ttf-icomoon-feather ttf-jetbrains-mono ttf-material-icons-git ttf-nerd-fonts-symbols-common ttf-weather-icons ttf-iosevka-nerd tuifimanager siji-ttf udisks2 uwufetch variety v4l-utils v4l2loopback-dkms vulkan-icd-loader waterfox-g4-bin webtorrent-cli weechat weechat-matrix-git weechat-emoji-git wine-staging wireguard-dkms wireguard-tools w3m w3m-imgcat wpgtk xclip xcape xdotool xboxdrv xorg-server-devel xorg-fonts-misc xorg-xev xsel xarchiver youtube-dl zathura vencord
+sudo pacman -S alacritty alacritty-themes alsa-plugins archlinux-tweak-tool-git awesome-terminal-fonts bashtop blueman brasero breeze-icons broot chrip-next ckb-next cmatrix-git cointop conky conky-manager2-git corectrl cryptocoins-git cuff-git darktable digikam discord-canary discover-overlay-git dmenu docker downgrade etcher-bin electron11-bin fetchcord flaresolverr ffmpeg filelight flake8 firefox flameshot gamemode gamescope geany gpaste gnome-keyring geoip geoip-database geoip-database-extra giflib gimp googler-git gnutls gparted gpick gtk3 gst-plugins-base-libs htop imagemagick inkscape jq jackett kdenlive keepassxc kitty knotes krita lazygit lib32-fluidsynth lib32-giflib lib32-libva-mesa-driver libpng lib32-libpng lib32-ncruses libldap lib32-libldap lib32-gnutls lib32-mpg123 lib32-openal lib32-v4l-utils libpulse lib32-libpulse libgpg-error lib32-libgpg-error lib32-sqlite libxcomposite lib32-libxcomposite libxinerama lib32-libgcrypt libgcrypt lib32-vulkan-icd-loader lib32-libxinerama lib32-opencl-icd-loader lib32-gst-plugins-base-libs lib32-gtk3 libxslt libva lib32-libva lib32-alsa-lib libjpeg-turbo libva-mesa-driver -lib32-libjpeg-turbo light-dm-greeter lm_sensors lutris arandr mesa maim mesa-vdpau mangohud minecraft-launcher mpc mpd mpg123 mpv mypy mullvad-vpn-bin ncmpcpp ncruses neofetch nerdfetch nerd-fonts-noto-sans-mono nodejs no-more-secrets nmap noisetorch notflix-git neovim nvtop ntp obapps obs-studio obsidian obsidian-icon-theme onefetch okular openal opencl-icd-loader openshot openresolv os-prober papis peerflix powerline-fonts powerline-console-fonts prismlauncher proton-ge-custom protondb-tags protontricks protonup-qt protonutils protonmail-bridge protonvpn playerctl polybawr python-pycurl python-pywal python-pip qbittorrent qomui qt5ct qrencode radeontop ranger realvnc-vnc-viewer ripgrep rufus rpi-imager rofi rofi-blocks-git rofimoji sc-controller simple-mtpfs sl smplayer smplayer-themes smplayer-skins speedtest-cli stacer steam steamcmd steam-native-runtime sqlite syncthing terminus-font thunderbird tmatrix-git tmux tint2 timeshift ttf-ancient-fonts ttf-joypixels ttf-fantasque-sans-mono ttf-font-awesome ttf-font-awesome5 ttf-icomoon-feather ttf-jetbrains-mono ttf-material-icons-git ttf-nerd-fonts-symbols-common ttf-weather-icons ttf-iosevka-nerd tuifimanager siji-ttf udisks2 uwufetch variety v4l-utils v4l2loopback-dkms vulkan-icd-loader waterfox-g4-bin webtorrent-cli weechat weechat-matrix-git weechat-emoji-git wine-staging wireguard-dkms wireguard-tools w3m w3m-imgcat wpgtk xclip xcape xdotool xboxdrv xorg-server-devel xorg-fonts-misc xorg-xev xsel xarchiver youtube-dl zathura vencord
+-S alacritty alacritty-themes alsa-plugins archlinux-tweak-tool-git awesome-terminal-fonts bashtop blueman brasero breeze-icons broot chrip-next ckb-next cmatrix-git cointop conky conky-manager2-git corectrl cryptocoins-git cuff-git darktable digikam discord-canary discover-overlay-git dmenu docker downgrade etcher-bin electron11-bin fetchcord flaresolverr ffmpeg filelight flake8 firefox flameshot gamemode gamescope geany gpaste gnome-keyring geoip geoip-database geoip-database-extra giflib gimp googler-git gnutls gparted gpick gtk3 gst-plugins-base-libs htop imagemagick inkscape jq jackett kdenlive keepassxc kitty knotes krita lazygit lib32-fluidsynth lib32-giflib lib32-libva-mesa-driver libpng lib32-libpng lib32-ncruses libldap lib32-libldap lib32-gnutls lib32-mpg123 lib32-openal lib32-v4l-utils libpulse lib32-libpulse libgpg-error lib32-libgpg-error lib32-sqlite libxcomposite lib32-libxcomposite libxinerama lib32-libgcrypt libgcrypt lib32-vulkan-icd-loader lib32-libxinerama lib32-opencl-icd-loader lib32-gst-plugins-base-libs lib32-gtk3 libxslt libva lib32-libva lib32-alsa-lib libjpeg-turbo libva-mesa-driver lib32-libjpeg-turbo light-dm-greeter lm_sensors lutris arandr mesa maim mesa-vdpau mangohud minecraft-launcher mpc mpd mpg123 mpv mypy mullvad-vpn-bin ncmpcpp ncruses neofetch nerdfetch nerd-fonts-noto-sans-mono nodejs no-more-secrets nmap noisetorch notflix-git neovim nvtop ntp obapps obs-studio obsidian obsidian-icon-theme onefetch okular openal opencl-icd-loader openshot openresolv os-prober papis peerflix powerline-fonts powerline-console-fonts prismlauncher proton-ge-custom protondb-tags protontricks protonup-qt protonutils protonmail-bridge protonvpn playerctl polybawr python-pycurl python-pywal python-pip qbittorrent qomui qt5ct qrencode radeontop ranger realvnc-vnc-viewer ripgrep rufus rpi-imager rofi rofi-blocks-git rofimoji sc-controller simple-mtpfs sl smplayer smplayer-themes smplayer-skins speedtest-cli stacer steam steamcmd steam-native-runtime sqlite syncthing terminus-font thunderbird tmatrix-git tmux tint2 timeshift ttf-ancient-fonts ttf-joypixels ttf-fantasque-sans-mono ttf-font-awesome ttf-font-awesome5 ttf-icomoon-feather ttf-jetbrains-mono ttf-material-icons-git ttf-nerd-fonts-symbols-common ttf-weather-icons ttf-iosevka-nerd tuifimanager siji-ttf udisks2 uwufetch variety v4l-utils v4l2loopback-dkms vulkan-icd-loader waterfox-g4-bin webtorrent-cli weechat weechat-matrix-git weechat-emoji-git wine-staging wireguard-dkms wireguard-tools w3m w3m-imgcat wpgtk xclip xcape xdotool xboxdrv xorg-server-devel xorg-fonts-misc xorg-xev xsel xarchiver youtube-dl zathura vencord
+yay -S alacritty alacritty-themes alsa-plugins archlinux-tweak-tool-git awesome-terminal-fonts bashtop blueman brasero breeze-icons broot chrip-next ckb-next cmatrix-git cointop conky conky-manager2-git corectrl cryptocoins-git cuff-git darktable digikam discord-canary discover-overlay-git dmenu docker downgrade etcher-bin electron11-bin fetchcord flaresolverr ffmpeg filelight flake8 firefox flameshot gamemode gamescope geany gpaste gnome-keyring geoip geoip-database geoip-database-extra giflib gimp googler-git gnutls gparted gpick gtk3 gst-plugins-base-libs htop imagemagick inkscape jq jackett kdenlive keepassxc kitty knotes krita lazygit lib32-fluidsynth lib32-giflib lib32-libva-mesa-driver libpng lib32-libpng lib32-ncruses libldap lib32-libldap lib32-gnutls lib32-mpg123 lib32-openal lib32-v4l-utils libpulse lib32-libpulse libgpg-error lib32-libgpg-error lib32-sqlite libxcomposite lib32-libxcomposite libxinerama lib32-libgcrypt libgcrypt lib32-vulkan-icd-loader lib32-libxinerama lib32-opencl-icd-loader lib32-gst-plugins-base-libs lib32-gtk3 libxslt libva lib32-libva lib32-alsa-lib libjpeg-turbo libva-mesa-driver lib32-libjpeg-turbo light-dm-greeter lm_sensors lutris arandr mesa maim mesa-vdpau mangohud minecraft-launcher mpc mpd mpg123 mpv mypy mullvad-vpn-bin ncmpcpp ncruses neofetch nerdfetch nerd-fonts-noto-sans-mono nodejs no-more-secrets nmap noisetorch notflix-git neovim nvtop ntp obapps obs-studio obsidian obsidian-icon-theme onefetch okular openal opencl-icd-loader openshot openresolv os-prober papis peerflix powerline-fonts powerline-console-fonts prismlauncher proton-ge-custom protondb-tags protontricks protonup-qt protonutils protonmail-bridge protonvpn playerctl polybawr python-pycurl python-pywal python-pip qbittorrent qomui qt5ct qrencode radeontop ranger realvnc-vnc-viewer ripgrep rufus rpi-imager rofi rofi-blocks-git rofimoji sc-controller simple-mtpfs sl smplayer smplayer-themes smplayer-skins speedtest-cli stacer steam steamcmd steam-native-runtime sqlite syncthing terminus-font thunderbird tmatrix-git tmux tint2 timeshift ttf-ancient-fonts ttf-joypixels ttf-fantasque-sans-mono ttf-font-awesome ttf-font-awesome5 ttf-icomoon-feather ttf-jetbrains-mono ttf-material-icons-git ttf-nerd-fonts-symbols-common ttf-weather-icons ttf-iosevka-nerd tuifimanager siji-ttf udisks2 uwufetch variety v4l-utils v4l2loopback-dkms vulkan-icd-loader waterfox-g4-bin webtorrent-cli weechat weechat-matrix-git weechat-emoji-git wine-staging wireguard-dkms wireguard-tools w3m w3m-imgcat wpgtk xclip xcape xdotool xboxdrv xorg-server-devel xorg-fonts-misc xorg-xev xsel xarchiver youtube-dl zathura vencord
+yay -S alacritty alacritty-themes alsa-plugins archlinux-tweak-tool-git awesome-terminal-fonts bashtop blueman brasero breeze-icons broot chirp-next ckb-next cmatrix-git cointop conky conky-manager2-git corectrl cryptocoins-git cuff-git darktable digikam discord-canary discover-overlay-git dmenu docker downgrade etcher-bin electron11-bin fetchcord flaresolverr ffmpeg filelight flake8 firefox flameshot gamemode gamescope geany gpaste gnome-keyring geoip geoip-database geoip-database-extra giflib gimp googler-git gnutls gparted gpick gtk3 gst-plugins-base-libs htop imagemagick inkscape jq jackett kdenlive keepassxc kitty knotes krita lazygit lib32-fluidsynth lib32-giflib lib32-libva-mesa-driver libpng lib32-libpng lib32-ncurses libldap lib32-libldap lib32-gnutls lib32-mpg123 lib32-openal lib32-v4l-utils libpulse lib32-libpulse libgpg-error lib32-libgpg-error lib32-sqlite libxcomposite lib32-libxcomposite libxinerama lib32-libgcrypt libgcrypt lib32-vulkan-icd-loader lib32-libxinerama lib32-opencl-icd-loader lib32-gst-plugins-base-libs lib32-gtk3 libxslt libva lib32-libva lib32-alsa-lib libjpeg-turbo libva-mesa-driver lib32-libjpeg-turbo lightdm-gtk-greeter lm_sensors lutris arandr mesa maim mesa-vdpau mangohud minecraft-launcher mpc mpd mpg123 mpv mypy mullvad-vpn-bin ncmpcpp ncurses neofetch nerdfetch nerd-font-noto-sans-mono nodejs no-more-secrets nmap noisetorch notflix-git neovim nvtop ntp obs-studio obsidian obsidian-icon-theme onefetch okular openal opencl-icd-loader openshot openresolv os-prober papis peerflix powerline-fonts powerline-console-fonts prismlauncher proton-ge-custom protondb-tags protontricks protonup-qt protonutils protonmail-bridge protonvpn playerctl polybar python-pycurl python-pywal python-pip qbittorrent qomui qt5ct qrencode radeontop ranger realvnc-vnc-viewer ripgrep rpi-imager rofi rofi-blocks-git rofimoji sc-controller simple-mtpfs sl smplayer smplayer-themes smplayer-skins speedtest-cli stacer steam steamcmd steam-native-runtime sqlite syncthing terminus-font thunderbird tmatrix-git tmux tint2 timeshift ttf-ancient-fonts ttf-joypixels ttf-fantasque-sans-mono ttf-font-awesome ttf-icomoon-feather ttf-jetbrains-mono ttf-material-icons-git ttf-nerd-fonts-symbols-common ttf-weather-icons ttf-iosevka-nerd tuifimanager siji-ttf udisks2 uwufetch variety v4l-utils v4l2loopback-dkms vulkan-icd-loader webtorrent-cli weechat weechat-matrix-git weechat-emoji-git wine-staging wireguard-dkms wireguard-tools w3m w3m-imgcat wpgtk xclip xcape xdotool xboxdrv xorg-server-devel xorg-fonts-misc xorg-xev xsel xarchiver youtube-dl zathura vencord
+yay -S alacritty alacritty-themes alsa-plugins archlinux-tweak-tool-git awesome-terminal-fonts bashtop blueman brasero breeze-icons broot chirp-next ckb-next cmatrix-git cointop conky conky-manager2-git corectrl cryptocoins-git cuff-git darktable digikam discord-canary discover-overlay-git dmenu docker downgrade etcher-bin electron11-bin fetchcord flaresolverr ffmpeg filelight flake8 firefox flameshot gamemode gamescope geany gpaste gnome-keyring geoip geoip-database geoip-database-extra giflib gimp googler-git gnutls gparted gpick gtk3 gst-plugins-base-libs htop imagemagick inkscape jq jackett kdenlive keepassxc kitty knotes krita lazygit lib32-fluidsynth lib32-giflib lib32-libva-mesa-driver libpng lib32-libpng lib32-ncurses libldap lib32-libldap lib32-gnutls lib32-mpg123 lib32-openal lib32-v4l-utils libpulse lib32-libpulse libgpg-error lib32-libgpg-error lib32-sqlite libxcomposite lib32-libxcomposite libxinerama lib32-libgcrypt libgcrypt lib32-vulkan-icd-loader lib32-libxinerama lib32-opencl-icd-loader lib32-gst-plugins-base-libs lib32-gtk3 libxslt libva lib32-libva lib32-alsa-lib libjpeg-turbo libva-mesa-driver lib32-libjpeg-turbo lightdm-gtk-greeter lm_sensors lutris arandr mesa maim mesa-vdpau mangohud minecraft-launcher mpc mpd mpg123 mpv mypy mullvad-vpn-bin ncmpcpp ncurses neofetch nerdfetch nerd-fonts-noto-sans-mono-extended nodejs no-more-secrets nmap noisetorch notflix-git neovim nvtop ntp obs-studio obsidian obsidian-icon-theme onefetch okular openal opencl-icd-loader openshot openresolv os-prober papis peerflix powerline-fonts powerline-console-fonts prismlauncher proton-ge-custom protondb-tags protontricks protonup-qt protonutils protonmail-bridge protonvpn playerctl polybar python-pycurl python-pywal python-pip qbittorrent qomui qt5ct qrencode radeontop ranger realvnc-vnc-viewer ripgrep rpi-imager rofi rofi-blocks-git rofimoji sc-controller simple-mtpfs sl smplayer smplayer-themes smplayer-skins speedtest-cli stacer steam steamcmd steam-native-runtime sqlite syncthing terminus-font thunderbird tmatrix-git tmux tint2 timeshift ttf-ancient-fonts ttf-joypixels ttf-fantasque-sans-mono ttf-font-awesome ttf-icomoon-feather ttf-jetbrains-mono ttf-material-icons-git ttf-nerd-fonts-symbols-common ttf-weather-icons ttf-iosevka-nerd tuifimanager siji-ttf udisks2 uwufetch variety v4l-utils v4l2loopback-dkms vulkan-icd-loader webtorrent-cli weechat weechat-matrix-git weechat-emoji-git wine-staging wireguard-dkms wireguard-tools w3m w3m-imgcat wpgtk xclip xcape xdotool xboxdrv xorg-server-devel xorg-fonts-misc xorg-xev xsel xarchiver youtube-dl zathura vencord
+yay -S alacritty alacritty-themes alsa-plugins archlinux-tweak-tool-git awesome-terminal-fonts bashtop blueman brasero breeze-icons broot chirp-next ckb-next cmatrix-git cointop conky conky-manager2-git corectrl cryptocoins-git cuff-git darktable digikam discord-canary discover-overlay-git dmenu docker downgrade etcher-bin electron11-bin fetchcord flaresolverr ffmpeg filelight flake8 firefox flameshot gamemode gamescope geany gpaste gnome-keyring geoip geoip-database geoip-database-extra giflib gimp googler-git gnutls gparted gpick gtk3 gst-plugins-base-libs htop imagemagick inkscape jq jackett kdenlive keepassxc kitty knotes krita lazygit lib32-fluidsynth lib32-giflib lib32-libva-mesa-driver libpng lib32-libpng lib32-ncurses libldap lib32-libldap lib32-gnutls lib32-mpg123 lib32-openal lib32-v4l-utils libpulse lib32-libpulse libgpg-error lib32-libgpg-error lib32-sqlite libxcomposite lib32-libxcomposite libxinerama lib32-libgcrypt libgcrypt lib32-vulkan-icd-loader lib32-libxinerama lib32-opencl-icd-loader lib32-gst-plugins-base-libs lib32-gtk3 libxslt libva lib32-libva lib32-alsa-lib libjpeg-turbo libva-mesa-driver lib32-libjpeg-turbo lightdm-gtk-greeter lm_sensors lutris arandr mesa maim mesa-vdpau mangohud minecraft-launcher mpc mpd mpg123 mpv mypy mullvad-vpn-bin ncmpcpp ncurses neofetch nerdfetch nerd-fonts-noto-sans-mono-extended nodejs no-more-secrets nmap noisetorch notflix-git neovim nvtop ntp obs-studio obsidian obsidian-icon-theme onefetch okular openal opencl-icd-loader openshot openresolv os-prober papis peerflix powerline-fonts powerline-console-fonts prismlauncher proton-ge-custom protondb-tags protontricks protonup-qt protonutils protonmail-bridge protonvpn playerctl polybar python-pycurl python-pywal python-pip qbittorrent qomui qt5ct qrencode radeontop ranger realvnc-vnc-viewer ripgrep rpi-imager rofi rofi-blocks-git rofimoji sc-controller simple-mtpfs sl smplayer smplayer-themes smplayer-skins speedtest-cli stacer steam steamcmd steam-native-runtime sqlite syncthing terminus-font thunderbird tmatrix-git tmux tint2 timeshift ttf-ancient-fonts ttf-joypixels ttf-fantasque-sans-mono ttf-font-awesome ttf-icomoon-feather ttf-jetbrains-mono ttf-material-icons-git ttf-nerd-fonts-symbols-common ttf-weather-icons ttf-iosevka-nerd tuifimanager siji-ttf udisks2 uwufetch variety v4l-utils v4l2loopback-dkms vulkan-icd-loader webtorrent-cli weechat weechat-matrix-git weechat-emoji-git wine-staging wireguard-dkms wireguard-tools w3m w3m-imgcat wpgtk xclip xcape xdotool xboxdrv xorg-server-devel xorg-fonts-misc xorg-xev xsel xarchiver youtube-dl zathura vencord
+yay -S emacs
+yay -S steam discordcanary gnome-disk-utility
+yay -Ss nerd fonts mono
+yay -Ss nerd noto fonts mono
+systemctl start bluetooth.service
+systemctl enable bluetooth.service
+yay -S linux-rich-discord-presence discord discord-canary chezmoi nvidia
+yay -Ss chirp-next-daily
+yay -S chirp-next-daily
+yay -S chirp-next
+yay -S notflix-git
+yay -S proton-ge-custom protondb-tags
+yay -S proton-ge-custom protondb-tags
+tmux &&
+tmux attach
+tmux attach &
+yay -Ss discord
+yay -S nvidia
+yay -Ss crytptocoins
+yay -Ss cryptocoins
+yay -S cryptocoins-git
+yay -S papis
+yay -S protontricks protonvpn
+yay -Ss protonvpn
+protonvpn-gui protonvpn-cli proton-qt
+yay -S protonvpn-gui protonvpn-cli
+yay -S protonup-qt
+yay -S qomui sc-controller tufimanager
+yay -S weechat-matrix-git xboxdrv
+yay -S obapps
+yay -Ss obapps
+yay -S obapps3
+mullvad
+mullvadvpn
+mullvad-vpn
+mullvad-vpn
+sudo systemctl start ckb-next-daemon
+sudo systemctl enable ckb-next-daemon
+sudo nano pipewire.conf
+sudo cp pipewire.conf /etc/pipewire/pipewire.conf
+yay -S linux-discord-rich-presence
+yay -Ss better discord
+yay -Ss betterdiscord-installer
+yay -S betterdiscord-installer
+git clone --depth=1 https://github.com/adi1090x/rofi.git
+cd rofi
+chmod +x setup.sh
+./setup.sh
+launcher_t3
+cd
+cd
+\
+yay -Ss implay
+yay -S implay
+yay -S space mono
+yay -Ss space mono
+yay -Ss space mono nerd font
+yay -S ttf-nerd-fonts-symbols-mono ttf-space-mono-nerd
+sudo rm /var/lib/pacman/db.lck
+yay -S ttf-nerd-fonts-symbols-mono ttf-space-mono-nerd
+git clone --depth=1 https://github.com/adi1090x/polybar-themes.git
+cd polybar-themes
+chmod +x setup.sh
+./setup.sh
+git clone https://github.com/addy-dclxvi/openbox-theme-collections ~/.themes
+cd
+git clone https://github.com/addy-dclxvi/openbox-theme-collections ~/.themes
+git clone https://github.com/addy-dclxvi/openbox-theme-collections ~/.themes --force
+git clone https://github.com/addy-dclxvi/openbox-theme-collections ~/.themes/addy/
+git clone https://github.com/Alexdaz/Cosmic-Travel ~/.themes/cosmic-travel/
+git clone https://github.com/the-zero885/Nord-Openbox-theme ~/.themes/nord
+git clone https://github.com/dracula/openbox ~/.themes/dracula
+bash ~/.config/polybar/launch.sh --forest
+vencord
+chmod +x launcher.sh
+launcher.sh
+launcher.sh
+./launcher.sh
+bash launcher.sh
+cd
+xev
+openbox --reconfigure
+openbox --reconfigure
+openbox --reconfigure
+openbox --reconfigure
+openbox --reconfigure
+openbox --reconfigure
+bash ~/.config/rofi/launchers/type-1/launcher.sh
+openbox --reconfigure
+openbox --reconfigure
+openbox --reconfigure
+openbox --reconfigure
+xev
+openbox --reconfigure
+xcape -e 'Super_L=Shift_L|Control_L|Super_L'
+openbox --reconfigure
+openbox --reconfigure
+openbox --reconfigure
+xev
+yay -S nvidia
+yay -S nvidia-dkms nvidia-settings nvidia-utils
+yay -S lxrandr
+yay -R nvidia
+yay -Ss nvidia
+yay -R nvidia-dkms nvidia-utils nvidia-settings
+yay -S paru
+ls --color
+ls
+nano -w
+nvim
+
+yay -S powerline paru procps-ng python-vitualenvwrapper pacman-contrib iproute2 youtube-dl findutils bat
+yay -S powerline paru procps-ng python-virtualenvwrapper pacman-contrib iproute2 youtube-dl findutils bat
+yay -S bash completion
+yay -Ss bash completion
+yay -Ss fzf
+yay -Syu
+yay -Ss gzdoom
+yay -S gzdoom gz-models zmusic brutal-doom brutal-doom-64 supergzdoom
+yay -S gzdoom gz-models zmusic brutal-doom brutal-doom-64 supergzdoom
+yay -S gzdoom gz-models zmusic supergzdoom
+yay -Syu
+Raavioli1984$Raavioli1984$
+sudo
+su
+yay -Syu
+yay -Syu
+yay -Ss amd
+yay -Ss mesa
+yay -S vulkan-mesa-layers
+yay -S mesa
+yay -Ss mesa
+yay -S vulkan-radeon
+yay -S amdgpu pro
+yay -Ss amdgpu pro
+yay -Ss vulkan-amdgpu-pro
+yay -S vulkan-amdgpu-pro
+yay -Ss nvidia
+sudo bashtop
+yay -Ss amdvlk
+yay -S vulkan-radeon lib32 vulkan-radeon
+yay -Ss amdvlk
+yay -R lib32-amdvlk amdvlk
+yay -R lib32-amdvlk amdvlk lib32-vulkan-driver
+yay -R lib32-vulkan-driver
+yay -R lib32-amdvlk amdvlk
+yay -R amdvlk
+yay -R lib32-amdvlk
+yay -Ss lib32-vulkan-driver
+yay -S lib32-vulkan-radeon
+yay -R lib32-amdvlk
+sudo reboot
+yay -Ss amd gpu
+mhwd
+mhwd
+yay -Ss mhwd
+yay -S mhwd-garuda-git mhwd-ati mhwd-amdgpu
+yay -R nvidia-dkms
+yay -Ss nvidia
+yay -R nvidia-utils
+yay -R lib32-vulkan-driver
+Raavioli1984$
+yay -R vulkan-amdgpu-pro
+yay -Ss vulkan-icd-loader
+yay -Syu
+sed -i -e 's/; default-sample-rate = 44100/default-sample-rate = 48000/g' /etc/pulse/daemon.conf.old
+sed -i -e 's/; default-sample-rate = 44100/default-sample-rate = 48000/g' /etc/pulse/daemon.conf
+ranger
+sudo ranger
+yay -Ss chrome
+yay -S chromium
+yay -R chromium
+yay -Ss lite xl
+yay -S lite-xl
+git clone https://github.com/LazyVim/starter ~/.config/nvim
+rm -rf ~/.config/nvim/.git
+nvim
+nvim
+nvim
+nvim
+xev
+fish
+yay -Ss pywal discord
+pywal-discord
+better-discord
+betterdiscord
+source .venv/bin/activate
+python3 -m pip install -r requirements.txt
+python3 -m pip install
+pip install --upgrade pip
+python3 -m pip install -r requirements.txt
+python3 -m pip install
+yay -R wpgtk
+git clone https://github.com/deviantfero/wpgtk
+git clone https://github.com/deviantfero/wpgtk
+cd wpgtk
+sudo pip install .
+cd
+pip3 install pywal
+cd wpgtk
+sudo pip install .
+cd
+fish
+fish
+exit
+chezmoi cd
+exit
+source env/bin/activate
+which python
+pip install --upgrade pip
+pip install .
+gamma-launcher
+deactivate
+fish
+sudo for i in /sys/class/hwmon/hwmon*/temp*_input; do echo "$(<$(dirname $i)/name): $(cat ${i%_*}_label 2>/dev/null || echo $(basename ${i%_*})) $(readlink -f $i)"; done
+lm_sensors
+lm-sensors
+fish

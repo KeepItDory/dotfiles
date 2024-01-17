@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Temple/wallhaven-dgj5dj.jpg",
+    "alpha": "80",
+
+    "special": {
+        "background": "#21160b",
+        "foreground": "#fffefb",
+        "cursor": "#fffefb"
+    },
+    "colors": {
+        "color0": "#21160b",
+        "color1": "#aa713c",
+        "color2": "#aa9f8b",
+        "color3": "#a98e63",
+        "color4": "#c5bcac",
+        "color5": "#a5acb1",
+        "color6": "#8b99b0",
+        "color7": "#c7c4c2",
+        "color8": "#472f16",
+        "color9": "#eb923f",
+        "color10": "#f1d4a0",
+        "color11": "#edbc6f",
+        "color12": "#fffbc7",
+        "color13": "#c0e3fc",
+        "color14": "#a0c1f9",
+        "color15": "#fffefb"
+    }
+}

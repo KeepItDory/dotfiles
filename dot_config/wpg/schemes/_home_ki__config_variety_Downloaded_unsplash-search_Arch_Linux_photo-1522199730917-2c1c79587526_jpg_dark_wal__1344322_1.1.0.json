@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/unsplash-search_Arch_Linux/photo-1522199730917-2c1c79587526.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#19120d",
+        "foreground": "#f9feff",
+        "cursor": "#f9feff"
+    },
+    "colors": {
+        "color0": "#19120d",
+        "color1": "#CED7E3",
+        "color2": "#BAC6D9",
+        "color3": "#C99274",
+        "color4": "#6874A0",
+        "color5": "#D4A68C",
+        "color6": "#AAAEC2",
+        "color7": "#dfe3e8",
+        "color8": "#3a291d",
+        "color9": "#d9f9ff",
+        "color10": "#d1f4ff",
+        "color11": "#ffb782",
+        "color12": "#768de1",
+        "color13": "#ffd19f",
+        "color14": "#c5d2ff",
+        "color15": "#f9feff"
+    }
+}

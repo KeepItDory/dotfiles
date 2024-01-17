@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_warhammer_40k/wallhaven-p28qye.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0B0E0E",
+        "foreground": "#ffdecf",
+        "cursor": "#ffdecf"
+    },
+    "colors": {
+        "color0": "#0B0E0E",
+        "color1": "#5C281A",
+        "color2": "#524D4A",
+        "color3": "#6C5F57",
+        "color4": "#3B3E43",
+        "color5": "#544539",
+        "color6": "#48362E",
+        "color7": "#c1a59a",
+        "color8": "#202a2a",
+        "color9": "#7f2f1a",
+        "color10": "#746156",
+        "color11": "#997864",
+        "color12": "#444e5f",
+        "color13": "#765840",
+        "color14": "#654334",
+        "color15": "#ffdecf"
+    }
+}

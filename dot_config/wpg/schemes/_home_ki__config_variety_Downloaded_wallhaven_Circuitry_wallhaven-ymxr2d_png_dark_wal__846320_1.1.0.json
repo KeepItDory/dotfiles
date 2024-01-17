@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Circuitry/wallhaven-ymxr2d.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#000103",
+        "foreground": "#eaffff",
+        "cursor": "#eaffff"
+    },
+    "colors": {
+        "color0": "#000103",
+        "color1": "#2D578E",
+        "color2": "#4D7198",
+        "color3": "#6590AF",
+        "color4": "#163F86",
+        "color5": "#71A6CA",
+        "color6": "#7CC2D7",
+        "color7": "#bcd0dc",
+        "color8": "#011134",
+        "color9": "#2e6fc4",
+        "color10": "#5592d4",
+        "color11": "#71bef5",
+        "color12": "#124fb8",
+        "color13": "#7edbff",
+        "color14": "#8bffff",
+        "color15": "#eaffff"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_River/wallhaven-lm3ek2.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0c1205",
+        "foreground": "#fff6eb",
+        "cursor": "#fff6eb"
+    },
+    "colors": {
+        "color0": "#0c1205",
+        "color1": "#D7A230",
+        "color2": "#779308",
+        "color3": "#F0C64C",
+        "color4": "#EA9C53",
+        "color5": "#AE7286",
+        "color6": "#9F9E17",
+        "color7": "#e2cbc2",
+        "color8": "#263a0e",
+        "color9": "#ffd82d",
+        "color10": "#a0c801",
+        "color11": "#ffff4e",
+        "color12": "#ffca57",
+        "color13": "#f481a7",
+        "color14": "#dad911",
+        "color15": "#fff6eb"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_cyberpunk/wallhaven-nz88ow.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0C0C15",
+        "foreground": "#dbfcff",
+        "cursor": "#dbfcff"
+    },
+    "colors": {
+        "color0": "#0C0C15",
+        "color1": "#8F727E",
+        "color2": "#5069A4",
+        "color3": "#34519C",
+        "color4": "#223693",
+        "color5": "#4065CC",
+        "color6": "#608FB8",
+        "color7": "#a9c2df",
+        "color8": "#1d1d35",
+        "color9": "#ca83a0",
+        "color10": "#5882e5",
+        "color11": "#3663d8",
+        "color12": "#203eca",
+        "color13": "#417bff",
+        "color14": "#6abbff",
+        "color15": "#dbfcff"
+    }
+}

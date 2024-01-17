@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Favorites/wallhaven-nkwk7d.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#080B14",
+        "foreground": "#ccecff",
+        "cursor": "#ccecff"
+    },
+    "colors": {
+        "color0": "#080B14",
+        "color1": "#AA612C",
+        "color2": "#2D4E53",
+        "color3": "#D0A242",
+        "color4": "#283350",
+        "color5": "#5E5851",
+        "color6": "#453D46",
+        "color7": "#98b0c3",
+        "color8": "#151e38",
+        "color9": "#ea7b2b",
+        "color10": "#326b74",
+        "color11": "#ffd843",
+        "color12": "#2c3e6f",
+        "color13": "#85735e",
+        "color14": "#604663",
+        "color15": "#ccecff"
+    }
+}

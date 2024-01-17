@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_cyberspace/wallhaven-r22xrq.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#001734",
+        "foreground": "#e3ffff",
+        "cursor": "#e3ffff"
+    },
+    "colors": {
+        "color0": "#001734",
+        "color1": "#02B066",
+        "color2": "#01F075",
+        "color3": "#55FCB3",
+        "color4": "#019F5F",
+        "color5": "#02CF6C",
+        "color6": "#16F891",
+        "color7": "#c6f6df",
+        "color8": "#012d65",
+        "color9": "#01e684",
+        "color10": "#01ff98",
+        "color11": "#58ffeb",
+        "color12": "#01cf7b",
+        "color13": "#01ff8c",
+        "color14": "#0affbe",
+        "color15": "#e3ffff"
+    }
+}

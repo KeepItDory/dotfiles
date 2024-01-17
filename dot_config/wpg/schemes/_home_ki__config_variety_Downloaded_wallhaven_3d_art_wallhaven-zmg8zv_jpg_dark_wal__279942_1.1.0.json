@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_3d_art/wallhaven-zmg8zv.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#090A0B",
+        "foreground": "#c2ecff",
+        "cursor": "#c2ecff"
+    },
+    "colors": {
+        "color0": "#090A0B",
+        "color1": "#21415E",
+        "color2": "#1F4362",
+        "color3": "#B08546",
+        "color4": "#2F6696",
+        "color5": "#234B6F",
+        "color6": "#2A5B86",
+        "color7": "#91b0cb",
+        "color8": "#1f2326",
+        "color9": "#225482",
+        "color10": "#1f5787",
+        "color11": "#f4af4a",
+        "color12": "#3085cf",
+        "color13": "#236299",
+        "color14": "#2b77b9",
+        "color15": "#c2ecff"
+    }
+}

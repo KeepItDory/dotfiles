@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Favorites/wallhaven-q2688l.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#090c0e",
+        "foreground": "#fcfbff",
+        "cursor": "#fcfbff"
+    },
+    "colors": {
+        "color0": "#090c0e",
+        "color1": "#5D8AA1",
+        "color2": "#4C748C",
+        "color3": "#BB8652",
+        "color4": "#376E8A",
+        "color5": "#687889",
+        "color6": "#5995AE",
+        "color7": "#c6c5cb",
+        "color8": "#1c262c",
+        "color9": "#68b8e1",
+        "color10": "#549ac4",
+        "color11": "#ffae59",
+        "color12": "#3a93bf",
+        "color13": "#779bc1",
+        "color14": "#62c8f3",
+        "color15": "#fcfbff"
+    }
+}

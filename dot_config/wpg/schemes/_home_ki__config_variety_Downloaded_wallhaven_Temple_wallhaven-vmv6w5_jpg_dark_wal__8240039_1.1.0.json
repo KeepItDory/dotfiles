@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Temple/wallhaven-vmv6w5.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#030407",
+        "foreground": "#f1ffff",
+        "cursor": "#f1ffff"
+    },
+    "colors": {
+        "color0": "#030407",
+        "color1": "#2A5889",
+        "color2": "#274C74",
+        "color3": "#C58835",
+        "color4": "#366A9F",
+        "color5": "#4977A5",
+        "color6": "#678EB3",
+        "color7": "#c9d5df",
+        "color8": "#0f162c",
+        "color9": "#2a72bd",
+        "color10": "#2862a0",
+        "color11": "#ffb334",
+        "color12": "#3889dc",
+        "color13": "#4f9ae5",
+        "color14": "#73b9fb",
+        "color15": "#f1ffff"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_River/wallhaven-gp91lq.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#111012",
+        "foreground": "#e9ffff",
+        "cursor": "#e9ffff"
+    },
+    "colors": {
+        "color0": "#111012",
+        "color1": "#5EA4DF",
+        "color2": "#4CBDE9",
+        "color3": "#B5AAB4",
+        "color4": "#616695",
+        "color5": "#9B6C86",
+        "color6": "#15A7FE",
+        "color7": "#cbe4f0",
+        "color8": "#2a272c",
+        "color9": "#65d6ff",
+        "color10": "#4efeff",
+        "color11": "#ffc6fc",
+        "color12": "#6e77d1",
+        "color13": "#da7bb0",
+        "color14": "#09ddff",
+        "color15": "#e9ffff"
+    }
+}

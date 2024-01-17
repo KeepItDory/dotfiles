@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_River/wallhaven-eyep1r.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#100813",
+        "foreground": "#ffe1ea",
+        "cursor": "#ffe1ea"
+    },
+    "colors": {
+        "color0": "#100813",
+        "color1": "#D5686C",
+        "color2": "#A25C68",
+        "color3": "#D0877A",
+        "color4": "#2E5189",
+        "color5": "#9F7393",
+        "color6": "#5F6491",
+        "color7": "#e1b2b9",
+        "color8": "#2e1637",
+        "color9": "#ff7279",
+        "color10": "#e3677c",
+        "color11": "#ffa089",
+        "color12": "#2f66be",
+        "color13": "#e083c7",
+        "color14": "#6b75cc",
+        "color15": "#ffe1ea"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Forest/wallhaven-dpe6lm.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0f121c",
+        "foreground": "#cbd5fc",
+        "cursor": "#cbd5fc"
+    },
+    "colors": {
+        "color0": "#0f121c",
+        "color1": "#654D62",
+        "color2": "#374359",
+        "color3": "#B7817C",
+        "color4": "#384474",
+        "color5": "#464578",
+        "color6": "#44376E",
+        "color7": "#969dba",
+        "color8": "#20263c",
+        "color9": "#8e5888",
+        "color10": "#3e547d",
+        "color11": "#ff978d",
+        "color12": "#3d51a1",
+        "color13": "#4f4da8",
+        "color14": "#523c99",
+        "color15": "#cbd5fc"
+    }
+}

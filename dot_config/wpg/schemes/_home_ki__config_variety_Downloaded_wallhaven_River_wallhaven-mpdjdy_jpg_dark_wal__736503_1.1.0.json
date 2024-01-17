@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_River/wallhaven-mpdjdy.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#130f1b",
+        "foreground": "#e9f5ff",
+        "cursor": "#e9f5ff"
+    },
+    "colors": {
+        "color0": "#130f1b",
+        "color1": "#AC4432",
+        "color2": "#976460",
+        "color3": "#CD9368",
+        "color4": "#3B5588",
+        "color5": "#8E7688",
+        "color6": "#656A8A",
+        "color7": "#b2bbcc",
+        "color8": "#29203b",
+        "color9": "#ee4e32",
+        "color10": "#d4746c",
+        "color11": "#ffbc73",
+        "color12": "#406abd",
+        "color13": "#c988b9",
+        "color14": "#737ec2",
+        "color15": "#e9f5ff"
+    }
+}

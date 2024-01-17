@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_3d_art/wallhaven-8owwej.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#000000",
+        "foreground": "#f9f9ff",
+        "cursor": "#f9f9ff"
+    },
+    "colors": {
+        "color0": "#000000",
+        "color1": "#C2BDC2",
+        "color2": "#C5C2C7",
+        "color3": "#C2A19D",
+        "color4": "#B8B3B9",
+        "color5": "#C6B5B5",
+        "color6": "#B0B3C7",
+        "color7": "#d7d7e0",
+        "color8": "#191919",
+        "color9": "#ffdcff",
+        "color10": "#ffe2ff",
+        "color11": "#ffbfb5",
+        "color12": "#fed1ff",
+        "color13": "#ffd2d2",
+        "color14": "#ccd6ff",
+        "color15": "#f9f9ff"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Alien/wallhaven-ey2ppl.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0E1310",
+        "foreground": "#e7f7ff",
+        "cursor": "#e7f7ff"
+    },
+    "colors": {
+        "color0": "#0E1310",
+        "color1": "#54686D",
+        "color2": "#445757",
+        "color3": "#2E4871",
+        "color4": "#365A97",
+        "color5": "#55696E",
+        "color6": "#5F768E",
+        "color7": "#afbbc6",
+        "color8": "#223028",
+        "color9": "#608e9a",
+        "color10": "#4e7b7b",
+        "color11": "#315b9d",
+        "color12": "#3871d1",
+        "color13": "#61909b",
+        "color14": "#6c99c7",
+        "color15": "#e7f7ff"
+    }
+}

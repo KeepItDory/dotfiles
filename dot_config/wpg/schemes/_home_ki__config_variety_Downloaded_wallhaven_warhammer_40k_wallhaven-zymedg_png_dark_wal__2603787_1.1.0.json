@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_warhammer_40k/wallhaven-zymedg.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0d0c0a",
+        "foreground": "#fffffb",
+        "cursor": "#fffffb"
+    },
+    "colors": {
+        "color0": "#0d0c0a",
+        "color1": "#92604F",
+        "color2": "#646057",
+        "color3": "#CBA172",
+        "color4": "#6F726D",
+        "color5": "#918A77",
+        "color6": "#758687",
+        "color7": "#c6c5c1",
+        "color8": "#29261f",
+        "color9": "#cc7558",
+        "color10": "#8e8165",
+        "color11": "#ffd27f",
+        "color12": "#8da27f",
+        "color13": "#cdbb89",
+        "color14": "#87bcbf",
+        "color15": "#fffffb"
+    }
+}

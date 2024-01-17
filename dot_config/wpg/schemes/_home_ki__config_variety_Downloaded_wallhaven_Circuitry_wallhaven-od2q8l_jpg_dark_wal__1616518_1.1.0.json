@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Circuitry/wallhaven-od2q8l.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#232127",
+        "foreground": "#fffffe",
+        "cursor": "#fffffe"
+    },
+    "colors": {
+        "color0": "#232127",
+        "color1": "#B4CAE2",
+        "color2": "#ADC3DA",
+        "color3": "#E9D3AA",
+        "color4": "#A5BBD2",
+        "color5": "#9BB1CA",
+        "color6": "#859FC1",
+        "color7": "#e4e4e3",
+        "color8": "#3b3742",
+        "color9": "#c8fcff",
+        "color10": "#c7fcff",
+        "color11": "#ffffbd",
+        "color12": "#bef2ff",
+        "color13": "#b2e4ff",
+        "color14": "#97cbff",
+        "color15": "#fffffe"
+    }
+}

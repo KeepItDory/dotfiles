@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_warhammer_40k/wallhaven-nz86qy.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0A1B23",
+        "foreground": "#fcffff",
+        "cursor": "#fcffff"
+    },
+    "colors": {
+        "color0": "#0A1B23",
+        "color1": "#B3C1BE",
+        "color2": "#7D8277",
+        "color3": "#93A29E",
+        "color4": "#788B89",
+        "color5": "#B9C6C7",
+        "color6": "#ABB9B9",
+        "color7": "#dce1e0",
+        "color8": "#14394a",
+        "color9": "#d0ffff",
+        "color10": "#a3b98a",
+        "color11": "#abe6d6",
+        "color12": "#8bc5bf",
+        "color13": "#d7ffff",
+        "color14": "#c7ffff",
+        "color15": "#fcffff"
+    }
+}

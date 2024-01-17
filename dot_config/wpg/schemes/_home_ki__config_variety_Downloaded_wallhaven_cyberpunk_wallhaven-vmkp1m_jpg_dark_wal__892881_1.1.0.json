@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_cyberpunk/wallhaven-vmkp1m.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#160d1b",
+        "foreground": "#cfffff",
+        "cursor": "#cfffff"
+    },
+    "colors": {
+        "color0": "#160d1b",
+        "color1": "#B32664",
+        "color2": "#5E3192",
+        "color3": "#D8C84A",
+        "color4": "#404AA9",
+        "color5": "#AF38AE",
+        "color6": "#5D53A1",
+        "color7": "#9eccdf",
+        "color8": "#311c3d",
+        "color9": "#f62380",
+        "color10": "#7932ca",
+        "color11": "#ffff4d",
+        "color12": "#4453ea",
+        "color13": "#f239f1",
+        "color14": "#6d5ce1",
+        "color15": "#cfffff"
+    }
+}

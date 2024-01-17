@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/wpg/wallpapers/wallhaven-q2wvy5.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#19100f",
+        "foreground": "#fffffc",
+        "cursor": "#fffffc"
+    },
+    "colors": {
+        "color0": "#19100f",
+        "color1": "#A1A19F",
+        "color2": "#79868D",
+        "color3": "#CEC6BA",
+        "color4": "#657786",
+        "color5": "#BEBEC6",
+        "color6": "#9FB0CA",
+        "color7": "#e5e5e1",
+        "color8": "#382321",
+        "color9": "#e6e6b9",
+        "color10": "#8cb3c8",
+        "color11": "#ffffd8",
+        "color12": "#749cbd",
+        "color13": "#ddddff",
+        "color14": "#b7dfff",
+        "color15": "#fffffc"
+    }
+}

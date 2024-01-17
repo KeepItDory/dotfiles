@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/wpg/wallpapers/wallhaven-xlly6v.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#100219",
+        "foreground": "#fff2dd",
+        "cursor": "#fff2dd"
+    },
+    "colors": {
+        "color0": "#100219",
+        "color1": "#AE3438",
+        "color2": "#C3554B",
+        "color3": "#CA6E5A",
+        "color4": "#BD4743",
+        "color5": "#B85E57",
+        "color6": "#BC413E",
+        "color7": "#e0bcac",
+        "color8": "#2e0449",
+        "color9": "#f0343b",
+        "color10": "#ff5f4f",
+        "color11": "#ff8262",
+        "color12": "#ff4c46",
+        "color13": "#ff6b5f",
+        "color14": "#ff4440",
+        "color15": "#fff2dd"
+    }
+}

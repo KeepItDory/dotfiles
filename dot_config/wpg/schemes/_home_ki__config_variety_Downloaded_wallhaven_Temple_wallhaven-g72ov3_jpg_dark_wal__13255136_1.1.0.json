@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Temple/wallhaven-g72ov3.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#27181b",
+        "foreground": "#f8ffff",
+        "cursor": "#f8ffff"
+    },
+    "colors": {
+        "color0": "#27181b",
+        "color1": "#C9DAE7",
+        "color2": "#BCD2E2",
+        "color3": "#D4C4B9",
+        "color4": "#B7C9D5",
+        "color5": "#D0CFD3",
+        "color6": "#A9B8C5",
+        "color7": "#e3e9ef",
+        "color8": "#462a30",
+        "color9": "#d3ffff",
+        "color10": "#ceffff",
+        "color11": "#fff7d4",
+        "color12": "#d2ffff",
+        "color13": "#f1e3ff",
+        "color14": "#c3f0ff",
+        "color15": "#f8ffff"
+    }
+}

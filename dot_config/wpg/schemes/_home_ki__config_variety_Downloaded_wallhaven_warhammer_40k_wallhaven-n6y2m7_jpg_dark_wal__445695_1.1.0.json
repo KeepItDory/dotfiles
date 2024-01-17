@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_warhammer_40k/wallhaven-n6y2m7.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#070B10",
+        "foreground": "#fcfcff",
+        "cursor": "#fcfcff"
+    },
+    "colors": {
+        "color0": "#070B10",
+        "color1": "#8A7779",
+        "color2": "#4D4C50",
+        "color3": "#474243",
+        "color4": "#363A45",
+        "color5": "#636268",
+        "color6": "#707787",
+        "color7": "#c3c3c7",
+        "color8": "#152233",
+        "color9": "#c48a90",
+        "color10": "#5f5872",
+        "color11": "#654c51",
+        "color12": "#3e4761",
+        "color13": "#787294",
+        "color14": "#8194bf",
+        "color15": "#fcfcff"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Temple/wallhaven-q25w6d.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#16100e",
+        "foreground": "#fffffb",
+        "cursor": "#fffffb"
+    },
+    "colors": {
+        "color0": "#16100e",
+        "color1": "#857961",
+        "color2": "#7F807A",
+        "color3": "#A19378",
+        "color4": "#8F8772",
+        "color5": "#97968F",
+        "color6": "#A59C87",
+        "color7": "#c9c8c4",
+        "color8": "#342621",
+        "color9": "#bba26f",
+        "color10": "#afb68e",
+        "color11": "#e3c489",
+        "color12": "#cab683",
+        "color13": "#d7d1a6",
+        "color14": "#e9d29c",
+        "color15": "#fffffb"
+    }
+}

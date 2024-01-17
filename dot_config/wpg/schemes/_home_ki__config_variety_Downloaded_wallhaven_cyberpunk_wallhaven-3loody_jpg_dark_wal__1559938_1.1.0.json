@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_cyberpunk/wallhaven-3loody.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#120c16",
+        "foreground": "#c5ffff",
+        "cursor": "#c5ffff"
+    },
+    "colors": {
+        "color0": "#120c16",
+        "color1": "#9F63B8",
+        "color2": "#56FE8F",
+        "color3": "#53609E",
+        "color4": "#604AA0",
+        "color5": "#E15CFD",
+        "color6": "#60EF9F",
+        "color7": "#97d3ea",
+        "color8": "#2c1d36",
+        "color9": "#d66eff",
+        "color10": "#59ffb2",
+        "color11": "#5c72dd",
+        "color12": "#7550df",
+        "color13": "#ff61ff",
+        "color14": "#66ffcc",
+        "color15": "#c5ffff"
+    }
+}

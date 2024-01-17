@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_samurai/wallhaven-xlp9p3.jpg",
+    "alpha": "80",
+
+    "special": {
+        "background": "#271c18",
+        "foreground": "#fffdfc",
+        "cursor": "#fffdfc"
+    },
+    "colors": {
+        "color0": "#271c18",
+        "color1": "#ad6064",
+        "color2": "#c6a491",
+        "color3": "#c5907b",
+        "color4": "#ac797c",
+        "color5": "#a4899f",
+        "color6": "#c7b7a8",
+        "color7": "#c9c6c5",
+        "color8": "#46322a",
+        "color9": "#f26b72",
+        "color10": "#ffcea6",
+        "color11": "#ffb28b",
+        "color12": "#f28a90",
+        "color13": "#e89eda",
+        "color14": "#ffedc2",
+        "color15": "#fffdfc"
+    }
+}

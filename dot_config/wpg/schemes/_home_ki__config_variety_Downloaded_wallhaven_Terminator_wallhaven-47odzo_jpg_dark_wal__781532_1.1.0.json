@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Terminator/wallhaven-47odzo.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0a0b0a",
+        "foreground": "#fefffd",
+        "cursor": "#fefffd"
+    },
+    "colors": {
+        "color0": "#0a0b0a",
+        "color1": "#9A492C",
+        "color2": "#585758",
+        "color3": "#BD946E",
+        "color4": "#517189",
+        "color5": "#9E6854",
+        "color6": "#6E95A5",
+        "color7": "#c5c7c4",
+        "color8": "#212521",
+        "color9": "#d5582c",
+        "color10": "#7d657d",
+        "color11": "#ffbf7b",
+        "color12": "#5b94c0",
+        "color13": "#dd7f5d",
+        "color14": "#7dc9e8",
+        "color15": "#fefffd"
+    }
+}

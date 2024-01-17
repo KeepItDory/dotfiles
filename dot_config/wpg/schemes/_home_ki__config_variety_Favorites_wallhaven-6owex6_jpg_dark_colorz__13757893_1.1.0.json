@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Favorites/wallhaven-6owex6.jpg",
+    "alpha": "80",
+
+    "special": {
+        "background": "#141b21",
+        "foreground": "#fdffff",
+        "cursor": "#fdffff"
+    },
+    "colors": {
+        "color0": "#141b21",
+        "color1": "#aa5a60",
+        "color2": "#8c8caa",
+        "color3": "#aa7381",
+        "color4": "#788aaa",
+        "color5": "#a58da4",
+        "color6": "#688aaa",
+        "color7": "#c4c6c7",
+        "color8": "#263440",
+        "color9": "#ed646e",
+        "color10": "#a1a1f1",
+        "color11": "#ef839e",
+        "color12": "#89aeef",
+        "color13": "#eaa3e7",
+        "color14": "#75b3ee",
+        "color15": "#fdffff"
+    }
+}

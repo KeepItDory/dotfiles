@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_arch_linux/wallhaven-g8r373.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#00021F",
+        "foreground": "#fcfdff",
+        "cursor": "#fcfdff"
+    },
+    "colors": {
+        "color0": "#00021F",
+        "color1": "#7D8392",
+        "color2": "#707788",
+        "color3": "#BEC1C9",
+        "color4": "#5F6679",
+        "color5": "#B8BCC4",
+        "color6": "#999EAA",
+        "color7": "#dddee1",
+        "color8": "#010650",
+        "color9": "#90a2cf",
+        "color10": "#8194c0",
+        "color11": "#ddefff",
+        "color12": "#6d7eab",
+        "color13": "#d6ecff",
+        "color14": "#b1c4f1",
+        "color15": "#fcfdff"
+    }
+}

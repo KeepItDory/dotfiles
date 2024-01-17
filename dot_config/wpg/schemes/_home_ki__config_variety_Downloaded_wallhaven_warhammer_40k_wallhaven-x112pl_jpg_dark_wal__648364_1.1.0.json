@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_warhammer_40k/wallhaven-x112pl.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0d0a09",
+        "foreground": "#ebf3fa",
+        "cursor": "#ebf3fa"
+    },
+    "colors": {
+        "color0": "#0d0a09",
+        "color1": "#B35535",
+        "color2": "#5D5854",
+        "color3": "#CA926C",
+        "color4": "#3B4245",
+        "color5": "#976A53",
+        "color6": "#945534",
+        "color7": "#b1b7bd",
+        "color8": "#2b201d",
+        "color9": "#f76735",
+        "color10": "#847161",
+        "color11": "#ffb978",
+        "color12": "#445961",
+        "color13": "#d3845c",
+        "color14": "#cd6a36",
+        "color15": "#ebf3fa"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Pokemon/wallhaven-k73wrm.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#040B1D",
+        "foreground": "#c9ffff",
+        "cursor": "#c9ffff"
+    },
+    "colors": {
+        "color0": "#040B1D",
+        "color1": "#2FB0DB",
+        "color2": "#466779",
+        "color3": "#2A8AB2",
+        "color4": "#226B93",
+        "color5": "#49758B",
+        "color6": "#30C8F1",
+        "color7": "#9ad9ec",
+        "color8": "#081b4a",
+        "color9": "#2bedff",
+        "color10": "#4e89a9",
+        "color11": "#28b9f5",
+        "color12": "#208eca",
+        "color13": "#519cc2",
+        "color14": "#2bffff",
+        "color15": "#c9ffff"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_River/wallhaven-mdxd6m.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#070C13",
+        "foreground": "#e7ffff",
+        "cursor": "#e7ffff"
+    },
+    "colors": {
+        "color0": "#070C13",
+        "color1": "#5292B1",
+        "color2": "#517493",
+        "color3": "#619CB8",
+        "color4": "#3B83A1",
+        "color5": "#72ADC9",
+        "color6": "#61A0C1",
+        "color7": "#bad3df",
+        "color8": "#132238",
+        "color9": "#59c3f6",
+        "color10": "#5a97cd",
+        "color11": "#6bd1ff",
+        "color12": "#3eb0df",
+        "color13": "#7fe8ff",
+        "color14": "#6bd5ff",
+        "color15": "#e7ffff"
+    }
+}

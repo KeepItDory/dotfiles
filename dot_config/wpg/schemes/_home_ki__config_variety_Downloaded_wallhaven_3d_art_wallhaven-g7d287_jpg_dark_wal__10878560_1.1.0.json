@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_3d_art/wallhaven-g7d287.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0b0a09",
+        "foreground": "#fffbe3",
+        "cursor": "#fffbe3"
+    },
+    "colors": {
+        "color0": "#0b0a09",
+        "color1": "#8F5F38",
+        "color2": "#7C826C",
+        "color3": "#917155",
+        "color4": "#6D6050",
+        "color5": "#6A5846",
+        "color6": "#6A5037",
+        "color7": "#d0bfad",
+        "color8": "#26231f",
+        "color9": "#c67a3b",
+        "color10": "#a8b87d",
+        "color11": "#cb915f",
+        "color12": "#997e5b",
+        "color13": "#95724f",
+        "color14": "#94673d",
+        "color15": "#fffbe3"
+    }
+}

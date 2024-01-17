@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Forest/wallhaven-l31qxy.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#030208",
+        "foreground": "#ffe9fc",
+        "cursor": "#ffe9fc"
+    },
+    "colors": {
+        "color0": "#030208",
+        "color1": "#D71FB9",
+        "color2": "#F75FDD",
+        "color3": "#FA58CC",
+        "color4": "#6023BF",
+        "color5": "#E710F4",
+        "color6": "#9B23EE",
+        "color7": "#f4cedf",
+        "color8": "#0f0833",
+        "color9": "#ff18fb",
+        "color10": "#ff65ff",
+        "color11": "#ff5cff",
+        "color12": "#791eff",
+        "color13": "#ff03ff",
+        "color14": "#cc1bff",
+        "color15": "#ffe9fc"
+    }
+}

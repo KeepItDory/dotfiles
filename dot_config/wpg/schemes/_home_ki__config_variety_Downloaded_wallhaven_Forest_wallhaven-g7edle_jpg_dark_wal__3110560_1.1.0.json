@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Forest/wallhaven-g7edle.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0E120B",
+        "foreground": "#fdffff",
+        "cursor": "#fdffff"
+    },
+    "colors": {
+        "color0": "#0E120B",
+        "color1": "#BCC3C3",
+        "color2": "#79868F",
+        "color3": "#C4BEB7",
+        "color4": "#6F7B83",
+        "color5": "#969C9F",
+        "color6": "#AEB5B7",
+        "color7": "#dbdddc",
+        "color8": "#26311d",
+        "color9": "#dbffff",
+        "color10": "#8cb1ca",
+        "color11": "#fff8d5",
+        "color12": "#80a3b9",
+        "color13": "#afd1e2",
+        "color14": "#cbf8ff",
+        "color15": "#fdffff"
+    }
+}

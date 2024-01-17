@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Communism/wallhaven-n6pox0.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0B0B09",
+        "foreground": "#fffff8",
+        "cursor": "#fffff8"
+    },
+    "colors": {
+        "color0": "#0B0B09",
+        "color1": "#958B74",
+        "color2": "#C6B9A6",
+        "color3": "#C08F66",
+        "color4": "#CFC7B6",
+        "color5": "#A3A39A",
+        "color6": "#D4D2CC",
+        "color7": "#efece4",
+        "color8": "#26261f",
+        "color9": "#d2bb85",
+        "color10": "#fff4c0",
+        "color11": "#ffb871",
+        "color12": "#ffffd3",
+        "color13": "#e8e8b3",
+        "color14": "#ffffe0",
+        "color15": "#fffff8"
+    }
+}

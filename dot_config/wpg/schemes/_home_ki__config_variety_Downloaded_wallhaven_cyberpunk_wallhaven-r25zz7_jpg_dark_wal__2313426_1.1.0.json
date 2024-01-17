@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_cyberpunk/wallhaven-r25zz7.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0e0f15",
+        "foreground": "#e0fbff",
+        "cursor": "#e0fbff"
+    },
+    "colors": {
+        "color0": "#0e0f15",
+        "color1": "#9165A8",
+        "color2": "#495293",
+        "color3": "#68499F",
+        "color4": "#3B4A87",
+        "color5": "#AB38B8",
+        "color6": "#6067A7",
+        "color7": "#abc0d5",
+        "color8": "#212433",
+        "color9": "#c171eb",
+        "color10": "#505fcd",
+        "color11": "#824fdd",
+        "color12": "#4058bc",
+        "color13": "#ea39fe",
+        "color14": "#6b78ea",
+        "color15": "#e0fbff"
+    }
+}

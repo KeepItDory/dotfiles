@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Circuitry/wallhaven-g8plm3.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#010A10",
+        "foreground": "#aeffff",
+        "cursor": "#aeffff"
+    },
+    "colors": {
+        "color0": "#010A10",
+        "color1": "#226274",
+        "color2": "#12817E",
+        "color3": "#066474",
+        "color4": "#053985",
+        "color5": "#0A5569",
+        "color6": "#0F718F",
+        "color7": "#80bfcc",
+        "color8": "#012742",
+        "color9": "#2284a0",
+        "color10": "#0db1ac",
+        "color11": "#01869d",
+        "color12": "#0149b2",
+        "color13": "#057290",
+        "color14": "#0998c4",
+        "color15": "#aeffff"
+    }
+}

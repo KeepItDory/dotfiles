@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_River/wallhaven-y87jkg.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0C0B15",
+        "foreground": "#ffdfd3",
+        "cursor": "#ffdfd3"
+    },
+    "colors": {
+        "color0": "#0C0B15",
+        "color1": "#945842",
+        "color2": "#6C4A51",
+        "color3": "#4D2C4F",
+        "color4": "#2A1B4E",
+        "color5": "#613551",
+        "color6": "#31254F",
+        "color7": "#c2a79e",
+        "color8": "#1e1b36",
+        "color9": "#ce6b47",
+        "color10": "#985462",
+        "color11": "#6b316e",
+        "color12": "#331c6c",
+        "color13": "#873b6b",
+        "color14": "#3c286e",
+        "color15": "#ffdfd3"
+    }
+}

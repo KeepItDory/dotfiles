@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_cyberpunk/wallhaven-mdm5j8.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#090809",
+        "foreground": "#ffffd0",
+        "cursor": "#ffffd0"
+    },
+    "colors": {
+        "color0": "#090809",
+        "color1": "#EB6159",
+        "color2": "#5B8A57",
+        "color3": "#CDB749",
+        "color4": "#AD5F4B",
+        "color5": "#C96E4E",
+        "color6": "#DC9558",
+        "color7": "#f5e1aa",
+        "color8": "#231f23",
+        "color9": "#ff6b5e",
+        "color10": "#69c162",
+        "color11": "#fff94c",
+        "color12": "#f17151",
+        "color13": "#ff8653",
+        "color14": "#ffc05e",
+        "color15": "#ffffd0"
+    }
+}

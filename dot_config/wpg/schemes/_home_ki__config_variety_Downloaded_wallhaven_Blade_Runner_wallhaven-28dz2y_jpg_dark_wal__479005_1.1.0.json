@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Blade_Runner/wallhaven-28dz2y.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#010100",
+        "foreground": "#ffffc7",
+        "cursor": "#ffffc7"
+    },
+    "colors": {
+        "color0": "#010100",
+        "color1": "#A15B26",
+        "color2": "#955323",
+        "color3": "#EB9942",
+        "color4": "#CB7733",
+        "color5": "#DD893B",
+        "color6": "#DE9140",
+        "color7": "#f3cf9c",
+        "color8": "#191919",
+        "color9": "#de7424",
+        "color10": "#cd6921",
+        "color11": "#ffc742",
+        "color12": "#ff9831",
+        "color13": "#ffb13a",
+        "color14": "#ffbc40",
+        "color15": "#ffffc7"
+    }
+}

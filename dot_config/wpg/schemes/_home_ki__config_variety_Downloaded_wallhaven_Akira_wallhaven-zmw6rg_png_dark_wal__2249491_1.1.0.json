@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Akira/wallhaven-zmw6rg.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#000000",
+        "foreground": "#f7ffff",
+        "cursor": "#f7ffff"
+    },
+    "colors": {
+        "color0": "#000000",
+        "color1": "#CF4059",
+        "color2": "#4CB6DC",
+        "color3": "#9DF1F3",
+        "color4": "#6F619B",
+        "color5": "#C3ACBB",
+        "color6": "#66F0EF",
+        "color7": "#e4f1f0",
+        "color8": "#191919",
+        "color9": "#ff4168",
+        "color10": "#4ff5ff",
+        "color11": "#aeffff",
+        "color12": "#876dd9",
+        "color13": "#ffc7fa",
+        "color14": "#6effff",
+        "color15": "#f7ffff"
+    }
+}

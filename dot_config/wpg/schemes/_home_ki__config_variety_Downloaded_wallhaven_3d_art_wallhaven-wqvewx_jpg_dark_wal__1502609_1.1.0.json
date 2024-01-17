@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_3d_art/wallhaven-wqvewx.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#09090d",
+        "foreground": "#fdf8ff",
+        "cursor": "#fdf8ff"
+    },
+    "colors": {
+        "color0": "#09090d",
+        "color1": "#833D50",
+        "color2": "#635A66",
+        "color3": "#906E6D",
+        "color4": "#6E6F8C",
+        "color5": "#A0949C",
+        "color6": "#887E94",
+        "color7": "#d3cfd9",
+        "color8": "#1d1d2b",
+        "color9": "#b64262",
+        "color10": "#866890",
+        "color11": "#cb7f7d",
+        "color12": "#7e81c6",
+        "color13": "#e3acd1",
+        "color14": "#af92d2",
+        "color15": "#fdf8ff"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_cyberpunk/wallhaven-zmq6xg.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#100f13",
+        "foreground": "#eefaff",
+        "cursor": "#eefaff"
+    },
+    "colors": {
+        "color0": "#100f13",
+        "color1": "#986B4D",
+        "color2": "#65708E",
+        "color3": "#D0AB54",
+        "color4": "#425290",
+        "color5": "#8E9BAF",
+        "color6": "#7789A6",
+        "color7": "#c4cedf",
+        "color8": "#27242f",
+        "color9": "#d48855",
+        "color10": "#738ac8",
+        "color11": "#ffe55a",
+        "color12": "#4862c8",
+        "color13": "#a4c5f8",
+        "color14": "#88adea",
+        "color15": "#eefaff"
+    }
+}

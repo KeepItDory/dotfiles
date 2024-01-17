@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/wpg/wallpapers/wallhaven-3llmey.jpg_wal_sample.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0D1422",
+        "foreground": "#fffbfd",
+        "cursor": "#fffbfd"
+    },
+    "colors": {
+        "color0": "#0D1422",
+        "color1": "#AA6C93",
+        "color2": "#8496AE",
+        "color3": "#CE73AD",
+        "color4": "#778594",
+        "color5": "#F07AC5",
+        "color6": "#88A8CB",
+        "color7": "#e1dbdd",
+        "color8": "#1a2946",
+        "color9": "#ef7ac3",
+        "color10": "#97c0f6",
+        "color11": "#ff80e6",
+        "color12": "#89acd1",
+        "color13": "#ff87ff",
+        "color14": "#9ad9ff",
+        "color15": "#fffbfd"
+    }
+}

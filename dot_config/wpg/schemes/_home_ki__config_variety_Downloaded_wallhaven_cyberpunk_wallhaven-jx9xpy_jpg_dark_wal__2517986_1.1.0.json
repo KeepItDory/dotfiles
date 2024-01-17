@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_cyberpunk/wallhaven-jx9xpy.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#070306",
+        "foreground": "#cfffff",
+        "cursor": "#cfffff"
+    },
+    "colors": {
+        "color0": "#070306",
+        "color1": "#B76D42",
+        "color2": "#4D518D",
+        "color3": "#605EA7",
+        "color4": "#364EA4",
+        "color5": "#A05DBA",
+        "color6": "#606FD6",
+        "color7": "#a2c8ed",
+        "color8": "#2c0f25",
+        "color9": "#fe8945",
+        "color10": "#555cc5",
+        "color11": "#6c69ea",
+        "color12": "#375de3",
+        "color13": "#d766ff",
+        "color14": "#6881ff",
+        "color15": "#cfffff"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Circuitry/wallhaven-e79mp8.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#030606",
+        "foreground": "#ffb8b8",
+        "cursor": "#ffb8b8"
+    },
+    "colors": {
+        "color0": "#030606",
+        "color1": "#F00101",
+        "color2": "#A10101",
+        "color3": "#B02626",
+        "color4": "#AF0303",
+        "color5": "#8F2525",
+        "color6": "#D00202",
+        "color7": "#dd8a8a",
+        "color8": "#112929",
+        "color9": "#ff0101",
+        "color10": "#d10101",
+        "color11": "#f22323",
+        "color12": "#e60101",
+        "color13": "#c52424",
+        "color14": "#ff0101",
+        "color15": "#ffb8b8"
+    }
+}

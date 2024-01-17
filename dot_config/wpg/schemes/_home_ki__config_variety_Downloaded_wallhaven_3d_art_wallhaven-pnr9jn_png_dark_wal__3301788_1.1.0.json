@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_3d_art/wallhaven-pnr9jn.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#14121e",
+        "foreground": "#ffffca",
+        "cursor": "#ffffca"
+    },
+    "colors": {
+        "color0": "#14121e",
+        "color1": "#DA9A32",
+        "color2": "#5E6142",
+        "color3": "#DDAA48",
+        "color4": "#535342",
+        "color5": "#625942",
+        "color6": "#616141",
+        "color7": "#e5db9a",
+        "color8": "#28243d",
+        "color9": "#ffcc2f",
+        "color10": "#82884b",
+        "color11": "#ffe34a",
+        "color12": "#75754c",
+        "color13": "#8a784b",
+        "color14": "#88884a",
+        "color15": "#ffffca"
+    }
+}

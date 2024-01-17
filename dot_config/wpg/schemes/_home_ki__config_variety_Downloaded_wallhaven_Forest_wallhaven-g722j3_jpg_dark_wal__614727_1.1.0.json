@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Forest/wallhaven-g722j3.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0A0C0B",
+        "foreground": "#efffff",
+        "cursor": "#efffff"
+    },
+    "colors": {
+        "color0": "#0A0C0B",
+        "color1": "#949C67",
+        "color2": "#768760",
+        "color3": "#B4C46B",
+        "color4": "#70717A",
+        "color5": "#9BA79C",
+        "color6": "#728D95",
+        "color7": "#cedee9",
+        "color8": "#202724",
+        "color9": "#ccdb75",
+        "color10": "#9bbe6d",
+        "color11": "#f6ff77",
+        "color12": "#8286ad",
+        "color13": "#b4edb9",
+        "color14": "#83c0d2",
+        "color15": "#efffff"
+    }
+}

@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Forest/wallhaven-1jlp89.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#101912",
+        "foreground": "#dffffd",
+        "cursor": "#dffffd"
+    },
+    "colors": {
+        "color0": "#101912",
+        "color1": "#6A725F",
+        "color2": "#5E9A37",
+        "color3": "#BBD55F",
+        "color4": "#A7D465",
+        "color5": "#92AD63",
+        "color6": "#679661",
+        "color7": "#a8c5bf",
+        "color8": "#233727",
+        "color9": "#8ba16d",
+        "color10": "#77d539",
+        "color11": "#feff67",
+        "color12": "#dcff6e",
+        "color13": "#c2f26f",
+        "color14": "#79d36e",
+        "color15": "#dffffd"
+    }
+}

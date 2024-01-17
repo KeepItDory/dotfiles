@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_cyberpunk/wallhaven-yxm76l.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0c0f19",
+        "foreground": "#fff3ef",
+        "cursor": "#fff3ef"
+    },
+    "colors": {
+        "color0": "#0c0f19",
+        "color1": "#7885A1",
+        "color2": "#677697",
+        "color3": "#B08674",
+        "color4": "#0E6488",
+        "color5": "#9592A5",
+        "color6": "#45A2AC",
+        "color7": "#e7d0cc",
+        "color8": "#1b223b",
+        "color9": "#89a6e3",
+        "color10": "#7593d4",
+        "color11": "#f7a683",
+        "color12": "#0886ba",
+        "color13": "#b3a9ea",
+        "color14": "#4adfef",
+        "color15": "#fff3ef"
+    }
+}

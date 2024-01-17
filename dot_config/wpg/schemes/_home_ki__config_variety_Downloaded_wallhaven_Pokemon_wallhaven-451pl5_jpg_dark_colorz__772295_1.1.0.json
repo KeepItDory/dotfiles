@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Downloaded/wallhaven_Pokemon/wallhaven-451pl5.jpg",
+    "alpha": "80",
+
+    "special": {
+        "background": "#241110",
+        "foreground": "#fffbfb",
+        "cursor": "#fffbfb"
+    },
+    "colors": {
+        "color0": "#241110",
+        "color1": "#b75855",
+        "color2": "#8dab82",
+        "color3": "#aac48b",
+        "color4": "#1761ac",
+        "color5": "#c1c4c0",
+        "color6": "#5e99ae",
+        "color7": "#c8c3c3",
+        "color8": "#47211f",
+        "color9": "#ff625d",
+        "color10": "#aef195",
+        "color11": "#deff9e",
+        "color12": "#117eec",
+        "color13": "#eeffe0",
+        "color14": "#68cff3",
+        "color15": "#fffbfb"
+    }
+}

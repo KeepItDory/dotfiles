@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Favorites/wallhaven-399gd3.jpg",
+    "alpha": "100",
+
+    "special": {
+        "background": "#0f1214",
+        "foreground": "#ceffff",
+        "cursor": "#ceffff"
+    },
+    "colors": {
+        "color0": "#0f1214",
+        "color1": "#90546F",
+        "color2": "#2F8A72",
+        "color3": "#4C8878",
+        "color4": "#52595B",
+        "color5": "#DC44B7",
+        "color6": "#5BA395",
+        "color7": "#9cd5ca",
+        "color8": "#242b30",
+        "color9": "#c95e8e",
+        "color10": "#31bf99",
+        "color11": "#55bea2",
+        "color12": "#5f7981",
+        "color13": "#ff45f7",
+        "color14": "#65e4cb",
+        "color15": "#ceffff"
+    }
+}

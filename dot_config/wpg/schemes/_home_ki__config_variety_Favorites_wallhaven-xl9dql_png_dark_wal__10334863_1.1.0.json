@@ -1,0 +1,28 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Favorites/wallhaven-xl9dql.png",
+    "alpha": "100",
+
+    "special": {
+        "background": "#081E3A",
+        "foreground": "#cdffff",
+        "cursor": "#cdffff"
+    },
+    "colors": {
+        "color0": "#081E3A",
+        "color1": "#AA4D61",
+        "color2": "#214767",
+        "color3": "#1E5385",
+        "color4": "#22598C",
+        "color5": "#497597",
+        "color6": "#2D6DA0",
+        "color7": "#9cc6dc",
+        "color8": "#0d3466",
+        "color9": "#ed5474",
+        "color10": "#225d8e",
+        "color11": "#1c6cb7",
+        "color12": "#2074c1",
+        "color13": "#5099d2",
+        "color14": "#2d8fdd",
+        "color15": "#cdffff"
+    }
+}

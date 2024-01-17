@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/ki/.config/variety/Favorites/wallhaven-d6g5ro.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#121a24",
+        "foreground": "#c3c5c8",
+        "cursor": "#c3c5c8"
+    },
+    "colors": {
+        "color0": "#121a24",
+        "color1": "#5b85b9",
+        "color2": "#7c52aa",
+        "color3": "#ae95ba",
+        "color4": "#9a5baa",
+        "color5": "#b1598a",
+        "color6": "#b03c5f",
+        "color7": "#c3c5c8",
+        "color8": "#4d535a",
+        "color9": "#5b85b9",
+        "color10": "#7c52aa",
+        "color11": "#ae95ba",
+        "color12": "#9a5baa",
+        "color13": "#b1598a",
+        "color14": "#b03c5f",
+        "color15": "#c3c5c8"
+    }
+}
