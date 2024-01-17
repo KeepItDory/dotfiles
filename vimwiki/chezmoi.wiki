@@ -13,23 +13,22 @@
     * _$ chezmoi diff_
       - Show differences between Home and Source files
     * _$ chezmoi -v apply_
-     - apply changes from your source to ?home?
+      - apply changes from your source to ?home?
+    * _$ chezmoi cd_
+      - go into chezmoi's shell
+    * _$ git add ._
+      - add all files to source
+    * _git commit -m "Initial commit"_
+      - This creates your intial commit, must always push to push to git repo
+    * _git remote add origin https://github.com/$GITHUBUSERNAME/dotfiles.git_
+      - add your github repo
+    * _git branch -M main_
+      - publish to your main branch
+    * _git push -u origin main_
+      - Push source to your git repo
 
+      == EDIT THE FOLLOWING INTO YOUR wiki
 
-
-
-        == EDIT THE FOLLOWING INTO YOUR wiki
-
-        - [X] Open a shell in your source directory and commit changes
-          - To commit changes type these commands
-            _$ chezmoi cd_
-            _$ git add ._
-            _$ git commit -m "Inital commit"_
-        - [X] Create a new repository on GitHub called dotfiles and then push your repository
-          - to push your repo type these commands
-            _$ git remote add origin https://github.com/$GITHUB_USERNAME/dotfiles.git_
-            _$ git branch -M main_
-            _$ git push -u origin main_
         - [X] Then you can exit
           - _$ exit_
             Did you know you can type that command to exit? These lines are needed to tell let you know.- [X] Uncomment pulse's input

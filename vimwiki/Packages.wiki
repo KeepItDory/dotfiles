@@ -63,6 +63,7 @@
   - [X] gtk3
   - [X] gst-plugins-base-libs
   - [X] [[htop]]
+  - [X] hw-probe
   - [X] jackett
   - [X] [[kdenlive]]
   - [X] [[keepassxc]]
@@ -154,6 +155,7 @@
   - [X] [[protontricks]]
   - [X] [[protonup-qt]]
   - [X] protonutils
+  - [X] pnputils
   - [X] [[protonmail-bridge]]
   - [X] [[protonvpn]]
   - [X] playerctl

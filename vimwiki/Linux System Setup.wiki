@@ -7,12 +7,12 @@
   * Basic system layout
     - OS Arch Based Endeavour OS
     - Window manager: openbox and hyprland
-    - Terminal: alacritty
+    - Terminal: alacritty & kitty w/ tmux & byobu
     - Compositor: Picom
-    - File Manager: thunar & ranger
-    - Text Editor: nvim, doom emacs, & geany
-    - System Monitor: bashtop
-    - VPN: proton vpn, proton vpn
+    - File Manager: thunar, ranger & yazi
+    - Text Editor: nvim (lazynvim distro), doom emacs, & geany
+    - System Monitor: bashtop, btop
+    - VPN: proton vpn, mullvanVPN
     - Clipboard: gpaste
     - Logout: rofi
     - Application Launcher: rofi
@@ -21,7 +21,7 @@
     - Media Player: mpv
     - Backgrounds by: variaty
     - Bar: polybar
-    - Colors: Pywal
+    - Colors: [[pywal]] and wpgtk (currently using colorz backend, imagemagick seems to be broken for pywal)
 
   * Hyprland
     * Applications
@@ -531,10 +531,10 @@
 
     - [ ] Setup Calibre ebook manager
 
-    - [.] Setup yazi
+    - [X] Setup yazi
       - [X] Install [[yazi]]
-      - [ ] Configure yazi
-        - [ ] Copy default config files keymap.toml, theme.toml, and yaz.toml over to _~/.config/yazi/_
+      - [X] Configure yazi
+        - [X] Copy default config files keymap.toml, theme.toml, and yaz.toml over to _~/.config/yazi/_
 
     - [ ] Setup [[btop]]
     
@@ -543,4 +543,15 @@
 
     - [ ] Setup moviemon alias
 
-    - [ ] Setup [[byobu]]
+    - [o] Setup [[byobu]]
+      - [X] Install byobu
+        - _$ yay -S [[byobu_]]
+      - [ ] Configure byobu
+        - [ ] Improve keybinds
+          - Is there a prefix? Its annoying having byobu take over so many other vim keybinds
+    
+    - [X] Setup ansiweather
+      - [X] Install ansiweather
+        - _yay -S ansiweather_
+      - [X] configure ansiweather
+        - Just change it to add your city, and use imperial if you want to. It uses openweatherapi
