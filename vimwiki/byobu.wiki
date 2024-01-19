@@ -1,0 +1,6 @@
+= byobu =
+== a frontend for tmux ==
+- _$ yay -S byobu_
+
+* Hotkeys:
+  * F2: Makes new window

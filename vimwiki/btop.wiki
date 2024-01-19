@@ -1,0 +1,3 @@
+= btop =
+== a system resource and task manager ==
+- _$ yay -S btop_

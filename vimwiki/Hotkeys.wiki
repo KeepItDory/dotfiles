@@ -1,0 +1,43 @@
+= Hotkeys =
+== A document of commonly used or currently used hotkeys ==
+
+= Hotkeys =
+
+== Openbox ==
+  * Control + Super + equal |    Pkill or exec polybar
+  * Super + F               |       Fullscreen app
+
+== sxhkd ==
+  * super + control + equal | toggle polybar
+M   * super + control + minus | toggle tint2
+  *   super + shift + equal | toggle picom
+  *   super + shift + equal | toggle btop
+  *             Print       | take screenshot
+  *    super + Delete       | screenshot menu
+  *  super + shift + Delete | Power menu
+  *       Super + e         | thunar
+  *               Super + w | firefox
+  *               super + v | toggle pavucontrol
+  *               super + g | gpick
+  *          Super + Return | kitty
+  *       Super + shift + e | ranger
+
+== tmux / byobu ==
+Should you even be using byobu or just go back to plain tmux? It just seems like a half decent fronteven for Tmux. Half decent at best.
+  * Control + a | Prefix
+  * Prefix + x  | lock-server
+  * Prefix + c  | new window
+  * Prefix + D  | detach
+  * Prefix + n  | next window
+  * Prefix + space | nextwindow
+  * Prefix + p | previous window
+  * Prefix + backspace | previous window
+  * Prefix + A | rename window
+  * Prefix + w | list windows
+  * Prefix + \ | confirm before quit server
+  * Prefix + k | conform before kill window
+  * Prefix + l | refresh client
+  * Prefix + o | next pane
+  * Prefix + | | split window horizontally
+  * Prefix + - | split window vertically
+  * Prefix + t | show a clock

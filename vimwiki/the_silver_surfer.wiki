@@ -1,0 +1,6 @@
+= the_silver_surfer =
+== a blazing fast CLI search tool ==
+- _$ yay -S the_silver_surfer_
+
+* Usage:
+  - ag $FILENAME

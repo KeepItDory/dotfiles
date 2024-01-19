@@ -1,0 +1,6 @@
+= advance-touch =
+== a better version of touch that can make directories, and files, all at once ==
+- _$ pipx install advance-touch--
+
+* Usage:
+  - ad $DIRECTORY/../$FILE
