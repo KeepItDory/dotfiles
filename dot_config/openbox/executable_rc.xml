@@ -165,10 +165,10 @@
 	Many programs reserve space automatically, but you can use this in other
 	cases. -->
   <margins>
-    <top>20</top>
-    <bottom>20</bottom>
-    <left>0</left>
-    <right>0</right>
+    <top>60</top>
+    <bottom>60</bottom>
+    <left>20</left>
+    <right>20</right>
   </margins>
   <dock>
     <position>Bottom</position>
@@ -591,17 +591,7 @@
       </action>
     </keybind>
     <!-- Keybindings for startmenu	-->
-    <keybind key="W-Tab">
-      <action name="Execute">
-        <command>rofi -show drun -kb-cancel 'Control_L+Shift_L+Super_L'</command>
-      </action>
-    </keybind>
-    <keybind key="0xffe1-0xffe3-0xffeb">
-      <action name="Execute">
-        <command>bash ~/.config/rofi/launchers/type-1/launcher.sh</command>
-      </action>
-    </keybind>
-    <keybind key="W-S-Delete">
+    <!-- <keybind key="W-S-Delete">
       <action name="Execute">
         <command>~/.config/rofi/powermenu/type-2/powermenu.sh</command>
       </action>
@@ -610,9 +600,9 @@
       <action name="Execute">
         <command>bash ~/.config/rofi/launchers/type-1/launcher.sh</command>
       </action>
-    </keybind>
+    </keybind> -->
     <!-- Keybindings for running applications -->
-    <keybind key="W-Return">
+    <!-- <keybind key="W-Return">
       <action name="Execute">
         <command>kitty</command>
       </action>
@@ -626,13 +616,13 @@
       <action name="Execute">
         <command>thunar</command>
       </action>
-    </keybind>
-    <keybind key="W-S-e">
+    </keybind> -->
+    <!-- <keybind key="W-S-e">
       <action name="Execute">
         <command>kitty -e ranger</command>
       </action>
-    </keybind>
-    <keybind key="W-g">
+    </keybind> -->
+    <!-- <keybind key="W-g">
       <action name="Execute">
         <command>~/.scripts/gpick</command>
       </action>
@@ -646,9 +636,9 @@
       <action name="Execute">
         <command>pavucontrol</command>
       </action>
-    </keybind>
+    </keybind> -->
     <!-- Take a screenshot, say "Cheeeese!" -->
-    <keybind key="Print">
+    <!-- <keybind key="Print">
       <action name="Execute">
         <command>scrot ~/Pictures/Screenshot-%Y-%m-%d_%H:%M:%S.png</command>
       </action>
@@ -657,9 +647,9 @@
       <action name="Execute">
         <command>~/.config/openbox/scripts/screenshot.sh</command>
       </action>
-    </keybind>
+    </keybind> -->
     <!-- Multimedia keys-->
-    <keybind key="XF86AudioStop">
+    <!-- <keybind key="XF86AudioStop">
       <action name="Execute">
         <command>mpc stop</command>
       </action>
@@ -708,21 +698,16 @@
       <action name="Execute">
         <command>~/.config/openbox/scripts/volume-control toggle</command>
       </action>
-    </keybind>
+    </keybind> -->
     <!-- Reload and Exit keybinds -->
-    <keybind key="W-S-e">
-      <action name="Execute">
-        <command>bash -c ~/.config/rofi/scripts/powermenu.sh</command>
-      </action>
-    </keybind>
     <keybind key="W-S-r">
       <action name="Reconfigure"/>
     </keybind>
-    <keybind key="W-F1">
+    <!-- <keybind key="W-F1">
       <action name="Execute">
         <command>slock</command>
       </action>
-    </keybind>
+    </keybind> -->
   </keyboard>
   <mouse>
     <dragThreshold>1</dragThreshold>

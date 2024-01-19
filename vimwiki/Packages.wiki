@@ -15,6 +15,7 @@
   - [X] [[brasero]]
   - [X] [[breeze-icons]]
   - [X] [[broot]]
+  - [X] calibre
   - [X] [[chezmoi]]
   - [X] [[chirp-next]]
   - [X] [[ckb-next]]
@@ -36,9 +37,11 @@
   - [X] [[etcher-bin]]
   - [X] [[electron11-bin]]
   - [X] [[emacs]]
+  - [X] espeak-ng
   - [X] [[fetchcord]]
   - [X] [[flaresolverr]]
   - [X] ffmpeg
+  - [X] fesitval
   - [X] [[filelight]]
   - [X] flake8
   - [X] [[firefox]]
@@ -120,6 +123,7 @@
   - [X] mpg123libva
   - [X] [[mpv]]
   - [X] mullvad-vpn-bin
+  - [X] navi
   - [X] [[ncmpcpp]]
   - [X] ncurses
   - [X] [[neofetch]]
@@ -192,9 +196,10 @@
   - [X] sqlite
   - [X] [[syncthing]]
   - [X] terminus-font
+  - [X] thefuck
   - [X] thunderbird
   - [X] tmatrix-git
-  - [X] tmux
+  - [X] [[tmux]]
   - [X] tint2
   - [X] [[the_silver_surfer]]
   - [X] [[timeshift]]
@@ -213,6 +218,7 @@
   - [X] ttf-iosevka-nerd
   - [X] tuifimanager
   - [X] siji-ttf
+  - [X] speech-dispatcher
   - [X] udisks2
   - [X] unarchiver
   - [X] [[uwufetch]]

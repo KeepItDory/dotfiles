@@ -62,79 +62,79 @@
 
   * Setup guide
   
-    - [ ] Install [[Packages]]
-      - [ ] Install [[yay]] first
+    - [X] Install [[Packages]]
+      - [X] Install [[yay]] first
 
     - [ ] Setup [[tdrop]]
 
-    - [ ] Start bluetooth service
+    - [X] Start bluetooth service
       - Run the following commands:
         _$ systemctl start bluetooth.service_
         _$ systemctl enable bluetooth.service_
 
-    - [ ] Automount drives
+    - [X] Automount drives
       - Install [[gnome-disk-utility]] if you haven't already and use it
 
-    - [ ] Setup DooM Emacs
-      - [ ] Install [[emacs]]
-      - [ ] Install doom-emacs
+    - [X] Setup DooM Emacs
+      - [X] Install [[emacs]]
+      - [X] Install doom-emacs
         - Run the following commands:
           _$ git clone --depth 1 https://github.com/doomemacs/doomemacs_
           _$ ~/.emacs.d ~/.emacs.d/bin/doom install_
-      - [ ] Autostart Emacs Daemon
+      - [X] Autostart Emacs Daemon
         - add this command to your autostart
           _/usr/bin/emacs --daemon_
-      - [ ] Edit your bashrc or zshrc or fish.config
+      - [X] Edit your bashrc or zshrc or fish.config
         - add these lines to your .bashrc or .zshrc or fish.config
           _export PATH="$HOME/.emacs.d/bin:$PATH"
           alias emacs="emacsclient -c -a 'emacs'"_
 
-    - [ ] VPN Setup
-      - [ ]  [[protonvpn]] Setup
-        - [ ] Install [[protonvpn]]
-      - [ ] MullvadVPN Setup
-        - [ ] Install MullvadVPN
-        - [ ] Add MullvadVPN to autostart
+    - [X] VPN Setup
+      - [X]  [[protonvpn]] Setup
+        - [X] Install [[protonvpn]]
+      - [X] MullvadVPN Setup
+        - [X] Install MullvadVPN
+        - [X] Add MullvadVPN to autostart
 
-    - [ ] Setup [[qbittorrent]]
-      - [ ] Make sure [[qbittorrent]] only downloads through VPN tunnel
+    - [X] Setup [[qbittorrent]]
+      - [X] Make sure [[qbittorrent]] only downloads through VPN tunnel
         - Check advanced settings. Should be one of the first options
-      - [ ] Set default save path to _/mnt/Togapi/Downloads/_
-      - [ ] Set Copy .torrent file to _/mnt/Togapi/Downloads/Torrents/_
+      - [X] Set default save path to _/mnt/Togapi/Downloads/_
+      - [X] Set Copy .torrent file to _/mnt/Togapi/Downloads/Torrents/_
 
-    - [ ] Setup [[ckb-next]]
-      - [ ] Install ckb-next
-      - [ ] Start ckb-next daemon
+    - [X] Setup [[ckb-next]]
+      - [X] Install ckb-next
+      - [X] Start ckb-next daemon
         - Run the following commands:
           _$ systemctl start ckb-next-daemon
           $ systemctl enable ckb-next-daemon_
 
-    - [ ] Setup steam
+    - [X] Setup steam
       - install [[steam-native-runtime]]
-      - [ ] Set the following options
+      - [X] Set the following options
         - Set interface to normal
         - Add drives to library
         - Set interface to show URL
         - Allow downloads during gameplay
 
-    - [ ] Setup [[smplayer]]
-      - [ ] Go to Preferences/Interface and set skin to BASIC gui, breeze icons, and default style
+    - [X] Setup [[smplayer]]
+      - [X] Go to Preferences/Interface and set skin to BASIC gui, breeze icons, and default style
 
-    - [ ] Setup [[noisetorch]]
-      - [ ] Add [[noisetorch]] to autostart
+    - [X] Setup [[noisetorch]]
+      - [X] Add [[noisetorch]] to autostart
 
-    - [ ] Setup Pipewire
-      - [ ] Copy /usr/share/pipewire/pipewire.conf to ~/.config/pipewire/ and/or /etc/pipewire/client-rt.conf.d/
-      - [ ] Change ?.min-quantum  to 512
+    - [X] Setup Pipewire
+      - [X] Copy /usr/share/pipewire/pipewire.conf to ~/.config/pipewire/ and/or /etc/pipewire/client-rt.conf.d/
+      - [X] Change ?.min-quantum  to 512
 
-    - [ ] Setup [[discord]]
-      - [ ] Install [[discord]]
-      - [ ] Install [[discord-canary]]
-      - [ ] Install BetterDiscord
+    - [X] Setup [[discord]]
+      - [X] Install [[discord]]
+      - [X] Install [[discord-canary]]
+      - [X] Install BetterDiscord
         - $ yay -S betterdiscord-installer
-      - [ ] Install [[vencord]]
+      - [X] Install [[vencord]]
         - Vencord allows streaming audio! Its also compatible with all Discord branches and BetterDiscord!
-      - [ ] Install linux-discord-rich-presence
+      - [X] Install linux-discord-rich-presence
         - then add _linux-discord-rich-presence -c ~/.config/linux-discord-rich-presencerc_ to your autostart script('s)
 
     - [X] Install fonts
@@ -220,7 +220,7 @@
            display: none !important;
            }
 
-    - [O] Setup CoreCtrl
+    - [X] Setup CoreCtrl
       - [X] Install CoreCtrl
       - [X] Set Global settings profile
         - Set GPU to max power limit and GPU and Memory clocks
@@ -234,11 +234,11 @@
       - [X] Install all Icons, Cursors and Fonts
         - In the design tab
 
-    - [O] Setup Email
+    - [X] Setup Email
       - [X] Make sure protonmail-bridge package is installed
         - yay -S protonmail-bridge secret-service
         - If keyring not working try installing gnome-keyring
-      - [o] Setup Thunderbird
+      - [X] Setup Thunderbird
         - [X] Add gmail
         - [X] Add protonmail
 
@@ -398,13 +398,13 @@
           }
         - Uncomment pulse audio_output
         - Add this follow audio output
-          _#
-          # Pipewire support
-          #
-          audio_output _{
+         #
+         # Pipewire support
+         #
+         audio_output {
            type            "pipewire"
            name            "Pipewire Sound Server"
-          }_
+         }
 
       - [X] Start MPD daemon
         - systemctl --user enable mpd.service
@@ -472,11 +472,11 @@
           Use Arch Linux Tweak Tool to install fish and run scripts like it says
       - [X] Add neofetch to .rc file
         - $ neofetch &
-      - [ ] Combine Alacritty and Tmux
-        - add the following lines to your .bashrc or .zshrc file preferably after your fetch
+      - [ ] Combine your shell and byobu
+        - add the following lines to your .bashrc, .zshrc and/or fish.config file preferably after your fetch
           _byobu &_
         
-    - [ ] Setup Pywal
+    - [O] Setup pywal
       - And by Pywal we mean WPGTK
       - [X] Set varaiety set wallpaper script to use pywal scripts
         - add this line to ~/.config/varaiety/scripts/set_wallpaper
@@ -522,33 +522,44 @@
         - Check wpg in terminal for why template('s) are not updating. FRUSTRATING
       - [X] Setup pywal for tint2
       - [?] Setup pywal for ROFI
-        - For some reason adi1090x's color schemes wont updateclear &&
+        - For some reason adi1090x's color schemes wont update
+      - [ ] Setup jgmenu for pywal
 
     - [.] Setup [[jgmenu]]
       - [X] Install jgmenu
         - $ yay -S jgmenu
       - [ ] Configure jgmenu for pywal
 
-    - [ ] Setup Calibre ebook manager
+    - [O] Setup Calibre ebook manager
+      - [X] Install calibre
+        - _$ yay -S calibre_
+      - [o] Configure Calibre
+        - [X] Add books
+        - [X] Download Metadata
 
     - [X] Setup yazi
       - [X] Install [[yazi]]
       - [X] Configure yazi
         - [X] Copy default config files keymap.toml, theme.toml, and yaz.toml over to _~/.config/yazi/_
 
-    - [ ] Setup [[btop]]
+    - [X] Setup [[btop]]
+      - [X] Install btop
+        - _$ yay -S btop_
+      - [X] Configure btop
     
     - [ ] Setup [[sxhkd]]
       - Move hotkeys over to sxhkd, less need for other hotkey daemons
 
     - [ ] Setup moviemon alias
 
-    - [o] Setup [[byobu]]
+    - [X] Setup [[byobu]]
       - [X] Install byobu
-        - _$ yay -S [[byobu_]]
-      - [ ] Configure byobu
-        - [ ] Improve keybinds
+        - _$ yay -S byobu_
+      - [X] Configure byobu
+        - [X] Improve keybinds
           - Is there a prefix? Its annoying having byobu take over so many other vim keybinds
+          - Byobu's F keybinds can be disabled by changing config file tmux in /usr/share/byobu/profiles/
+          - Change byobu keybinds to f-keys.tmux.disable
     
     - [X] Setup ansiweather
       - [X] Install ansiweather

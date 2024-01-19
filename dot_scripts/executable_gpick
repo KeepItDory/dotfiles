@@ -1,0 +1,9 @@
+#!/bin/bash
+# This script allows to usage of gpick without having gpick continuously run in the background.
+# This is achieved by running gpick, copying the color to the clipboard and then killing gpick
+
+(gpick -p &)
+pid=$(pidof gpick)
+sleep 5
+xclip -se c -o | xclip -i -se c -l 1
+kill $pid

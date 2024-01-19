@@ -1,3 +1,45 @@
 # negative -w arg to account for the border width (default 100%)
 super + t
     tdrop -ma -w 80% -h 40% -x 384 -y "$PANEL_HEIGHT" -s dropdown alacritty
+# control + {minus, equal}
+#     variety -{p, n}
+super + control + equal
+      {pkill polybar, exec ~/.config/polybar/launch.sh --blocks}
+super + control + minus
+      {pkill tint2,  pasystray & tint2}
+super + shift + equal
+      {pkill picom, picom}
+super + shift + minus
+      {kitty -e btop &, pkill btop}
+Print
+      scrot ~/Pictures/Screenshot-%Y-%m-%d_%H:%M:%S.png
+super + shift + Delete
+      bash ~/.config/rofi/powermenu/type-1/powermenu.sh
+super + space
+      bash ~/.config/rofi/launchers/type-1/launcher.sh
+super + {Return, w, e, g, Delete, F1}
+      {kitty, firefox, thunar, bash ~/.scripts/gpick, bash ~/.config/rofi/applets/bin/screenshot.sh, slock}
+super + v
+      {pavucontrol | pkill pavucontrol}
+super + shift + e
+      kitty -e ranger
+XF86AudioStop
+      mpc stop
+XF86AudioPlay
+      mpc toggle
+super + XF86AudioPlay
+      bash ~/.config/rofi/applets/bin/volume.sh
+XF86AudioPrev
+      mpc prev
+XF86AudioNext
+      mpv next
+XF86MonBrightnessDown
+      ~/.config/openbox/scripts/brightness-control down
+XF86MonBrightnessUp
+      ~/.config/openbox/scripts/brightness-control up
+XF86AudioRaiseVolume
+      ~/.config/openbox/scripts/volume-control up
+XF86AudioLowerVolume
+      ~/.config/openbox/scripts/volume-control down
+XF86AudioMute
+      ~/.config/openbox/scripts/volume-control toggle

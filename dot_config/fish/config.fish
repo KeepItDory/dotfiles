@@ -554,7 +554,12 @@ alias bb="bb -driver slang -loop"
 alias polybar="~/.config/polybar/launch.sh"
 alias blockbar="~/.config/polybar/launch.sh --blocks"
 
+# wpg, wtf dis do again? Google and make wiki
 cat ~/.config/wpg/sequences
+
+# THE FUCK!?!! FUCK!!!!
+eval $(thefuck --alias FUCK)
+
 clear
 
 # reporting tools - install when not installed
@@ -613,3 +618,6 @@ set fish_color_search_match --background="#60AEFF"
 # neofetch &
 
 byobu
+
+
+thefuck --alias | source

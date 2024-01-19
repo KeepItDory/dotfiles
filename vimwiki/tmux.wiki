@@ -22,3 +22,5 @@
   | tmux attach -t *#/*session-name*         | Attach session *number OR *session-name* |
   | tmux new -s *session-name*               | New session                              |
   | tmux rename-session -t *# *session-name* | Rename a session                         |
+
+- [[tmux-vim-bindings]]

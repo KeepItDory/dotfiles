@@ -26,6 +26,7 @@ sh ~/.screenlayout/monitor.sh &
 /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 &
 
 # Wallpaper
+# Removed for variety and feh
 #nitrogen --restore &
 
 # Low battery notifier
@@ -68,3 +69,9 @@ glava --desktop &
 
 # Pulseaudio system tray
 pasystray &
+
+# hotkey daemon
+sxhkd &
+
+#corectrl
+corectrl &

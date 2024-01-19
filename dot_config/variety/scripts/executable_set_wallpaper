@@ -222,8 +222,8 @@ if [[ " ${SIMPLE_WMS[*]} " = *" $XDG_CURRENT_DESKTOP "* || " ${SIMPLE_WMS[*]} " 
 		feh --bg-fill "$WP" 2>/dev/null
 		wpg -A $1
 		wpg -s $1
-		pywal-discord -t default -p ~/.config/VencordDesktop/VencordDesktop/themes/
-		pywal-discord -t abou -p ~/.config/VencordDesktop/VencordDesktop/themes/
+		pywal-discord -t default -p ~/.config/vesktop/themes/
+		pywal-discord -t abou -p ~/.config/vesktop/themes/
 		pywalfox update
 		pkill glava
 		glava
