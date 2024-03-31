@@ -1,0 +1,3 @@
+= vesktop =
+== custom discord client ==
+- _$ yay -S vesktop_

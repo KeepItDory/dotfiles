@@ -1,0 +1,3 @@
+= speedtest-cli =
+== a cli tool for checking speedtest ==
+- _$ yay -S speedtest-cli_

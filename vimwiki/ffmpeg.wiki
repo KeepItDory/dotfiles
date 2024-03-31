@@ -1,0 +1,3 @@
+= ffmpeg =
+== An open source software collection of librariesfor handing video, audio, and other multimedia ==
+- _$ yay -S ffmpeg_

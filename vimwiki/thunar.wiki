@@ -1,0 +1,4 @@
+= thunar =
+== a lightweight GUI file manager ==
+
+- _$ yay -S thunar_

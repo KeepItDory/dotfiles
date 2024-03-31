@@ -1,0 +1,3 @@
+= ansiweather =
+== a cli tool for checking weather ==
+- _$ yay -S ansiweather_

@@ -1,0 +1,3 @@
+= easyeffects =
+== A limiter, compressor, convolver, equalizer, auto volume and many other plugins for pipewire ==
+- _$ yay -S easyeffects_

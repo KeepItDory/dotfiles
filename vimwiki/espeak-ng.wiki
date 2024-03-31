@@ -1,0 +1,3 @@
+= espeak-ng =
+== a opensource speech synthesizer that supports more than hundred languages and accents ==
+- _$ yay -S espeak-ng_

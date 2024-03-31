@@ -1,0 +1,4 @@
+= navi =
+== navi is a terminal application which lets you execute one-liners from cheat sheets ==
+
+

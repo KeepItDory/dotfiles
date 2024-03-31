@@ -1,0 +1,3 @@
+= festival =
+== an opensource speech synthesizer ==
+- _$ yay -S festival_

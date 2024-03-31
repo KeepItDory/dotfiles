@@ -1,0 +1,3 @@
+= sl =
+== STOP TYPING LS! ==
+- _$ yay -S sl_

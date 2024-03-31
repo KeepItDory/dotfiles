@@ -37,10 +37,10 @@ sh ~/.screenlayout/monitor.sh &
 /usr/bin/emacs --daemon &
 
 # Start Corsair driver
-ckb-next &
+# ckb-next &
 
 # Launch discord overlay
-discord-overlay &
+discover-overlay &
 
 # start wallpaper manager
 variety &
@@ -73,5 +73,5 @@ pasystray &
 # hotkey daemon
 sxhkd &
 
-#corectrl
+# corectrl
 corectrl &

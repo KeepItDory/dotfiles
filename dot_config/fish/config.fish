@@ -553,6 +553,9 @@ alias undopush "git push -f origin HEAD^:master"
 alias bb="bb -driver slang -loop"
 alias polybar="~/.config/polybar/launch.sh"
 alias blockbar="~/.config/polybar/launch.sh --blocks"
+alias discord="discord --ignore-gpu-blocklist --disable-features=UseOzonePlatform --enable-features=VaapiVideoDecoder --use-gl=desktop --enable-gpu-rasterization --enable-zero-copy"
+alias discord-canary="discord-canary --ignore-gpu-blocklist --disable-features=UseOzonePlatform --enable-features=VaapiVideoDecoder --use-gl=desktop --enable-gpu-rasterization --enable-zero-copy"
+alias vesktop="vesktop --ignore-gpu-blocklist --disable-features=UseOzonePlatform --enable-features=VaapiVideoDecoder --use-gl=desktop --enable-gpu-rasterization --enable-zero-copy"
 
 # wpg, wtf dis do again? Google and make wiki
 cat ~/.config/wpg/sequences
@@ -617,7 +620,7 @@ set fish_color_search_match --background="#60AEFF"
 # clear &
 # neofetch &
 
-byobu
-
+# byobu
 
 thefuck --alias | source
+starship init fish | source

@@ -7,29 +7,33 @@
   * Basic system layout
     - OS Arch Based Endeavour OS
     - Window manager: openbox and hyprland
-    - Terminal: alacritty & kitty w/ tmux & byobu
-    - Compositor: Picom
-    - File Manager: thunar, ranger & yazi
-    - Text Editor: nvim (lazynvim distro), doom emacs, & geany
-    - System Monitor: bashtop, btop
+    - Terminal: [[alacritty]] & [[kitty]] w/ tmux & byobu
+    - Compositor: [[picom]]
+    - File Manager: [[thunar]], [[ranger]] & yazi
+    - Text Editor: nvim (lazynvim distro), doom emacs, & lite xl
+    - System Monitor: [[bashtop]], [[btop]]
     - VPN: proton vpn, mullvanVPN
-    - Clipboard: gpaste
-    - Logout: rofi
-    - Application Launcher: rofi
-    - Panel: tint2
-    - Music Player: mpd w/ ncmpcpp as client
+    - Clipboard: [[gpaste]]
+    - Logout: [[rofi]]
+    - Application Launcher: [[rofi]]
+    - Panel: [[tint2]]
+    - Music Player: [[mpd]] w/ [[ncmpcpp]] as client
     - Media Player: mpv
     - Backgrounds by: variaty
-    - Bar: polybar
+    - Bar: [[polybar]]
     - Colors: [[pywal]] and wpgtk (currently using colorz backend, imagemagick seems to be broken for pywal)
 
   * Hyprland
     * Applications
-      - Browser Firefox
-      - Terminal Kitty or Alacritty
-      - File Manager Thunar / Ranger / Yazi
-      - Misc Apps
-      - Hyprpick colorpicker
+      - Bar: [[waybar]]
+      - Application Launcher: wofi
+      - Browser: [[firefox]]
+      - Terminal: [[kitty]] or [[alacritty]]
+      - File Manager: [[thunar]] / [[ranger]] / yazi
+      - Lockscreen: [[swaylock]] / swaylock-effects
+      - Logout: wlogout
+      - Misc Apps:
+        - Hyprpick colorpicker
     * Hotkeys
         | Windows / Session Actions  |                              |
         | Action                     | Hotkey                       |

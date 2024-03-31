@@ -1,0 +1,6 @@
+= xcape =
+== a hotkey tool ==
+
+- _$ yay -S xcape_
+
+Honestly, not as good as sxhkd, as far as I can see.

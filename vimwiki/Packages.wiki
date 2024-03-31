@@ -2,20 +2,20 @@
 == List of packages for Ki's arch system ==
 - Package list
   - [X] [[alacritty]]
-  - [ ] [[advance-touch]]
+  - [X] [[advance-touch]]
   - [X] [[alacritty]] themes
-  - [X] ansiweather
-  - [X] alsa-plugins
+  - [X] [[ansiweather]]
+  - [X] [[alsa-plugins]]
   - [X] [[archlinus-tweak-tool-git]]
   - [X] [[awesome-terminal-fonts]]
   - [X] [[bashtop]]
   - [X] [[blueman]]
-  - [X] broot
-  - [ ] [[btop]]
+  - [X] [[broot]]
+  - [X] [[btop]]
   - [X] [[brasero]]
   - [X] [[breeze-icons]]
   - [X] [[broot]]
-  - [X] calibre
+  - [X] [[calibre]]
   - [X] [[chezmoi]]
   - [X] [[chirp-next]]
   - [X] [[ckb-next]]
@@ -24,36 +24,38 @@
   - [X] conky
   - [X] conky-manager2-git
   - [X] [[corectrl]]
-  - [X] cryptocoins-git
-  - [X] cuff-git
+  - [X] [[cryptocoins-git]]
+  - [X] [[cuff-git]]
   - [X] [[darktable]]
   - [X] [[digikam]]
   - [X] [[discord-canary]]
   - [X] [[discord]]
   - [X] [[discover-overlay-git]]
   - [X] [[dmenu]]
-  - [X] docker
+  - [X] [[docker]]
   - [X] [[downgrade]]
   - [X] [[etcher-bin]]
   - [X] [[electron11-bin]]
   - [X] [[emacs]]
-  - [X] espeak-ng
+  - [X] [[easyeffects]]
+  - [X] [[espeak-ng]]
   - [X] [[fetchcord]]
   - [X] [[flaresolverr]]
-  - [X] ffmpeg
-  - [X] fesitval
+  - [X] [[ffmpeg]]
+  - [X] [[fesitval]]
   - [X] [[filelight]]
-  - [X] flake8
+  - [X] [[flake8]]
   - [X] [[firefox]]
   - [X] [[flameshot]]
-  - [X] font-manager
+  - [X] [[fnm]]
+  - [X] [[font-manager]]
   - [X] [[gamemode]]
-  - [X] gamescope
-  - [X] [[geany]]
+  - [X] [[gamescope]]
   - [X] [[glava]]
   - [X] [[gpaste]]
   - [X] [[gnome-disk-utility]]
-  - [X] gnome-keyring
+  - [X] gnome-k
+  - [ ] eyring
   - [X] geoip
   - [X] geoip-database
   - [X] geoip-database-extra
@@ -62,9 +64,12 @@
   - [X] [[googler-git]]
   - [X] gnutls
   - [X] [[gparted]]
+  - [X] glibc-eac
   - [X] [[gpick]]
   - [X] gtk3
   - [X] gst-plugins-base-libs
+  - [X] [[hyprland]]
+  - [X] hyprpicker
   - [X] [[htop]]
   - [X] hw-probe
   - [X] jackett
@@ -111,19 +116,20 @@
   - [X] [[lightdm-settings]]
   - [X] linux-discord-rich-presence
   - [X] lm_sensors
+  - [X] [[lshw]]
   - [X] [[lutris]]
   - [X] [[lxrandr]]
   - [X] [[mesa]]
-  - [X] maim
+  - [X] [[maim]]
   - [X] mesa-vdpau
   - [X] mangohud
   - [X] [[minecraft-launcher]]
-  - [X] mpc
-  - [X] mpd
+  - [X] [[mpc]]
+  - [X] [[mpd]]
   - [X] mpg123libva
   - [X] [[mpv]]
   - [X] mullvad-vpn-bin
-  - [X] navi
+  - [X] [[navi]]
   - [X] [[ncmpcpp]]
   - [X] ncurses
   - [X] [[neofetch]]
@@ -133,46 +139,48 @@
   - [X] [[no-more-secrets]]
   - [X] nmap
   - [X] [[noisetorch]]
-  - [X] NO nvidia-dkms
-  - [X] NO nvidia-settings
   - [X] [[neovim]]
+  - [X] noto-fonts-emoji
   - [X] [[nvtop]]
   - [X] ntp
   - [X] [[obapps3]]
   - [X] [[obs-studio]]
   - [X] obsidian
   - [X] obsidian-icon-theme
-  - [X] onefetch
+  - [X] [[onefetch]]
   - [X] [[okular]]
   - [X] openal
   - [X] opencl-icd-loader
-  - [X] openshot
+  - [X] [[openshot]]
   - [X] openresolv
   - [X] [[os-prober]]
   - [X] papis
+  - [X] pasystray-wayland
+  - [X] pciutils
   - [X] powerline-fonts
   - [X] powerline-console-fonts
   - [X] [[prismlauncher]]
   - [X] [[proton-ge-custom]]
   - [X] poppler
-  - [X] protondb-tags
+  - [X] [[protondb-tags]]
   - [X] [[protontricks]]
-  - [X] [[protonup-qt]]
-  - [X] protonutils
+  - [X] [[protonup-git]]
+  - [X] [[protonutils]]
   - [X] pnputils
   - [X] [[protonmail-bridge]]
   - [X] [[protonvpn]]
-  - [X] playerctl
+  - [X] [[playerctl]]
   - [X] [[polybar]]
   - [X] python-pycurl
   - [X] [[python-pywal]]
   - [X] [[python-pywalfox]]
   - [X] python-pip
+  - [X] python-nautilus
   - [X] [[qbittorrent]]
   - [X] qomui
   - [X] qt5ct
   - [X] qrencode
-  - [X] radeontop
+  - [X] [[radeontop]]
   - [X] [[ranger]]
   - [X] [[realvnc-vnc-viewer]]
   - [X] [[ripgrep]]
@@ -183,24 +191,27 @@
   - [X] [[rofimoji]]
   - [X] sc-controller
   - [X] simple-mtpfs
-  - [X] sl
+  - [X] [[sl]]
+  - [X] scdoc
   - [X] [[sxhkd]]
   - [X] [[smplayer]]
   - [X] [[smplayer-themes]]
   - [X] [[smplayer-skins]]
-  - [X] speedtest-cli
-  - [X] stacer
-  - [X] steam
-  - [X] steamcmd
+  - [X] [[speedtest-cli]]
+  - [X] [[steam]]
+  - [X] [[steamcmd]]
   - [X] steam-native-runtime
   - [X] sqlite
   - [X] [[syncthing]]
+  - [X] swaylock-effects
+  - [X] speech-dispatcher
+  - [ ] swww
   - [X] terminus-font
-  - [X] thefuck
-  - [X] thunderbird
+  - [X] [[thefuck]]
+  - [X] [[thunderbird]]
   - [X] tmatrix-git
   - [X] [[tmux]]
-  - [X] tint2
+  - [X] [[tint2]]
   - [X] [[the_silver_surfer]]
   - [X] [[timeshift]]
   - [X] ttf-ancient-fonts
@@ -218,29 +229,32 @@
   - [X] ttf-iosevka-nerd
   - [X] tuifimanager
   - [X] siji-ttf
-  - [X] speech-dispatcher
   - [X] udisks2
   - [X] unarchiver
   - [X] [[uwufetch]]
   - [X] [[variety]]
-  - [X] vencord
+  - [X] [[vesktop]]
   - [X] v4l-utils
   - [X] v4l2loopback-dkms
   - [X] vulkan-icd-loader
   - [X] waterfox-g4-bin
-  - [X] webtorrent-cli
+  - [X] [[waybar]]
+  - [X] [[webtorrent-cli]]
   - [X] weechat
   - [X] weechat-matrix-git
+  - [X] wezterm
   - [X] weechat-emoji-git
   - [X] wine-staging
-  - [X] wireguard-dkms
+  - [X] [[wireguard-dkms]]
   - [X] wireguard-tools
   - [X] w3m
   - [X] w3m-imgcat
+  - [X] wf-recorder
+  - [X] wofi
   - [X] wpgtk
   - [X] xclip
   - [X] xidel
-  - [X] xcape
+  - [X] [[xcape]]
   - [X] xdotool
   - [X] xboxdrv
   - [X] xorg-server-devel
@@ -249,6 +263,8 @@
   - [X] xorg-xev
   - [X] xsel
   - [X] xarchiver
+  - [X] xdg-desktop-portal-gtk
+  - [X] xdg-desktop-portal-hyprland
   - [X] yay
   - [X] yazi
   - [X] yt-dlp

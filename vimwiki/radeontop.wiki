@@ -1,0 +1,3 @@
+= radeontop =
+== a cli tool for monitoring your GPU ==
+- _$ yay -S radeontop_

@@ -1,7 +1,7 @@
 <configuration version="37">
     <folder id="2ocnq-q9eud" label="Books" path="/mnt/Togapi/Downloads/Documents/Books/" type="sendreceive" rescanIntervalS="3600" fsWatcherEnabled="true" fsWatcherDelayS="10" ignorePerms="false" autoNormalize="true">
         <filesystemType>basic</filesystemType>
-        <device id="MREJZQ4-J3BOCXN-K3QWLT6-CQUB7JM-C5LXP7U-R6ISLBN-BO6D52N-E4SQIQH" introducedBy="Y6BFNC4-TRQX3N7-62EDWWX-3ZF66NH-ZVBZ7LN-747QIEI-2UP3MCW-X4P2PQA">
+        <device id="NHNJFV5-JH57BK2-6EUYAJL-X65CEJ5-VFDIOJO-CXXZQYE-LCZI2ST-Y7F7SQI" introducedBy="NHNJFV5-JH57BK2-6EUYAJL-X65CEJ5-VFDIOJO-CXXZQYE-LCZI2ST-Y7F7SQI">
             <encryptionPassword></encryptionPassword>
         </device>
         <device id="X2KAYTO-TOEDZUW-DQYNA2A-BQX3XKA-ZZAFU7T-HDV4F3H-7O6G5Y7-QLDXQAE" introducedBy="">
@@ -87,103 +87,12 @@
             <maxTotalSize>4096</maxTotalSize>
         </xattrFilter>
     </folder>
-    <folder id="k5trq-6dhte" label="Tablet" path="/mnt/Togapi/Downloads/Sync/Tablet/" type="sendreceive" rescanIntervalS="3600" fsWatcherEnabled="true" fsWatcherDelayS="10" ignorePerms="false" autoNormalize="true">
-        <filesystemType>basic</filesystemType>
-        <device id="X2KAYTO-TOEDZUW-DQYNA2A-BQX3XKA-ZZAFU7T-HDV4F3H-7O6G5Y7-QLDXQAE" introducedBy="">
-            <encryptionPassword></encryptionPassword>
-        </device>
-        <device id="Y6BFNC4-TRQX3N7-62EDWWX-3ZF66NH-ZVBZ7LN-747QIEI-2UP3MCW-X4P2PQA" introducedBy="">
-            <encryptionPassword></encryptionPassword>
-        </device>
-        <minDiskFree unit="%">1</minDiskFree>
-        <versioning>
-            <cleanupIntervalS>3600</cleanupIntervalS>
-            <fsPath></fsPath>
-            <fsType>basic</fsType>
-        </versioning>
-        <copiers>0</copiers>
-        <pullerMaxPendingKiB>0</pullerMaxPendingKiB>
-        <hashers>0</hashers>
-        <order>random</order>
-        <ignoreDelete>false</ignoreDelete>
-        <scanProgressIntervalS>0</scanProgressIntervalS>
-        <pullerPauseS>0</pullerPauseS>
-        <maxConflicts>10</maxConflicts>
-        <disableSparseFiles>false</disableSparseFiles>
-        <disableTempIndexes>false</disableTempIndexes>
-        <paused>false</paused>
-        <weakHashThresholdPct>25</weakHashThresholdPct>
-        <markerName>.stfolder</markerName>
-        <copyOwnershipFromParent>false</copyOwnershipFromParent>
-        <modTimeWindowS>0</modTimeWindowS>
-        <maxConcurrentWrites>2</maxConcurrentWrites>
-        <disableFsync>false</disableFsync>
-        <blockPullOrder>standard</blockPullOrder>
-        <copyRangeMethod>standard</copyRangeMethod>
-        <caseSensitiveFS>false</caseSensitiveFS>
-        <junctionsAsDirs>false</junctionsAsDirs>
-        <syncOwnership>false</syncOwnership>
-        <sendOwnership>false</sendOwnership>
-        <syncXattrs>false</syncXattrs>
-        <sendXattrs>false</sendXattrs>
-        <xattrFilter>
-            <maxSingleEntrySize>1024</maxSingleEntrySize>
-            <maxTotalSize>4096</maxTotalSize>
-        </xattrFilter>
-    </folder>
-    <folder id="sm-g973u_b9dq-photos" label="Camera" path="/mnt/Togapi/Downloads/Photos/Phone Photos/" type="sendreceive" rescanIntervalS="3600" fsWatcherEnabled="true" fsWatcherDelayS="10" ignorePerms="false" autoNormalize="true">
+    <folder id="sm-g973u_b9dq-photos" label="Camera" path="/mnt/Togapi/Downloads/Photos/Phone Photos" type="receiveonly" rescanIntervalS="3600" fsWatcherEnabled="true" fsWatcherDelayS="10" ignorePerms="false" autoNormalize="true">
         <filesystemType>basic</filesystemType>
         <device id="NHNJFV5-JH57BK2-6EUYAJL-X65CEJ5-VFDIOJO-CXXZQYE-LCZI2ST-Y7F7SQI" introducedBy="">
             <encryptionPassword></encryptionPassword>
         </device>
         <device id="X2KAYTO-TOEDZUW-DQYNA2A-BQX3XKA-ZZAFU7T-HDV4F3H-7O6G5Y7-QLDXQAE" introducedBy="">
-            <encryptionPassword></encryptionPassword>
-        </device>
-        <minDiskFree unit="%">1</minDiskFree>
-        <versioning>
-            <cleanupIntervalS>3600</cleanupIntervalS>
-            <fsPath></fsPath>
-            <fsType>basic</fsType>
-        </versioning>
-        <copiers>0</copiers>
-        <pullerMaxPendingKiB>0</pullerMaxPendingKiB>
-        <hashers>0</hashers>
-        <order>random</order>
-        <ignoreDelete>false</ignoreDelete>
-        <scanProgressIntervalS>0</scanProgressIntervalS>
-        <pullerPauseS>0</pullerPauseS>
-        <maxConflicts>10</maxConflicts>
-        <disableSparseFiles>false</disableSparseFiles>
-        <disableTempIndexes>false</disableTempIndexes>
-        <paused>false</paused>
-        <weakHashThresholdPct>25</weakHashThresholdPct>
-        <markerName>.stfolder</markerName>
-        <copyOwnershipFromParent>false</copyOwnershipFromParent>
-        <modTimeWindowS>0</modTimeWindowS>
-        <maxConcurrentWrites>2</maxConcurrentWrites>
-        <disableFsync>false</disableFsync>
-        <blockPullOrder>standard</blockPullOrder>
-        <copyRangeMethod>standard</copyRangeMethod>
-        <caseSensitiveFS>false</caseSensitiveFS>
-        <junctionsAsDirs>false</junctionsAsDirs>
-        <syncOwnership>false</syncOwnership>
-        <sendOwnership>false</sendOwnership>
-        <syncXattrs>false</syncXattrs>
-        <sendXattrs>false</sendXattrs>
-        <xattrFilter>
-            <maxSingleEntrySize>1024</maxSingleEntrySize>
-            <maxTotalSize>4096</maxTotalSize>
-        </xattrFilter>
-    </folder>
-    <folder id="sm-p200_nxgs-photos" label="Camera" path="/mnt/Togapi/Downloads/Documents/Photos" type="sendreceive" rescanIntervalS="3600" fsWatcherEnabled="true" fsWatcherDelayS="10" ignorePerms="false" autoNormalize="true">
-        <filesystemType>basic</filesystemType>
-        <device id="NHNJFV5-JH57BK2-6EUYAJL-X65CEJ5-VFDIOJO-CXXZQYE-LCZI2ST-Y7F7SQI" introducedBy="">
-            <encryptionPassword></encryptionPassword>
-        </device>
-        <device id="X2KAYTO-TOEDZUW-DQYNA2A-BQX3XKA-ZZAFU7T-HDV4F3H-7O6G5Y7-QLDXQAE" introducedBy="">
-            <encryptionPassword></encryptionPassword>
-        </device>
-        <device id="Y6BFNC4-TRQX3N7-62EDWWX-3ZF66NH-ZVBZ7LN-747QIEI-2UP3MCW-X4P2PQA" introducedBy="">
             <encryptionPassword></encryptionPassword>
         </device>
         <minDiskFree unit="%">1</minDiskFree>
@@ -224,6 +133,9 @@
     </folder>
     <folder id="x9rcf-dqqvr" label="KeePass" path="/mnt/Togapi/Downloads/Documents/Backups/Kee/" type="sendreceive" rescanIntervalS="3600" fsWatcherEnabled="true" fsWatcherDelayS="10" ignorePerms="false" autoNormalize="true">
         <filesystemType>basic</filesystemType>
+        <device id="NHNJFV5-JH57BK2-6EUYAJL-X65CEJ5-VFDIOJO-CXXZQYE-LCZI2ST-Y7F7SQI" introducedBy="NHNJFV5-JH57BK2-6EUYAJL-X65CEJ5-VFDIOJO-CXXZQYE-LCZI2ST-Y7F7SQI">
+            <encryptionPassword></encryptionPassword>
+        </device>
         <device id="X2KAYTO-TOEDZUW-DQYNA2A-BQX3XKA-ZZAFU7T-HDV4F3H-7O6G5Y7-QLDXQAE" introducedBy="">
             <encryptionPassword></encryptionPassword>
         </device>
@@ -266,23 +178,13 @@
             <maxTotalSize>4096</maxTotalSize>
         </xattrFilter>
     </folder>
-    <device id="MREJZQ4-J3BOCXN-K3QWLT6-CQUB7JM-C5LXP7U-R6ISLBN-BO6D52N-E4SQIQH" name="kiPhone" compression="metadata" introducer="false" skipIntroductionRemovals="false" introducedBy="Y6BFNC4-TRQX3N7-62EDWWX-3ZF66NH-ZVBZ7LN-747QIEI-2UP3MCW-X4P2PQA">
+    <device id="NHNJFV5-JH57BK2-6EUYAJL-X65CEJ5-VFDIOJO-CXXZQYE-LCZI2ST-Y7F7SQI" name="Samsung S10" compression="metadata" introducer="false" skipIntroductionRemovals="false" introducedBy="">
         <address>dynamic</address>
         <paused>false</paused>
         <autoAcceptFolders>false</autoAcceptFolders>
         <maxSendKbps>0</maxSendKbps>
         <maxRecvKbps>0</maxRecvKbps>
-        <maxRequestKiB>0</maxRequestKiB>
-        <untrusted>false</untrusted>
-        <remoteGUIPort>0</remoteGUIPort>
-        <numConnections>0</numConnections>
-    </device>
-    <device id="NHNJFV5-JH57BK2-6EUYAJL-X65CEJ5-VFDIOJO-CXXZQYE-LCZI2ST-Y7F7SQI" name="Samsung S10" compression="metadata" introducer="true" skipIntroductionRemovals="false" introducedBy="">
-        <address>dynamic</address>
-        <paused>false</paused>
-        <autoAcceptFolders>false</autoAcceptFolders>
-        <maxSendKbps>0</maxSendKbps>
-        <maxRecvKbps>0</maxRecvKbps>
+        <ignoredFolder time="2024-03-06T07:20:04.275Z" id="k5trq-6dhte" label="Basic Sync"></ignoredFolder>
         <maxRequestKiB>0</maxRequestKiB>
         <untrusted>false</untrusted>
         <remoteGUIPort>0</remoteGUIPort>
@@ -305,6 +207,7 @@
         <autoAcceptFolders>false</autoAcceptFolders>
         <maxSendKbps>0</maxSendKbps>
         <maxRecvKbps>0</maxRecvKbps>
+        <ignoredFolder time="2024-03-06T08:19:19.514Z" id="k5trq-6dhte" label="Basic Sync"></ignoredFolder>
         <maxRequestKiB>0</maxRequestKiB>
         <untrusted>false</untrusted>
         <remoteGUIPort>0</remoteGUIPort>

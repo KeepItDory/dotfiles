@@ -1,0 +1,3 @@
+= thefuck =
+== the fuck did you mean!? ==
+- _$ yay -S thefuck_

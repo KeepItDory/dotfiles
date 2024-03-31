@@ -1,15 +1,26 @@
 = My Knowledge Base =
     * [[Tasks]] -- things to be done _yesterday_!!!
+
     * [[Scratchpad]] -- various temporary stuff.
+
     * [[Keebs]] -- Keyboard related wiki
       * [[Switches]]
+
     * [[Linux Notes]] -- My Linux notes
       * [[System tasks]] 
       * [[Linux System Setup]]
       * [[Packages]]
       * [[Performance Tweaks]]
+      * [[Hotkeys]]
       * [[Linux Cheat Sheets]]
+      * [[Game Notes]]
+
     * [[My Network]] -- Network notes
+
     * [[Phone]]
+
     * [[Pi Projects]]
+
     * [[Subaru]] -- Subaru notes
+      * [[Subaru Engines]]
+      * [[Forester Upgrade Plan]]

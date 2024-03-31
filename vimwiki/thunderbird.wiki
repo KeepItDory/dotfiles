@@ -1,0 +1,3 @@
+= thunderbird =
+== the email client a part of the mozilla suite ==
+- _$ yay -S thunderbird_

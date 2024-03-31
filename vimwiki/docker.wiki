@@ -1,5 +1,5 @@
 = docker =
-== replicatable containers ==
+== replicatable secure software delivery & containers ==
 - _$ yay -S docker_
 
 * Docker Guide

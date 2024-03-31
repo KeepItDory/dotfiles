@@ -1,0 +1,3 @@
+= gamescope =
+== steamOS session compositing window manager ==
+- _$ yay -S gamescope_

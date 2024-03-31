@@ -109,7 +109,7 @@ if [[ "$DESKTOP" == *"Enlightenment"* ]] || [[ "$DESKTOP" == *"Moksha"* ]]; then
 	# Remove all Variety wallpapers, but the current one and the previous one
 	#   as we are calling enlightenment_remote asynchronously, if the previous wallpaper hasn't been
 	#   replaced yet then the wallpaper will get set back to the theme one causing ugly artifacts
-	LAST_WALLPAPER_FILE="/home/ki/.config/variety/.enlightenment_last_wallpaper.txt"
+	LAST_WALLPAPER_FILE="$HOME/.config/variety/.enlightenment_last_wallpaper.txt"
 
 	if [ -e "$LAST_WALLPAPER_FILE" ]; then
 		find "$OUTPUT_DIR" -name "variety_wallpaper*.*" | grep -v "$OFILE.edj" | grep -v "$(cat "$LAST_WALLPAPER_FILE")" | xargs rm
@@ -126,20 +126,21 @@ fi
 if [ "${KDE_FULL_SESSION}" == "true" ]; then
 	# Plasma 5.7 introduced a new feature to set the wallpaper via a dbus script:
 	# https://github.com/KDE/plasma-workspace/commit/903cbfd7e267a4812a6ec222eb7e1b5dd775686f
-	if [[ -n "${KDE_SESSION_VERSION}" && "${KDE_SESSION_VERSION}" == '5' ]]; then
-		dbus-send --type=method_call --dest=org.kde.plasmashell /PlasmaShell org.kde.PlasmaShell.evaluateScript string:"
+	plasma_qdbus_script="
         let allDesktops = desktops();
         for (let d of allDesktops) {
             if (d.wallpaperPlugin == 'org.kde.image') {
                 d.currentConfigGroup = Array('Wallpaper', 'org.kde.image', 'General');
-                d.writeConfig('Image', 'file://""$WP""')
+                d.writeConfig('Image', 'file://""$WP""');
             }
         }
-        "
+    "
+	if [[ -n "${KDE_SESSION_VERSION}" && "${KDE_SESSION_VERSION}" -ge '5' ]]; then
+		dbus-send --type=method_call --dest=org.kde.plasmashell /PlasmaShell org.kde.PlasmaShell.evaluateScript string:"$plasma_qdbus_script"
 		# Reuse the exit code from dbus
 		dbus_exitcode="$?"
 
-		if [[ "$dbus_exitcode" -ne 0 ]]; then
+		if [[ "$dbus_exitcode" -ne 0 && "${KDE_SESSION_VERSION}" -eq '5' ]]; then
 			# If the script fails, show a notification.
 			kdialog --title "Variety: cannot change Plasma wallpaper" --passivepopup "Could not change the Plasma 5 wallpaper; \
                 make sure that you're using Plasma 5.7+ and have widgets unlocked.\n----\n \
@@ -219,32 +220,33 @@ if [[ " ${SIMPLE_WMS[*]} " = *" $XDG_CURRENT_DESKTOP "* || " ${SIMPLE_WMS[*]} " 
 	" ${SIMPLE_WMS[*]} " = *" $DESKTOP_SESSION "* ]]; then
 	if command -v "feh" >/dev/null 2>&1; then
 		# TODO: This should take the scaling parameter $4 into account and use other options than --bg-fill
-		feh --bg-fill "$WP" 2>/dev/null
-		wpg -A $1
+		fehwpg -A $1
 		wpg -s $1
 		pywal-discord -t default -p ~/.config/vesktop/themes/
 		pywal-discord -t abou -p ~/.config/vesktop/themes/
 		pywalfox update
 		pkill glava
-		glava
-
-	elif
-		command -v "nitrogen" >/dev/null 2>:q &
-		1
-	then
+		glava --bg-fill "$WP" 2>/dev/null
+	elif command -v "nitrogen" >/dev/null 2>&1; then
 		# TODO: This should take the scaling parameter $4 into account and use other options than --set-zoom-fill
-		nitrogen --set-zoom-fill --save "$WP" 2>/dev/null
+		nitrwpg -A $1
+		wpg -s $1
+		pywal-discord -t default -p ~/.config/vesktop/themes/
+		pywal-discord -t abou -p ~/.config/vesktop/themes/
+		pywalfox update
+		pkill glava
+		glavaogen --set-zoom-fill --save "$WP" 2>/dev/null
 	fi
 fi
-
-if [[ -n $SWAYSOCK || $XDG_CURRENT_DESKTOP == "Hyprland" ]]; then
+PID=$(pidof swaybg)
+if [[ -n $PID ]]; then
 	# If swaybg is available, use it as prevents system freeze.
 	# See https://github.com/swaywm/sway/issues/5606
 	if command -v "swaybg" >/dev/null 2>&1; then
 		# Grey background flicker is prevented by killing old swaybg process after new one.
 		# See https://github.com/swaywm/swaybg/issues/17#issuecomment-851680720
-		PID=$(pidof swaybg)
-		swaybg -i "$WP" -m fill &
+		# swaybg -i "$WP" -m fill &
+		swww img --resize crop -t random --transition-pos 0.854,0.977 --transition-step 20 --transition-angle 30 --transition-fps 60 $WP &
 		if [ ! -z "$PID" ]; then
 			sleep 1
 			kill $PID 2>/dev/null
@@ -284,6 +286,23 @@ fi
 # As such, the theme's wallpaper will briefly appear before being replaced with Variety's wallpaper.
 if [[ "$XDG_SESSION_DESKTOP $DESKTOP_STARTUP_ID $DESKTOP_SESSION $XDG_CURRENT_DESKTOP" == *"awesome"* ]]; then
 	echo "for s in screen do require(\"gears\").wallpaper.maximized(\"$1\", s) end" | awesome-client
+fi
+
+if [[ $XDG_SESSION_DESKTOP == "hyprland" ]]; then
+	# If swaybg is available, use it as prevents system freeze.
+	# See https://github.com/swaywm/sway/issues/5606
+	if command -v "swaybg" >/dev/null 2>&1; then
+		# Grey background flicker is prevented by killing old swaybg process after new one.
+		# See https://github.com/swaywm/swaybg/issues/17#issuecomment-851680720
+		PID=$(pidof swaybg)
+		swaybg -i "$WP" -m fill &
+		if [ ! -z "$PID" ]; then
+			sleep 1
+			kill $PID 2>/dev/null
+		fi
+	else
+		swaymsg output "*" bg "$WP" fill 2>/dev/null
+	fi
 fi
 
 # =====================================================================================

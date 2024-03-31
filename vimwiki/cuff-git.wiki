@@ -1,0 +1,3 @@
+= cuff-git =
+== a query for the jackett search API from the command line ==
+- _$ yay -S cuff-git_

@@ -1,0 +1,4 @@
+= Game notes =
+== A collection of notes on games, bug fixes, guides, anything ==
+
+* [[Guild Wars 2]]

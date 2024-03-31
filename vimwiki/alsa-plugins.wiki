@@ -1,0 +1,3 @@
+= alsa-plugins =
+== plugins for alsa i guess ==
+- _$ yay -S alsa-plugins_

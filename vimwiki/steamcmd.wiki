@@ -1,0 +1,3 @@
+= steamcmd =
+== a CLI tool for steam ==
+- _$ yay -S steamcmd_

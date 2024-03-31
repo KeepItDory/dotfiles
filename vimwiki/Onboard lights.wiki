@@ -1,0 +1,11 @@
+= Onboard lights =
+== A document looking at onboard lights for the subaru ==
+
+* Light bar
+  - Location: Front of Roof Rack
+
+* Flood lights
+ - Location: Hood clipped in front of windshield
+ 
+ * Backup lights:
+  - Fit into rear bumper?

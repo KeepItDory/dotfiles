@@ -1,0 +1,3 @@
+= font-manager =
+== a font manager, duh ==
+- _$ yay -S font-manager_

@@ -1,0 +1,3 @@
+= hyprland =
+== wayland based tiling and floating window manager ==
+- _$ yay -S hyprland_

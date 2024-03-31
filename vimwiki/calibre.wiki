@@ -1,0 +1,3 @@
+= calibre =
+== an ebook manager and editor ==
+- _$ yay -S calibre_

@@ -1,0 +1,3 @@
+= mpd =
+== music player daemon ==
+- _$ yay -S mpd_

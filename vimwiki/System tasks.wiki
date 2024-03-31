@@ -1,43 +1,63 @@
 = System tasks =
 == A document of things to do on your linux system ==
 TODO:
-* [ ] Install polybar module duntst-snooze
-* [ ] Install polybar module openweathermap-simple
-* [ ] Install and fix polybar module ixwindow
-* [ ] Install polybar module gmail
-* [ ] Is maim your screenshot tool? It probably should be. Check your rofi screenshot script
-* [ ] Install vim orgmode
-* [ ] Install [[tdrop]]
+* [ ] Setup [[hyprland]]
+  * [ ] Setup WOFI
+    * [ ] Make app launcher
+    * [ ] Make power menu
+    * [ ] Make screenshot menu
+  * [ ] Setup wallpaper
+  * [ ] Check out EWW
+  * [ ] Setup [[waybar]]
+   * [ ] Install [[waybar]]
+  * [ ] Setup [[pywal]]/[[wpgtk]]
+  * [ ] Setup taskbar panel
+  * [ ] Setup [[swaylock]]
+  * [ ] Setup wlogout
+    * - Hyprland config seems to not find script. Was the problem the period instead of comma? Probably
+
+* [.] [[polybar]]:
+  * [ ] Install polybar module dunst-snooze
+  * [ ] Install polybar module openweathermap-simple
+  * [ ] Install and fix polybar module ixwindow
+  * [X] Install polybar module gmail | DOESNT WORK
+  * [ ] Fix polybar temperature module
+  * [ ] Install polybar-pulseaudio-control
+  * [ ] Install bar-gmail and bar-protonmail
+  * [X] install openweathermap-fullfeatured for polybar | DOES NOT SHOW UP
+  * [ ] Install polybar-qbittorrent
+  * [ ] Figure out why polybar_online status module isn't showing up.
+git clone https://github.com/LazyVim/starter ~/.config/nvim
+* [ ] [[neovim]]:
+  * [ ] Try Kodo nvim config
+  * [ ] Try NVchad config
+  * [ ] Try chatgpt nvim plugin, maybe fix some polybar modules
+  * [ ] Try neorg for vim
+  * [ ] Install vim orgmode
+  * [ ] Copy pywal cheatsheet to an .org document
+
+* [ ] Setup [[tdrop]]
   * [ ] Configure [[tdrop]] to dock at top and centered
-* [ ] Install pttabs
-* [ ] Make hotkeys and shortcuts to change the wallpaper in variety =
-  * [ ] Fix hotkeys giving fetch error. Not working
-* [ ] install openweathermap-fullfeatured for polybar
-* [ ] Figure out why polybar_online status module isn't showing up.
-* [ ] Install rofi-wifi-menu
-* [ ] Install polybar-qbittorrent
-* [ ] Try Kodo nvim config
-* [ ] Try orgmode for vim
-* [ ] Try neorg for vim
-* [ ] Try mpv-discordRPC or mpvcord
-* [ ] Try mpv-autosub
-* [ ] Try rofi-pulse
-* [ ] Fix polybar temperature module
-* [ ] Install polybar-pulseaudio-control
-* [ ] Install bar-gmail and bar-protonmail
-* [ ] Install poison firefox theme
-* [ ] Install context icons plugin for discord
-* [ ] Copy pywal cheatsheet to an .org document
-* [ ] Utilize ROFI wally and rofi-configmenu.sh scripts
-* [ ] Look into rofi-cuff
-* [ ] setup chat clients
-* [ ] Research jackett
-* [ ] Setup hyprland
-* [X] Reinstall Linux System. EndeavourOS, but also leave Room for a secondary Linux OS
-* [ ] Figure out ProtonVPN bullshit
-* [ ] Lube FEKER IK75 Stabalizers
-* [ ] Sync phone photos with PC using syncthing
+  * [ ] Install pttabs
+
+* [ ] [[discord]]:
+  * [ ] Try mpv-discordRPC or mpvcord
+  * [ ] Install context icons plugin for discord
+
+* [ ] [[rofi]]
+  * [ ] Utilize ROFI wally and rofi-configmenu.sh scripts
+  * [ ] Look into rofi-cuff
+  * [ ] Install rofi-wifi-menu
+  * [ ] Try rofi-pulse
+
 * [ ] Photo cleaning
   * [ ] Sort through photos in backup
-  * [ ] Download all iCloud and Google Drive photos any any photos in any other clouds
   * [ ] Backup to Proton Drive
+  * [ ] Figure out dow to download iCloud photos
+
+* [X] Make hotkeys and shortcuts to change the wallpaper in variety | GIVES FETCH ERROR NEED FIXING
+* [ ] Try mpv-autosub
+* [ ] Install poison firefox theme
+* [ ] setup chat clients
+* [ ] Research jackett
+

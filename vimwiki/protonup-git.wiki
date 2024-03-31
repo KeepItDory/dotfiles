@@ -1,0 +1,5 @@
+= protonup-git =
+== a CLI tool for downloading the latest version of proton-GE ==
+
+- _$ yay -S protonup-git_
+- _$ protonup_

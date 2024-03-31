@@ -1,0 +1,4 @@
+= wofi =
+== a wayland based application launcher ==
+
+- _$ yay -S wofi_

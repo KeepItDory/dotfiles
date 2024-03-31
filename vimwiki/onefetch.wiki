@@ -1,0 +1,4 @@
+= onefetch =
+== CLI fetcher for git repository's
+
+_ _$ yay -S onefetch_

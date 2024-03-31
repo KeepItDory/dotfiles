@@ -29,4 +29,5 @@
         - Open source app store
       * Aurora Store
         - Privacy minded google play store frontend
-
+    * eBook Reader
+      * LiberaFD

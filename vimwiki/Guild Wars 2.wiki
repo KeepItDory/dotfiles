@@ -1,0 +1,5 @@
+= Guild Wars 2 =
+== Guild wars 2 notes ==
+
+- To login to the normal portal through steam add the following in the launch options
+  - _-provider Portal_

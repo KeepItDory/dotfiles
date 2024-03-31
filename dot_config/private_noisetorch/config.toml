@@ -1,7 +1,7 @@
 Threshold = 95
-DisplayMonitorSources = false
+DisplayMonitorSources = true
 EnableUpdates = true
 FilterInput = true
-FilterOutput = false
+FilterOutput = true
 LastUsedInput = "alsa_input.usb-Corsair_Corsair_HS60_PRO_Surround_USB_Sound_Adapter_00000000-00.mono-fallback"
-LastUsedOutput = ""
+LastUsedOutput = "alsa_output.usb-Corsair_Corsair_HS60_PRO_Surround_USB_Sound_Adapter_00000000-00.analog-stereo"

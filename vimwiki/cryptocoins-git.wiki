@@ -1,0 +1,3 @@
+= cryptocoins-git =
+== a cryptocoins webfont pack ==
+- _$ yay -S cryptocoins-git_

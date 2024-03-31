@@ -1,0 +1,4 @@
+= swaylock =
+== a wayland compatible lockscreen ==
+
+- _$ yay -S swaylock_

@@ -1,0 +1,28 @@
+= switches =
+== A document of mechanical keyboard switches ==
+
+* TTC Browns
+  - Tactile
+  - 55g acutation
+  - 60g bottom-out
+   
+* TCC Reds
+  - Linear
+  - 45g acutation
+  - 75 bottom-out
+   
+* Dang Keebs Halu Halo
+  - Linear
+  - 63.5g bottom-out
+* Akko Lavender CS Purples
+  - Tactile
+  - 36g acutation
+  - 55g bottom out
+  - 0.2mm tactile acutation
+  - 3.8mm bottom-out
+* MMD Holy Panda Clones
+  - Tactile
+  - 62g bottom-out
+* MMD Princesses
+  - Tactile
+  - 60g bottom-out

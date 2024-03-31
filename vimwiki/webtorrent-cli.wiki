@@ -1,0 +1,3 @@
+= webtorrent-cli =
+== a cli tool for torrenting ==
+- _$ yay -S webtorrent-cli_

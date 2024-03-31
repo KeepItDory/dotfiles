@@ -1,0 +1,4 @@
+= waybar =
+== a customizable bar for wayland ==
+
+- _$ yay -S [[waybar]]

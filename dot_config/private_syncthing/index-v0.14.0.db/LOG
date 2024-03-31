@@ -212,3 +212,29 @@
 23:07:58.701113 version@stat F·[0 1] S·1MiB[0B 1MiB] Sc·[0.00 0.01]
 23:07:58.734376 table@compaction committed F-1 S-791B Ke·0 D·33 T·95.735509ms
 23:07:58.734643 table@remove removed @45
+=============== Mar 5, 2024 (PST) ===============
+20:10:55.888172 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+20:10:55.921218 version@stat F·[0 1] S·1MiB[0B 1MiB] Sc·[0.00 0.01]
+20:10:55.921234 db@open opening
+20:10:55.921273 journal@recovery F·2
+20:10:55.921452 journal@recovery recovering @47
+20:10:55.933601 journal@recovery recovering @135
+20:10:56.004869 memdb@flush created L0@136 N·127 S·4KiB "\x00\x00\x00..png,v23053":"\x0e\x00\x00..png,v23068"
+20:10:56.004887 version@stat F·[1 1] S·1MiB[4KiB 1MiB] Sc·[0.25 0.01]
+20:10:56.297647 memdb@flush created L0@138 N·6553 S·588KiB "\x00\x00\x00..pub,v233810":"\x0e\x00\x00..MOV,v235056"
+20:10:56.297873 version@stat F·[2 1] S·1MiB[592KiB 1MiB] Sc·[0.50 0.01]
+20:10:56.393144 db@janitor F·9 G·4
+20:10:56.393156 db@janitor removing table-133
+20:10:56.405841 db@janitor removing table-46
+20:10:56.415905 db@janitor removing manifest-136
+20:10:56.425011 db@janitor removing table-134
+20:10:56.425049 db@open done T·503.810054ms
+20:10:57.874419 table@compaction L0·2 -> L1·1 S·1MiB Q·240336
+20:10:58.007127 table@build created L1@140 N·18646 S·1MiB "\x00\x00\x00..der,v297":"\x0e\x00\x00..png,v8317"
+20:10:58.007156 version@stat F·[0 1] S·1MiB[0B 1MiB] Sc·[0.00 0.02]
+20:10:58.123906 table@compaction committed F-2 S+52KiB Ke·0 D·355 T·249.465245ms
+20:10:58.124045 table@remove removed @138
+20:10:58.147838 table@remove removed @49
+=============== Mar 6, 2024 (PST) ===============
+00:19:38.966780 db@close closing
+00:19:38.993383 db@close done T·26.601504ms

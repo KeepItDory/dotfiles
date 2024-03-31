@@ -1,0 +1,3 @@
+= protondb-tags =
+== A tool to pull ratings from protondb and import them into your steam library as tags ==
+- _$ yay -S protondb-tags_
