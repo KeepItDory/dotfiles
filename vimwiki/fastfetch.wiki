@@ -1,0 +1,5 @@
+= fastfetch =
+== a CLI fetch tool, like neofetch ==
+
+* Install using
+  - $ yay -S fastfetch

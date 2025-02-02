@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-wpg -rs '/home/ki/.config/variety/Favorites/photo-1661566306732-fe7ef26a8003.jpg' '/home/ki/.config/variety/Favorites/photo-1661566306732-fe7ef26a8003.jpg'
+wpg -rs '/home/ki/.config/variety/Downloaded/unsplash-search_Pacific_Northwest/photo-1524959725226-f4deb958e979.jpg' '/home/ki/.config/variety/Downloaded/unsplash-search_Pacific_Northwest/photo-1524959725226-f4deb958e979.jpg'

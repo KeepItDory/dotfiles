@@ -1,6 +1,11 @@
 [DetailsMode]
 PreviewSize=16
 
+[ExtractDialog]
+3840x2160 screen: Height=1080
+3840x2160 screen: Width=2216
+DirHistory[$e]=/mnt/Blaziken/GoPro/10-8-24 Blue River/
+
 [General]
 Version=202
 ViewPropsTimestamp=2024,3,6,15,39,19.764

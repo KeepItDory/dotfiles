@@ -1,0 +1,6 @@
+= swww =
+== an animated wallpaper daemon ==
+
+* Install using
+  - $ yay -S swww
+* if it crashes to a black screen simply run swww-daemon

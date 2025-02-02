@@ -1,0 +1,5 @@
+= lm_sensors =
+== for interacting with sensors ==
+
+* Install using
+  - $ yay -S lm_sensors

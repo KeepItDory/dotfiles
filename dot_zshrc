@@ -518,3 +518,7 @@ neofetch
 #colorscript random
 
 source /home/ki/.config/broot/launcher/bash/br
+
+. "$HOME/.atuin/bin/env"
+
+eval "$(atuin init zsh)"

@@ -21,7 +21,7 @@
     - Media Player: mpv
     - Backgrounds by: variaty
     - Bar: [[polybar]]
-    - Colors: [[pywal]] and wpgtk (currently using colorz backend, imagemagick seems to be broken for pywal)
+    - Colors: [[pywal]] and wpgtk (currently using colorz backend, imagemagick seems to be broken for [[pywal]])
 
   * Hyprland
     * Applications
@@ -156,7 +156,7 @@
         - then run _$ sudo grub-mkconfig -o /boot/grub/grub.cfg_
 
     - [X] Setup [[glava]]
-      - [ ] Copy and edit config file
+      - [X] Copy and edit config file
         - _$ glava --copy-config_
         - In config set for below, clickthrough, and fullscreen, and add a template for wpg
 
@@ -231,12 +231,26 @@
         - Set CPU to Performance Frenquency Governor
       - [X] Add CoreCtrl to autostart
 
+    - [ ] Setup swaync
+      - [ ] Install swaync
+        - $ yay -S swaync
+      - [ ] Config swaync
+        - copy the config from /etc/xdg/swaync/ to ~/.config/swaync/
+      - [ ] add swaync to autostart
+
     - [X] Setup Archlinux-tweak-tool
       - [X] Install arch-linux-tweak-tool
       - [X] Install Arcolinux Repo keys and mirrors
         - In the pacman tab
       - [X] Install all Icons, Cursors and Fonts
         - In the design tab
+
+    -  [X] Setup atuin
+      - [X] Run the following commands
+        $ curl --proto '=https' --tlsv1.2 -LsSf https://setup.atuin.sh | sh
+        $ atuin register -u <USERNAME> -e <EMAIL>
+        $ atuin import auto
+        $ atuin sync
 
     - [X] Setup Email
       - [X] Make sure protonmail-bridge package is installed
@@ -319,8 +333,6 @@
             - [X] add rofi shortcut to keyboard hotkeys
               - _rofi -show drun -kb-cancel 'Control_L+Shift_L+Super_L'_
               - or add _rofi -show drun -kb-cancel_  to another keyboard shortcut command program
-          - [ ] NO Setup basic apps ROFI
-            - bind adi1090x's apps.sh to SUPER + SPACE
           - [X] Setup screenshot ROFI
            - bind adi1090x's screenshot.sh to SUPER + DELETE
           - [X] Setup powermenu ROFI
@@ -338,16 +350,17 @@
           - _$ pipx install subliminal_
         - [X] Install mpv-thumbfast plugin
 
-    - [X] Setup NeoVim
+    - [O] Setup NeoVim
       - [X] Install NeoVim
         - sudo pacman -S neovim
-      - [X] Config NeoVim
+      - [O] Config NeoVim
         - Honestly just install the LazyNvim config
         - [X] Install Vim Plugin manager
           - User lazy.nvim
-       - [X] Decide on best statusline
+        - [o] Decide on best statusline
           - Galaxyline
-       - [X] Configure nvim-notify
+          - [ ] Install Galaxyline
+         - [X] Configure nvim-notify
 
     - [X] Setup [[picom]]
       - [X] Install jonaburg version of [[Picom]]
@@ -387,8 +400,8 @@
           _wpg -s $1_
       - [ ] Add shortcuts for changing wallpapers
 
-    - [X] Setup MPD
-      - [X] Configure ~/.config/mpd/mpd.conf
+    - [ ] Setup MPD
+      - [ ] Configure ~/.config/mpd/mpd.conf
         - Uncomment music_directory, db_file, pid_file and state_file. Set a location for all these as you like.
         - Scroll down and uncomment bind_to_address. Change the value to “localhost” or to a different address if you want. Next uncomment port. Let it stay at the default value, which is “6600”.
         - Now uncomment the alsa output section
@@ -409,8 +422,8 @@
            type            "pipewire"
            name            "Pipewire Sound Server"
          }
-
-      - [X] Start MPD daemon
+      
+      - [ ] Start MPD daemon
         - systemctl --user enable mpd.service
 
     - [X] Pipewire tweaks
@@ -431,7 +444,7 @@
         - to add a file use this command
           $ chezmoi add $FILEPATH
         - [X] Edit the source state
-          - to edit the source state use this command
+    - to edit the source state use this command
             _$ edit $FILEPATH_
             This will open the file located in _~/.local/share/chezmoi/dot_$FILEPATH_
         - [X] see what changes would be made
@@ -481,12 +494,10 @@
           _byobu &_
         
     - [O] Setup pywal
-      - And by Pywal we mean WPGTK
+      - And by Pywal we mean wpgtk
       - [X] Set varaiety set wallpaper script to use pywal scripts
         - add this line to ~/.config/varaiety/scripts/set_wallpaper
         - wpg -s $1
-      - [X] Setup Pywal Discord
-        - Requires Better Discord, which you should use anyway
       - [X] Try pywal-discord
         - [X] Install pywal-discord
           - $ yay -S pywal-discord-git
@@ -496,8 +507,9 @@
           - $ pywal-discord -t default
           - If using vencord use
           - $ pywal-discord -t default -p ~/.config/VencordDesktop/VencordDesktop/themes/
-      - [X] Setup pywal for nvim
-        - [X] Use plugin dylanaraps/wal.vim
+      - [ ] Setup wpgtk for hyprland colors
+      - [ ] Setup wpgtk for nvim
+        - [ ] Use plugin dylanaraps/wal.vim
           - if using lazy.nvim for plugins which you should, then use this lua snippet
 
             return {
@@ -515,6 +527,7 @@
 
           - or you can try deviantfero/wpgtk.vim
       - [X] Setup pywal for glava
+        - add to wpgtk templates
       - [X] Setup pywal for Firefox
         - [X] Add command to set_wallpaper script to update colorscheme
           - $ pywalfox update
@@ -527,7 +540,7 @@
       - [X] Setup pywal for tint2
       - [?] Setup pywal for ROFI
         - For some reason adi1090x's color schemes wont update
-      - [ ] Setup jgmenu for pywal
+      - [X] Setup jgmenu for pywal
 
     - [.] Setup [[jgmenu]]
       - [X] Install jgmenu

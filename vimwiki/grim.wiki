@@ -1,0 +1,5 @@
+= grim =
+== a simple screenshot tool ==
+
+* Install using
+  - $ yay -S grim

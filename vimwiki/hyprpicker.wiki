@@ -1,0 +1,5 @@
+= hyprpicker =
+== a wayland compatible color picker ==
+
+* Install using
+  - $ yay -S hyprpicker

@@ -238,3 +238,69 @@
 =============== Mar 6, 2024 (PST) ===============
 00:19:38.966780 db@close closing
 00:19:38.993383 db@close done T·26.601504ms
+=============== Sep 15, 2024 (PDT) ===============
+21:59:43.350297 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+21:59:43.351225 CURRENT: missing target file: MANIFEST-000137
+21:59:43.466057 version@stat F·[0 1] S·1MiB[0B 1MiB] Sc·[0.00 0.01]
+21:59:43.466084 db@open opening
+21:59:43.466132 journal@recovery F·1
+21:59:43.466301 journal@recovery recovering @47
+21:59:43.524328 memdb@flush created L0@50 N·127 S·4KiB "\x00\x00\x00..png,v23053":"\x0e\x00\x00..png,v23068"
+21:59:43.524430 version@stat F·[1 1] S·1MiB[4KiB 1MiB] Sc·[0.25 0.01]
+21:59:43.641868 db@janitor F·5 G·1
+21:59:43.641877 db@janitor removing table-46
+21:59:43.641904 db@open done T·175.816065ms
+21:59:44.140905 memdb@flush N·17 S·381B
+21:59:44.183877 memdb@flush created L0@54 N·17 S·305B "\b\x00\x00..\x00\x00\x00,d23102":"\ndb..ion,v23113"
+21:59:44.183905 version@stat F·[2 1] S·1MiB[4KiB 1MiB] Sc·[0.50 0.01]
+21:59:44.217273 memdb@flush committed F·1 T·76.337117ms
+21:59:44.217310 journal@remove removed @51
+21:59:44.217321 table@compaction range L-1 "":""
+21:59:44.217331 table@compaction L0·2 -> L1·1 S·1MiB Q·23118
+21:59:44.300859 table@build created L1@55 N·12330 S·1MiB "\x00\x00\x00..der,v297":"\x0e\x00\x00..png,v8317"
+21:59:44.300900 version@stat F·[0 1] S·1MiB[0B 1MiB] Sc·[0.00 0.01]
+21:59:44.334293 table@compaction committed F-2 S-2KiB Ke·0 D·135 T·116.947105ms
+21:59:44.334413 table@remove removed @54
+21:59:44.334620 table@remove removed @49
+22:05:56.734502 db@close closing
+22:05:56.734593 db@close done T·92.309µs
+=============== Sep 15, 2024 (PDT) ===============
+22:05:57.747902 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+22:05:57.748006 version@stat F·[0 1] S·1MiB[0B 1MiB] Sc·[0.00 0.01]
+22:05:57.748023 db@open opening
+22:05:57.748060 journal@recovery F·1
+22:05:57.748195 journal@recovery recovering @53
+22:05:57.812118 memdb@flush created L0@56 N·16292 S·2MiB "\x00\x00\x00..png,v23509":"\x11N\xc6..}\xac\xfb,v29801"
+22:05:57.812357 version@stat F·[1 1] S·3MiB[2MiB 1MiB] Sc·[0.25 0.01]
+22:05:58.283528 db@janitor F·5 G·1
+22:05:58.283546 db@janitor removing table-50
+22:05:58.283579 db@open done T·535.551065ms
+22:05:58.744156 table@compaction L0·1 -> L1·1 S·3MiB Q·39411
+22:05:58.805671 table@build created L1@59 N·11125 S·2MiB "\x00\x00\x00..der,v297":"\r\xa1o..\xa7\xbcE,v27854"
+22:05:58.848040 table@build created L1@60 N·429 S·645KiB "\r\xa2\x17..\xe41H,v30619":"\x0e\x00\x00..png,v11861"
+22:05:58.848069 version@stat F·[0 2] S·2MiB[0B 2MiB] Sc·[0.00 0.03]
+22:05:58.898169 table@compaction committed F~ S-933KiB Ke·0 D·17068 T·153.993163ms
+22:05:58.898420 table@remove removed @55
+=============== Sep 16, 2024 (PDT) ===============
+00:35:39.778877 db@close closing
+00:35:39.779262 db@close done T·383.697µs
+=============== Nov 3, 2024 (PST) ===============
+15:53:56.248834 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+15:53:56.296074 version@stat F·[0 2] S·2MiB[0B 2MiB] Sc·[0.00 0.03]
+15:53:56.296089 db@open opening
+15:53:56.296122 journal@recovery F·1
+15:53:56.296229 journal@recovery recovering @57
+15:53:56.456838 memdb@flush created L0@61 N·29503 S·2MiB "\x00\x00\x00..der,v41198":"\x11N\xc6..}\xac\xfb,v39811"
+15:53:56.457110 version@stat F·[1 2] S·4MiB[2MiB 2MiB] Sc·[0.25 0.03]
+15:53:56.648907 db@janitor F·6 G·1
+15:53:56.648922 db@janitor removing table-56
+15:53:56.661807 db@open done T·365.713807ms
+15:53:57.296329 table@compaction L0·1 -> L1·2 S·4MiB Q·68916
+15:53:57.398066 table@build created L1@64 N·12264 S·2MiB "\x00\x00\x00..der,v41198":"\ri8..\x0e\x1d6,v11818"
+15:53:57.520527 table@build created L1@65 N·737 S·1MiB "\ri\xac..\x12\x94{,v4772":"\x10\x00\x00..tos,v68910"
+15:53:57.520610 version@stat F·[0 2] S·3MiB[0B 3MiB] Sc·[0.00 0.03]
+15:53:57.617598 table@compaction committed F-1 S-1MiB Ke·0 D·28056 T·321.242567ms
+15:53:57.617848 table@remove removed @59
+15:53:57.617925 table@remove removed @60
+16:09:43.644237 db@close closing
+16:09:43.644560 db@close done T·322.587µs

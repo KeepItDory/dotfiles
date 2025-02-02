@@ -1,0 +1,5 @@
+= mullvad-vpn-bin =
+== the mullvad vpn tool ==
+
+* Install using
+  - $ yay -S mullvad-vpn-bin

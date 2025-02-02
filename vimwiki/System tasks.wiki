@@ -1,15 +1,17 @@
 = System tasks =
 == A document of things to do on your linux system ==
 TODO:
-* [ ] Setup [[hyprland]]
-  * [ ] Setup WOFI
-    * [ ] Make app launcher
+* [.] Setup [[hyprland]]
+  * [.] Setup WOFI
+    * [X] Make app launcher
     * [ ] Make power menu
     * [ ] Make screenshot menu
-  * [ ] Setup wallpaper
+  * [ ] Setup [[wallpaper]]
   * [ ] Check out EWW
-  * [ ] Setup [[waybar]]
-   * [ ] Install [[waybar]]
+  * [X] Setup atuin
+  * [o] Setup [[waybar]]
+   * [X] Install [[waybar]]
+   * [ ] Configure [[waybar]]
   * [ ] Setup [[pywal]]/[[wpgtk]]
   * [ ] Setup taskbar panel
   * [ ] Setup [[swaylock]]
@@ -27,21 +29,23 @@ TODO:
   * [X] install openweathermap-fullfeatured for polybar | DOES NOT SHOW UP
   * [ ] Install polybar-qbittorrent
   * [ ] Figure out why polybar_online status module isn't showing up.
-git clone https://github.com/LazyVim/starter ~/.config/nvim
-* [ ] [[neovim]]:
+
+* [.] [[neovim]]:
   * [ ] Try Kodo nvim config
   * [ ] Try NVchad config
   * [ ] Try chatgpt nvim plugin, maybe fix some polybar modules
   * [ ] Try neorg for vim
-  * [ ] Install vim orgmode
+  * [X] Install vim orgmode
   * [ ] Copy pywal cheatsheet to an .org document
 
 * [ ] Setup [[tdrop]]
   * [ ] Configure [[tdrop]] to dock at top and centered
   * [ ] Install pttabs
 
-* [ ] [[discord]]:
-  * [ ] Try mpv-discordRPC or mpvcord
+* [.] [[discord]]:
+  * [o] Try mpv-discordRPC or mpvcord
+    * [X] Install mpv-discordRPC
+    * [ ] Setup mpv-discordRPC
   * [ ] Install context icons plugin for discord
 
 * [ ] [[rofi]]

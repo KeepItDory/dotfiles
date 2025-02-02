@@ -1,0 +1,5 @@
+= swaync =
+== a wayland notification daemon and manager ==
+
+* Install using
+  - $ yay -S swaync

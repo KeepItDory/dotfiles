@@ -189,3 +189,6 @@ export PATH=$PATH:/
 neofetch
 
 source /home/ki/.config/broot/launcher/bash/br
+
+[[ -f ~/.bash-preexec.sh ]] && source ~/.bash-preexec.sh
+eval "$(atuin init bash)"

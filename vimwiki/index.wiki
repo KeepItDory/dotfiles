@@ -12,15 +12,7 @@
       * [[Packages]]
       * [[Performance Tweaks]]
       * [[Hotkeys]]
-      * [[Linux Cheat Sheets]]
-      * [[Game Notes]]
-
-    * [[My Network]] -- Network notes
-
-    * [[Phone]]
-
-    * [[Pi Projects]]
-
+      * [[Lin
     * [[Subaru]] -- Subaru notes
       * [[Subaru Engines]]
       * [[Forester Upgrade Plan]]

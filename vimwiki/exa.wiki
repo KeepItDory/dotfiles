@@ -1,0 +1,5 @@
+= exa =
+== a command line directory viewer, like ls but better
+
+* Install using
+  - $ yay -S exa

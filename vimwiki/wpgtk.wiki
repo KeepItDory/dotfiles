@@ -1,0 +1,5 @@
+= wpgtk =
+== creates a pywal/base16 theme from an image/wallpaper and manages templates ==
+
+* Install using
+  - $ yay -S wpgtk

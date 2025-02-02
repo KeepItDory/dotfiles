@@ -1,0 +1,5 @@
+= wlogout =
+== a wayland compatible logout tool ==
+
+* Install using
+  - $ yay -S wlogout
